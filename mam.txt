@@ -22202,6 +22202,12 @@ C00000-CFFFFF     (base 16)		Terrestar Solutions Inc
 				Shenzhen  Guangdong  518100
 				CN
 
+80-77-86   (hex)		Daisy Audio Inc.
+000000-0FFFFF     (base 16)		Daisy Audio Inc.
+				500 N Central Ave. Suite 600
+				Glendale  CA  91203
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -29494,6 +29500,12 @@ D00000-DFFFFF     (base 16)		Applied Energy Technologies Pvt Ltd
 				Sr. No. 81/5, Dangat Patil Industrial Estate, Shivne, Pune, Maharashtra, India
 				Pune  Maharashtra  411023
 				IN
+
+80-77-86   (hex)		Mach
+B00000-BFFFFF     (base 16)		Mach
+				2002 Bethel Rd Ste 105
+				Finksburg  MD  21048
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -36978,4 +36990,10 @@ B4-AB-F3   (hex)		FrontGrade Technologies
 300000-3FFFFF     (base 16)		Demeas
 				2106, 21st Floor, Building D, Tsinghua Science Park, Keji 2nd Road, Hi-Tech Zone
 				xi'an  shaanxi  710000
+				CN
+
+80-77-86   (hex)		Cornerstone Technology (Shenzhen) Limited
+C00000-CFFFFF     (base 16)		Cornerstone Technology (Shenzhen) Limited
+				Room 43D, Unit 1, China Energy Storage Building, High-tech Zone Community, Yuehai Street, Nanshan District
+				Shenzhen  Guangdong  518000
 				CN
