@@ -36997,3 +36997,9 @@ C00000-CFFFFF     (base 16)		Cornerstone Technology (Shenzhen) Limited
 				Room 43D, Unit 1, China Energy Storage Building, High-tech Zone Community, Yuehai Street, Nanshan District
 				Shenzhen  Guangdong  518000
 				CN
+
+80-77-86   (hex)		ADIANCE TECHNOLOGIES PVT LTD
+500000-5FFFFF     (base 16)		ADIANCE TECHNOLOGIES PVT LTD
+				House 7 Arista At Eight Corporate House Rajpath Rangoli road Bodakdev Ahmedabad
+				AHMEDABAD  Gujarat  380054
+				IN
