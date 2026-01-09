@@ -1003,7 +1003,6 @@ EtherType,8745,Siemens  AG,Otto-Han-Ring-6 Munich  DE D-81739 ,Protocol unavaila
 EtherType,8908,Waves Audio LTD,"Azrilei Center 3, Triangle tower Tel Aviv Central IL 67023 ","Following the EtherType are the following fields, 2 bytes each in little-endian order:
 Workgroup ID, Destination LUN, Source LUN, Opcode. The combination of the first three fields along with the Ethernet address is used for classifying packets into flows. The Opcode field determines the structure of the information contained in the remaining part of the packet. Detailed information regarding the packet structure for different opcode values is not being made public at this time."
 EtherType,88DC,IEEE P1609 WG,3800 N Fairfax Drive #207 Arlington VA US 22203-1759 , (WAVE) Short Message Protocol (WSM) 
-EtherType,88AB,ETHERNET Powerlink Standarization Group (EPSG),Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
 EtherType,86DD,USC/ISI,4676 Admiralty Way Marina del Rey CA US 90292 ,Internet Protocol Version 6 (IPV6)
 EtherType,86DF,University of SC - ISI,4676 Admiralty Way Marina del Rey CA US 90292-6696 ,Protocol unavailable.
 EtherType,8879,Expand Networks,Atidim Tech Park - Bldg. 4 TelAviv  IL 61580 ,Protocol unavailable.
@@ -1498,6 +1497,7 @@ EtherType,88EA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr
 EtherType,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
 "
 EtherType,8BC2,KATIM L.L.C,Elektroniikkatie 8 Oulu  FI 90590 ,Protocol unavailable.
+EtherType,88AB,B&R Industrial Automation GmbH ,Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
 EtherType,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
 EtherType,0201,Private,,Invalid as an EtherType value since 1983
 EtherType,0128,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

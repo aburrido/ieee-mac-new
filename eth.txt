@@ -5316,12 +5316,6 @@ F5D2                          Schweitzer Engineering Laboratories, Inc.         
                               US                                                                                                       
 
 
-88AB                          ETHERNET Powerlink Standarization Group (EPSG)                                                           ETHERNET Powerlink (EPL)
-                              Gebaude E301                                                                                             
-                              Winterthur    CH-8401                                                                                    
-                              US                                                                                                       
-
-
 86DD                          USC/ISI                                                                                                  Internet Protocol Version 6 (IPV6)
                               4676 Admiralty Way                                                                                       
                               Marina del Rey  CA  90292                                                                                
@@ -7664,6 +7658,12 @@ C22A                          University of Berkeley                            
                               Elektroniikkatie 8                                                                                       
                               Oulu    90590                                                                                            
                               FI                                                                                                       
+
+
+88AB                          B&R Industrial Automation GmbH                                                                           ETHERNET Powerlink (EPL)
+                              Gebaude E301                                                                                             
+                              Winterthur    CH-8401                                                                                    
+                              US                                                                                                       
 
 
 0500                          University  of Berkeley                                                                                  Invalid as an EtherType value since 1983
