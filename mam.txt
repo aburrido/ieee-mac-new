@@ -22208,6 +22208,12 @@ C00000-CFFFFF     (base 16)		Terrestar Solutions Inc
 				Glendale  CA  91203
 				US
 
+80-77-86   (hex)		YSTen Technology Co., Ltd.
+800000-8FFFFF     (base 16)		YSTen Technology Co., Ltd.
+				Room 101, Building D (Cygnus), Wuxi Software Park, No. 111 Linghu Avenue, Xinwu District, 
+				Wuxi City  Jiangsu Province  214028
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
