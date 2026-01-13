@@ -7661,9 +7661,9 @@ C22A                          University of Berkeley                            
 
 
 88AB                          B&R Industrial Automation GmbH                                                                           ETHERNET Powerlink (EPL)
-                              Gebaude E301                                                                                             
-                              Winterthur    CH-8401                                                                                    
-                              US                                                                                                       
+                               B&R Strasse 1                                                                                           
+                              Eggelsberg          5142                                                                                 
+                              AT                                                                                                       
 
 
 0500                          University  of Berkeley                                                                                  Invalid as an EtherType value since 1983

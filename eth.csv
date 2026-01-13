@@ -1497,7 +1497,7 @@ EtherType,88EA,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr
 EtherType,8932,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ","Mellanox discovery and configuration protocol.
 "
 EtherType,8BC2,KATIM L.L.C,Elektroniikkatie 8 Oulu  FI 90590 ,Protocol unavailable.
-EtherType,88AB,B&R Industrial Automation GmbH ,Gebaude E301 Winterthur  US CH-8401 ,ETHERNET Powerlink (EPL)
+EtherType,88AB,B&R Industrial Automation GmbH , B&R Strasse 1  Eggelsberg        AT 5142 ,ETHERNET Powerlink (EPL)
 EtherType,0500,University  of Berkeley,Computer Science Department Berkeley CA US 94720 ,Invalid as an EtherType value since 1983
 EtherType,0201,Private,,Invalid as an EtherType value since 1983
 EtherType,0128,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

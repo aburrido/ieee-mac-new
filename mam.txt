@@ -7559,6 +7559,12 @@ A00000-AFFFFF     (base 16)		Huizhou Jiemeisi Technology Co.,Ltd.
 				Huizhou  Guangdong  516023
 				CN
 
+08-3C-03   (hex)		G-Innovations Vietnam
+700000-7FFFFF     (base 16)		G-Innovations Vietnam
+				2th Floor, G-Group Tower, No. 5 Nguyen Thi Due Street,
+				Yen Hoa Ward  Hanoi City  10000
+				VN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -22214,6 +22220,21 @@ C00000-CFFFFF     (base 16)		Terrestar Solutions Inc
 				Wuxi City  Jiangsu Province  214028
 				CN
 
+08-3C-03   (hex)		Private
+B00000-BFFFFF     (base 16)		Private
+
+08-3C-03   (hex)		SNM Technology
+100000-1FFFFF     (base 16)		SNM Technology
+				664, Sosa-ro
+				Bucheon-si  Gyeonggi-do  14474
+				KR
+
+80-77-86   (hex)		Glorious, LLC
+600000-6FFFFF     (base 16)		Glorious, LLC
+				13809 Research Blvd Suite 500 PMB 93206
+				Austin  TX  78750
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -29507,17 +29528,17 @@ D00000-DFFFFF     (base 16)		Applied Energy Technologies Pvt Ltd
 				Pune  Maharashtra  411023
 				IN
 
-80-77-86   (hex)		Mach
-B00000-BFFFFF     (base 16)		Mach
-				2002 Bethel Rd Ste 105
-				Finksburg  MD  21048
-				US
-
 80-77-86   (hex)		SMW-Autoblok Spannsysteme
 900000-9FFFFF     (base 16)		SMW-Autoblok Spannsysteme
 				Wiesentalstr. 28
 				Meckenbeuren    88074
 				DE
+
+80-77-86   (hex)		Mach
+B00000-BFFFFF     (base 16)		Mach
+				2002 Bethel Rd Ste 105
+				Finksburg  MD  21048
+				US
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -37014,4 +37035,10 @@ C00000-CFFFFF     (base 16)		Cornerstone Technology (Shenzhen) Limited
 500000-5FFFFF     (base 16)		ADIANCE TECHNOLOGIES PVT LTD
 				House 7 Arista At Eight Corporate House Rajpath Rangoli road Bodakdev Ahmedabad
 				AHMEDABAD  Gujarat  380054
+				IN
+
+80-77-86   (hex)		Arc networks pvt ltd
+E00000-EFFFFF     (base 16)		Arc networks pvt ltd
+				shop 10, Bhoomi Acres, phase 2, Wagbil road, hiranandani estate, thane west
+				Thane  Maharashtra  400615
 				IN
