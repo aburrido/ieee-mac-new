@@ -14600,6 +14600,12 @@ A00000-AFFFFF     (base 16)		Luxshare Precision Industry Co., Ltd.
 				Baoan District  Shenzhen  314117
 				CN
 
+08-3C-03   (hex)		Beijing New Matrix Information Technology CO., Ltd
+400000-4FFFFF     (base 16)		Beijing New Matrix Information Technology CO., Ltd
+				Building 2,No.1 Courtyard,Taibai West Road, Fengtai Districtr
+				Beijing  Beijing  100071
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -29570,6 +29576,18 @@ D00000-DFFFFF     (base 16)		Yinglian Technology Co.,Ltd
 				Wenzhou  Zhejiang  325000
 				CN
 
+08-3C-03   (hex)		Jiaxing UPhoton Optoelectronics Technology Co., Ltd.
+600000-6FFFFF     (base 16)		Jiaxing UPhoton Optoelectronics Technology Co., Ltd.
+				Room 102, 1st Floor, Building 10, No. 1156 Gaoqiao Avenue, Gaoqiao Street (Development Zone), Tongxiang City
+				Jiaxing  Zhejiang  314500
+				CN
+
+08-3C-03   (hex)		GS Industrie-Elektronik GmbH
+800000-8FFFFF     (base 16)		GS Industrie-Elektronik GmbH
+				Porschestrasse 11
+				Leverkusen    51381
+				DE
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -37072,3 +37090,9 @@ E00000-EFFFFF     (base 16)		Arc networks pvt ltd
 				shop 10, Bhoomi Acres, phase 2, Wagbil road, hiranandani estate, thane west
 				Thane  Maharashtra  400615
 				IN
+
+08-3C-03   (hex)		INNOS TECHNOLOGIES INC.
+900000-9FFFFF     (base 16)		INNOS TECHNOLOGIES INC.
+				4711 Yonge Street, 10th Floor, North York, Canada
+				North York  Ontario  M2N 6K8
+				CA
