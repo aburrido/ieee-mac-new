@@ -29594,6 +29594,12 @@ D00000-DFFFFF     (base 16)		Yinglian Technology Co.,Ltd
 				Leverkusen    51381
 				DE
 
+08-3C-03   (hex)		LEADTEK BIOMED INC.
+500000-5FFFFF     (base 16)		LEADTEK BIOMED INC.
+				18 F., No. 166, Jian 1st Rd., Zhonghe Dist.
+				New Taipei City    235
+				TW
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18

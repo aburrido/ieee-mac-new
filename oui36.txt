@@ -18647,12 +18647,6 @@ D19000-D19FFF     (base 16)		Senior Group LLC
 				Cincinnati  OH  45246
 				US
 
-70-B3-D5   (hex)		ICTK Holdings
-5C9000-5C9FFF     (base 16)		ICTK Holdings
-				3F Ventureforum B'd, Pangyodae-ro
-				Seung-nam Si  Gyeonggi-Do  13488
-				KR
-
 70-B3-D5   (hex)		LARIMART SPA
 536000-536FFF     (base 16)		LARIMART SPA
 				VIA DI TORREVECCHIA
@@ -24783,6 +24777,12 @@ AD9000-AD9FFF     (base 16)		Vision Systems Safety Tech
 190000-190FFF     (base 16)		Wesync
 				506Ho, Pyeongchondigitalempire, 16, Heungan-daero 427beon-gil, Dongan-gu
 				Anyang-si  Gyeonggi-do  14059
+				KR
+
+70-B3-D5   (hex)		ICTK Co., Ltd.
+5C9000-5C9FFF     (base 16)		ICTK Co., Ltd.
+				3F Ventureforum B'd, Pangyodae-ro
+				Seung-nam Si  Gyeonggi-Do  13488
 				KR
 
 8C-1F-64   (hex)		Flow Power
@@ -32966,6 +32966,12 @@ B58000-B58FFF     (base 16)		Eltvor Instruments
 				San Sebastián de los Reyes  Madrid  28703
 				ES
 
+8C-1F-64   (hex)		Rudolf Riester GmbH
+27A000-27AFFF     (base 16)		Rudolf Riester GmbH
+				P.O. Box 35 Bruckstrasse 31
+				Jungingen    72417
+				DE
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -41068,6 +41074,12 @@ C39000-C39FFF     (base 16)		Expromo Europe A/S
 				Langdyssen 3
 				Aarhus N    8200
 				DK
+
+8C-1F-64   (hex)		I2V Systems Pvt. Ltd. 
+1E0000-1E0FFF     (base 16)		I2V Systems Pvt. Ltd. 
+				CP-07, Sector 8, IMT Manesar
+				Gurugram    122050
+				IN
 
 8C-1F-64   (hex)		Dsan Corporation
 09C000-09CFFF     (base 16)		Dsan Corporation
