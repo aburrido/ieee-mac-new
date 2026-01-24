@@ -16481,6 +16481,12 @@ AD6000-AD6FFF     (base 16)		INTERNATIONAL SECURITY SYSTEMS W.L.L.
 				London    W6 9EX
 				GB
 
+8C-1F-64   (hex)		CyberCube ApS
+65C000-65CFFF     (base 16)		CyberCube ApS
+				Munkehatten 1C
+				Odense    5220
+				DK
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -24778,6 +24784,12 @@ AD9000-AD9FFF     (base 16)		Vision Systems Safety Tech
 				506Ho, Pyeongchondigitalempire, 16, Heungan-daero 427beon-gil, Dongan-gu
 				Anyang-si  Gyeonggi-do  14059
 				KR
+
+8C-1F-64   (hex)		PASO SPA
+CF8000-CF8FFF     (base 16)		PASO SPA
+				Via Settembrini 34
+				Lainate  Italy  20045
+				IT
 
 70-B3-D5   (hex)		ICTK Co., Ltd.
 5C9000-5C9FFF     (base 16)		ICTK Co., Ltd.
