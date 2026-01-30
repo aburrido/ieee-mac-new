@@ -7583,6 +7583,18 @@ A00000-AFFFFF     (base 16)		Hefei Panyuan Intelligent Technology Co., Ltd
 				Yen Hoa Ward  Hanoi City  10000
 				VN
 
+34-D7-F5   (hex)		Shenzhen Huchi Technology Co.,Ltd.
+400000-4FFFFF     (base 16)		Shenzhen Huchi Technology Co.,Ltd.
+				Province/1001 Xueyuan Avenue, Changyuan Community, Taoyuan Street, Nanshan District/1714, Building C2, Nanshan Zhiyua
+				shenzhen  guangdong  518000
+				CN
+
+34-D7-F5   (hex)		SOFTEL
+700000-7FFFFF     (base 16)		SOFTEL
+				Camino a Santa Teresa 187
+				Tlalpan  Ciudad de México  14010
+				MX
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14624,6 +14636,12 @@ B00000-BFFFFF     (base 16)		Resnics Technology (Shanghai), lnc.
 				Shanghai  Shanghai  200233
 				CN
 
+34-D7-F5   (hex)		Acellent Technologies, Inc.
+500000-5FFFFF     (base 16)		Acellent Technologies, Inc.
+				835 Stewart Dr.
+				Sunnyvale  CA  94085
+				US
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -17407,12 +17425,6 @@ E00000-EFFFFF     (base 16)		Canare Electric Co., Ltd.
 				Room 1707, 17/F, West Block, Nanshan Digital Culture Industrial Base, Nanshan District
 				Shenzhen  Guangdong  519052
 				CN
-
-50-62-55   (hex)		Hagiwara Solutions Co., Ltd 
-100000-1FFFFF     (base 16)		Hagiwara Solutions Co., Ltd 
-				7F, Sakae TV BLD, 3-10-32, Nishiki, Naka-ku,
-				Nagoya City  Aichi Prefecture  460-0003
-				JP
 
 50-62-55   (hex)		CCTV Manufacturer
 A00000-AFFFFF     (base 16)		CCTV Manufacturer
@@ -22288,6 +22300,30 @@ B00000-BFFFFF     (base 16)		Private
 				2645 Federal Signal Drive
 				University Park  IL  60484
 				US
+
+50-62-55   (hex)		Hagiwara Solutions Co., Ltd 
+100000-1FFFFF     (base 16)		Hagiwara Solutions Co., Ltd 
+				9F, DP Square Higashi-Sakura, 1-14-11  Higashi-Sakura
+				Higashi-ku,  Nagoya   461-000
+				JP
+
+34-D7-F5   (hex)		Schenker Storen AG
+D00000-DFFFFF     (base 16)		Schenker Storen AG
+				Stauwehrstrasse 34
+				Schönenwerd  Solothurn  5012
+				CH
+
+34-D7-F5   (hex)		Venture Corporation Limited
+200000-2FFFFF     (base 16)		Venture Corporation Limited
+				Blk 5006 Ang Mo Kio Avenue 5, #05-01/12 
+				TECHplace II     569873
+				SG
+
+34-D7-F5   (hex)		Optikinetics Ltd
+900000-9FFFFF     (base 16)		Optikinetics Ltd
+				38 Cromwell Road
+				Luton  Beds  LU3 1DN
+				GB
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -29624,6 +29660,24 @@ E00000-EFFFFF     (base 16)		Prozone
 				jalandhar  Punjab  144001
 				IN
 
+34-D7-F5   (hex)		DREAMTECH
+600000-6FFFFF     (base 16)		DREAMTECH
+				10F, U-Space 2 A Tower, 670 Daewangpangyo-ro, Bundang-Gu, Seongnam-Si, Gyeonggi-Do, Republic of Korea
+				Gyeonggi-Do    13494
+				KR
+
+34-D7-F5   (hex)		Inrico Technologies Co.,Ltd
+000000-0FFFFF     (base 16)		Inrico Technologies Co.,Ltd
+				A1703, Shenzhen National Engineering Laboratory Building, No. 20 Gaoxin South 7th Road, High-tech Community, Yuehai Street, Nanshan District, Shenzhen, Guangdong.
+				ShenZhen  Guangdong  518004
+				CN
+
+34-D7-F5   (hex)		Cassel Messtechnik GmbH
+300000-3FFFFF     (base 16)		Cassel Messtechnik GmbH
+				In der Dehne 10
+				Dransfeld    37127
+				DE
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -36467,12 +36521,6 @@ D00000-DFFFFF     (base 16)		Annapurna labs
 				Mail box 15123  Haifa  3508409
 				IL
 
-04-A1-6F   (hex)		Xiamen Akubela Innovation Technology CO., Ltd.
-400000-4FFFFF     (base 16)		Xiamen Akubela Innovation Technology CO., Ltd.
-				9/F, No.56 Guanri Road, Software Park II, Xiamen 361009, China
-				Xiamen  Fujian  350000
-				CN
-
 04-A1-6F   (hex)		Broadband International
 C00000-CFFFFF     (base 16)		Broadband International
 				11650 NW 102nd Road
@@ -37133,8 +37181,20 @@ C00000-CFFFFF     (base 16)		Cornerstone Technology (Shenzhen) Limited
 				North York  Ontario  M2N 6K8
 				CA
 
+34-D7-F5   (hex)		AIoTrust
+800000-8FFFFF     (base 16)		AIoTrust
+				66 Bd Niels Bohr
+				Villeurbanne  Rhone  69100
+				FR
+
 34-D7-F5   (hex)		Lucy Electric Manufacturing and Technologies India Pvt Ltd
 C00000-CFFFFF     (base 16)		Lucy Electric Manufacturing and Technologies India Pvt Ltd
 				Survey Number 26-30, Noorpura, Baska, Ta. HalolDist. Panchamahal
 				Vadodara  Gujarat  389350
 				IN
+
+04-A1-6F   (hex)		Akubela Co., Ltd.
+400000-4FFFFF     (base 16)		Akubela Co., Ltd.
+				9/F, No.56 Guanri Road, Software Park II, Xiamen 361009, China
+				Xiamen  Fujian  350000
+				CN
