@@ -254,6 +254,12 @@ FA7ACB                        (base 16)                     Ultra Ethernet Conso
                                                             Newark  CA  94560                            
                                                             US                                           
 
+0A-9E-66                      (hex)                         Distance Technologies Ltd                    
+0A9E66                        (base 16)                     Distance Technologies Ltd                    
+                                                            John Stenbergin ranta 2                      
+                                                            Helsinki    00530                            
+                                                            FI                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
