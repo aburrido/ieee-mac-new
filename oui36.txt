@@ -16499,6 +16499,12 @@ EAF000-EAFFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
 
+8C-1F-64   (hex)		Bright Solutions PTE LTD
+6C3000-6C3FFF     (base 16)		Bright Solutions PTE LTD
+				51 Goldhill Plaza #07-10/11
+				Singapore    308900
+				SG
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -24814,6 +24820,12 @@ B53000-B53FFF     (base 16)		ASI
 				1001 Av. de la République
 				Marcq-en-Baroeul    59700
 				FR
+
+8C-1F-64   (hex)		Potter Electric Signal Co. LLC
+75D000-75DFFF     (base 16)		Potter Electric Signal Co. LLC
+				1609 Park 370 Place
+				Hazelwood  MO  63042
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -41152,3 +41164,15 @@ E82000-E82FFF     (base 16)		SMITEC S.p.A.
 				Tonge Street, Heywood, England,OL10 4HU,United Kingdom
 				England    OL10 4HU
 				GB
+
+8C-1F-64   (hex)		Mootek Technologies Private Limited
+CEA000-CEAFFF     (base 16)		Mootek Technologies Private Limited
+				No.20, First Floor, East Jones Road,SaidapetChennai
+				Chennai  Tamilnadu  600015
+				IN
+
+8C-1F-64   (hex)		Talius Services Pty Ltd
+5D2000-5D2FFF     (base 16)		Talius Services Pty Ltd
+				Unit 1,  212 Curtin Ave West, EAGLE FARM 
+				Brisbane  QLD  4009
+				AU

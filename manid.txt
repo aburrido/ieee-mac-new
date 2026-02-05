@@ -133,6 +133,7 @@ MANUFACTURER ID               Organization
 5154                          Opus-Two ICS
 2718                          Danisense
 4642                          MegaSig
+9462                          Michigan Scientific Corp.
 3450                          Oetiker Schweiz AG
 15328                         Silicon Designs, Inc. (SDI)
 12081                         Fatri-UTC.Inc

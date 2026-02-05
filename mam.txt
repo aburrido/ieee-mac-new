@@ -7601,6 +7601,12 @@ A00000-AFFFFF     (base 16)		Hefei Panyuan Intelligent Technology Co., Ltd
 				Plano  TX  75075
 				US
 
+6C-47-80   (hex)		ONICON 
+700000-7FFFFF     (base 16)		ONICON 
+				11451 Belcher Rd S
+				Largo  FL  33773
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14647,6 +14653,12 @@ B00000-BFFFFF     (base 16)		Resnics Technology (Shanghai), lnc.
 				835 Stewart Dr.
 				Sunnyvale  CA  94085
 				US
+
+6C-47-80   (hex)		Prolink Surveillance Technology Co.Ltd
+A00000-AFFFFF     (base 16)		Prolink Surveillance Technology Co.Ltd
+				10F.-7, No.18, Ln. 609, Sec. 5, Chongxin Rd., Sanchong Dist.
+				New Taipei City    241
+				TW
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -22319,17 +22331,17 @@ D00000-DFFFFF     (base 16)		Schenker Storen AG
 				Schönenwerd  Solothurn  5012
 				CH
 
-34-D7-F5   (hex)		Optikinetics Ltd
-900000-9FFFFF     (base 16)		Optikinetics Ltd
-				38 Cromwell Road
-				Luton  Beds  LU3 1DN
-				GB
-
 34-D7-F5   (hex)		Venture Corporation Limited
 200000-2FFFFF     (base 16)		Venture Corporation Limited
 				Blk 5006 Ang Mo Kio Avenue 5, #05-01/12 
 				TECHplace II     569873
 				SG
+
+34-D7-F5   (hex)		Optikinetics Ltd
+900000-9FFFFF     (base 16)		Optikinetics Ltd
+				38 Cromwell Road
+				Luton  Beds  LU3 1DN
+				GB
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -29678,12 +29690,6 @@ E00000-EFFFFF     (base 16)		Prozone
 				ShenZhen  Guangdong  518004
 				CN
 
-34-D7-F5   (hex)		Cassel Messtechnik GmbH
-300000-3FFFFF     (base 16)		Cassel Messtechnik GmbH
-				In der Dehne 10
-				Dransfeld    37127
-				DE
-
 6C-47-80   (hex)		Private
 900000-9FFFFF     (base 16)		Private
 
@@ -29698,6 +29704,12 @@ E00000-EFFFFF     (base 16)		Catapult Sports Inc
 				2-2-23 Kishinosato,  Nishinari Ward
 				Osaka City  Osaka  557-0041
 				JP
+
+34-D7-F5   (hex)		Cassel Messtechnik GmbH
+300000-3FFFFF     (base 16)		Cassel Messtechnik GmbH
+				In der Dehne 10
+				Dransfeld    37127
+				DE
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -37219,3 +37231,9 @@ C00000-CFFFFF     (base 16)		Lucy Electric Manufacturing and Technologies India 
 				66 Bd Niels Bohr
 				Villeurbanne  Rhone  69100
 				FR
+
+6C-47-80   (hex)		ZVK GmbH
+C00000-CFFFFF     (base 16)		ZVK GmbH
+				Technologiecampus 2
+				Teisnach    94244
+				DE
