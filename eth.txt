@@ -19583,3 +19583,9 @@ CEB4                          General Motors                                    
                               3300 General Motors Rd                                                                                   sub-types that are administered and managed by General Motors.             
                               Milford  MI  48380                                                                                       
                               US                                                                                                       
+
+
+9913                          Schweitzer Engineering Laboratories, Inc.                                                                This EtherType enables hardware control of SEL hardware devices over an
+                              2350 NE Hopkins Court                                                                                    Ethernet connection where resources are too constrained to support a full  
+                              Pullman  WA  99163                                                                                       network stack implementation, or where reduced network burden is desired.  
+                              US                                                                                                       
