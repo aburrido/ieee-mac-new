@@ -14654,17 +14654,29 @@ B00000-BFFFFF     (base 16)		Resnics Technology (Shanghai), lnc.
 				Sunnyvale  CA  94085
 				US
 
+6C-47-80   (hex)		JEL Corporation
+D00000-DFFFFF     (base 16)		JEL Corporation
+				2-8-20, Kusado-cho
+				FUKUYAMA  HIROSHIMA  7200831
+				JP
+
 6C-47-80   (hex)		Prolink Surveillance Technology Co.Ltd
 A00000-AFFFFF     (base 16)		Prolink Surveillance Technology Co.Ltd
 				10F.-7, No.18, Ln. 609, Sec. 5, Chongxin Rd., Sanchong Dist.
 				New Taipei City    241
 				TW
 
-6C-47-80   (hex)		JEL Corporation
-D00000-DFFFFF     (base 16)		JEL Corporation
-				2-8-20, Kusado-cho
-				FUKUYAMA  HIROSHIMA  7200831
-				JP
+6C-47-80   (hex)		CTHINGS.CO sp. z o.o.
+600000-6FFFFF     (base 16)		CTHINGS.CO sp. z o.o.
+				Aleja Niepodleglosci 18
+				Warsaw    02-653
+				PL
+
+6C-47-80   (hex)		HD HYUNDAI ENERGY SOLUTIONS CO., LTD.
+100000-1FFFFF     (base 16)		HD HYUNDAI ENERGY SOLUTIONS CO., LTD.
+				477, Bundangsuseo-ro
+				Bundang-gu, Seongnam-si  Gyeonggi-do  13553
+				KR
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -22348,6 +22360,12 @@ D00000-DFFFFF     (base 16)		Schenker Storen AG
 				38 Cromwell Road
 				Luton  Beds  LU3 1DN
 				GB
+
+6C-47-80   (hex)		CAF Power and Automation
+200000-2FFFFF     (base 16)		CAF Power and Automation
+				Paseo Mikeletegi 58
+				San Sebastian  Gipuzkoa  20009
+				ES
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -37243,3 +37261,9 @@ C00000-CFFFFF     (base 16)		ZVK GmbH
 				Technologiecampus 2
 				Teisnach    94244
 				DE
+
+6C-47-80   (hex)		CARDIO SISTEMAS COMERCIAL E INDUSTRIAL LTDA
+B00000-BFFFFF     (base 16)		CARDIO SISTEMAS COMERCIAL E INDUSTRIAL LTDA
+				AVENIDA PAULISTA, 509 ANDAR 1, 3, 21 E 22, CONJUNTOS 308, 309 E 310
+				SAO PAULO  SAO PAULO  01311910
+				BR
