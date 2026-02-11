@@ -30,6 +30,7 @@ MANUFACTURER ID               Organization
 2528                          Interdisciplinary Consulting Corporation
 3887                          HKM-Messtechnik GmbH
 7894                          Wolfspyre Labs
+11039                         Nichidai
 7857                          X-SENSORS AG
 8163                          Scati Labs, S.A.
 14599                         Delta Computers LLC.
