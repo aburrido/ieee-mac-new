@@ -968,7 +968,6 @@ MA-M,7419F8A,Tanjarine,"188 S Whisman Rd, Bldg A Mountain View CA US 94041 "
 MA-M,7419F85,"Starcor Beijing Co.,Limited","NO.210 Block B, Building 2 Beijing Berijing CN 100089 "
 MA-M,D076508,Accumulate AB,Lästmakargatan 20  Stockholm SE 111 44 
 MA-M,C85CE2D,"UNILUMIN GROUP CO., LTD.","No. 18 Haoye Road, Tongfuyu Industrial Zone, Fuhai Street, Baoan District, Shenzhen Guangdong CN 518000 "
-MA-M,E86CC70,Trapeze Switzerland GmbH,Rheinstrasse 36 Neuhausen am Rheinfall Schaffhausen CH 8212 
 MA-M,4CEA416,Gopod Group Limited,"5-6/f,building 8,Lianjian Industrial Park,Longhua Shenzhen  CN 518109 "
 MA-M,5CF8384,"Shanghai Zenchant Electornics Co.,LTD","Room 1202, building a, Noble international, 908 Xiuwen Road, Minhang District ShangHai ShangHai CN 201199 "
 MA-M,5CF8388,Stonex srl,"Via dei Mille, 4,Monza e Brianza,Italy Monza e Brianza IT 20900 "
@@ -1274,6 +1273,7 @@ MA-M,34D7F54,"Shenzhen Huchi Technology Co.,Ltd.","Province/1001 Xueyuan Avenue,
 MA-M,34D7F57,SOFTEL,Camino a Santa Teresa 187 Tlalpan Ciudad de México MX 14010 
 MA-M,6C47804,Battery Management Technology Corporation,"1255 West 15th Street, Suite 325 Plano TX US 75075 "
 MA-M,6C47807,ONICON ,11451 Belcher Rd S Largo FL US 33773 
+MA-M,E86CC70,ebblo Western Europe,Rheinstrasse 36 Neuhausen am Rheinfall Schaffhausen CH 8212 
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -3749,8 +3749,8 @@ MA-M,34D7F5D,Schenker Storen AG,Stauwehrstrasse 34 Schönenwerd Solothurn CH 501
 MA-M,34D7F52,Venture Corporation Limited,"Blk 5006 Ang Mo Kio Avenue 5, #05-01/12  TECHplace II   SG 569873 "
 MA-M,34D7F59,Optikinetics Ltd,38 Cromwell Road Luton Beds GB LU3 1DN 
 MA-M,6C47802,CAF Power and Automation,Paseo Mikeletegi 58 San Sebastian Gipuzkoa ES 20009 
-MA-M,18C3E45,iX-tech GmbH,Römerstadt 2 Saarbrücken Saarland DE 66121 
 MA-M,6C47803,Eaton Bussmann,114 Old State Road Ellisville MO US 63021 
+MA-M,18C3E45,iX-tech GmbH,Römerstadt 2 Saarbrücken Saarland DE 66121 
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -6256,3 +6256,4 @@ MA-M,18C3E4B,Cascadia Motion LLC,"7929 SW Burns Way, Ste F WILSONVILLE OR US 970
 MA-M,6C4780B,CARDIO SISTEMAS COMERCIAL E INDUSTRIAL LTDA,"AVENIDA PAULISTA, 509 ANDAR 1, 3, 21 E 22, CONJUNTOS 308, 309 E 310 SAO PAULO SAO PAULO BR 01311910 "
 MA-M,18C3E42,Duress Pty Ltd,"Floor 8, Unit 1/420 St Kilda Rd Melbourne Victoria AU 3004 "
 MA-M,6C47805,Monnit Corporation,3400 S West Temple S Salt Lake UT US 84115 
+MA-M,18C3E43,Proximus sp. z .o.o.,ul. Piatkowska 163 Poznan  PL 60-650 
