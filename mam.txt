@@ -22391,6 +22391,12 @@ D00000-DFFFFF     (base 16)		Schenker Storen AG
 				Ellisville  MO  63021
 				US
 
+18-C3-E4   (hex)		38220
+900000-9FFFFF     (base 16)		38220
+				C/ Mariano Barbacid, 5. 3ª planta
+				Rivas Vaciamadrid  Madrid  28521
+				ES
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
