@@ -7607,6 +7607,18 @@ E8-6C-C7   (hex)		ebblo Western Europe
 				Neuhausen am Rheinfall  Schaffhausen  8212
 				CH
 
+18-C3-E4   (hex)		BRS Sistemas Eletrônicos
+700000-7FFFFF     (base 16)		BRS Sistemas Eletrônicos
+				Rua Capistrano de Abreu, 68
+				Canoas  RS  92120130
+				BR
+
+18-C3-E4   (hex)		Trusted Technology Solutions, Inc.
+400000-4FFFFF     (base 16)		Trusted Technology Solutions, Inc.
+				346 River Street
+				Lemont  IL  60439
+				US
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
