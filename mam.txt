@@ -22391,12 +22391,6 @@ D00000-DFFFFF     (base 16)		Schenker Storen AG
 				San Sebastian  Gipuzkoa  20009
 				ES
 
-18-C3-E4   (hex)		iX-tech GmbH
-500000-5FFFFF     (base 16)		iX-tech GmbH
-				Römerstadt 2
-				Saarbrücken  Saarland  66121
-				DE
-
 6C-47-80   (hex)		Eaton Bussmann
 300000-3FFFFF     (base 16)		Eaton Bussmann
 				114 Old State Road
@@ -22408,6 +22402,12 @@ D00000-DFFFFF     (base 16)		Schenker Storen AG
 				C/ Mariano Barbacid, 5. 3ª planta
 				Rivas Vaciamadrid  Madrid  28521
 				ES
+
+18-C3-E4   (hex)		iX-tech GmbH
+500000-5FFFFF     (base 16)		iX-tech GmbH
+				Römerstadt 2
+				Saarbrücken  Saarland  66121
+				DE
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -29783,26 +29783,26 @@ E00000-EFFFFF     (base 16)		Catapult Sports Inc
 				Taipei    114
 				TW
 
-18-C3-E4   (hex)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
-E00000-EFFFFF     (base 16)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
-				5th Floor?Block B?Ziguang information Harbor?Langshan Rd., Science & Technology Park,Nahshan District,ShenZhen
-				ShenZhen    518051
-				CN
-
 18-C3-E4   (hex)		xDevelop GmbH
 800000-8FFFFF     (base 16)		xDevelop GmbH
 				Guggenmoosstrasse 1b
 				Salzburg    5020
 				AT
 
-6C-47-80   (hex)		Private
-800000-8FFFFF     (base 16)		Private
+18-C3-E4   (hex)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
+E00000-EFFFFF     (base 16)		SHENZHEN MEGMEET ELECTRICAL CO., LTD
+				5th Floor?Block B?Ziguang information Harbor?Langshan Rd., Science & Technology Park,Nahshan District,ShenZhen
+				ShenZhen    518051
+				CN
 
 18-C3-E4   (hex)		Bit Part LLC
 C00000-CFFFFF     (base 16)		Bit Part LLC
 				224 W 35th St, Ste 500 PMB 497
 				New York  NY  10001
 				US
+
+6C-47-80   (hex)		Private
+800000-8FFFFF     (base 16)		Private
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

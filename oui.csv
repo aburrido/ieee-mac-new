@@ -7837,10 +7837,11 @@ MA-L,58DF70,Private,
 MA-L,50EE9B,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,90DF06,Ciena Corporation,7035 Ridge Road Hanover MD US 21076 
 MA-L,449F79,onsemi,5701 N Pima Rd  Scottsdale AZ US 85250 
-MA-L,EC73F6,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
-MA-L,50EE87,HPRO,8500 Balboa Blvd Northridge CA US 91329 
 MA-L,2CDEF5,TVS REGZA Corporation,"19F, Kowa Kawasaki West Exit Building 66-2 Horikawa-cho, Saiwai-ku Kawasaki-shi Kanagawa JP 2120013 "
+MA-L,EC73F6,"Sichuan AI-Link Technology Co., Ltd.","Anzhou, Industrial Park Mianyang Sichuan CN 622650 "
 MA-L,002689,General Dynamics Land Systems Inc.,38500 Mound Road Sterling Heights MI US 48310-3200 
+MA-L,0C6F8B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,50EE87,HPRO,8500 Balboa Blvd Northridge CA US 91329 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15558,6 +15559,11 @@ MA-L,D0C6BE,HPRO-Video,8500 Balboa Blvd Northridge CA US 91329
 MA-L,0C83F4,"Canopy Works, Inc.","1875 Mission St, Ste 103 San Francisco CA US 94103 "
 MA-L,C02D10,MOHAN ELECTRONICS AND SYSTEMS,"571, STREET NO. 6, CHANDERLOK, SHAHDARA, DELHI DELHI DELHI IN 110093 "
 MA-L,7498F4,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
+MA-L,F81E49,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,BC74EA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,70AE2A,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,18B842,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,2C1CF7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23303,6 +23309,8 @@ MA-L,F074C1,Blink by Amazon ,100 Riverpark Drive North Reading  MA US 01864
 MA-L,000B7C,Electro-Voice Dynacord LLC,130 Perinton Parkway Fairport NY US 14450 
 MA-L,8C4EBB,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,EC315F,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
+MA-L,709684,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,CCBE61,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31154,6 +31162,13 @@ MA-L,184F5D,"Japan Radio Co., Ltd","NAKANO CENTRAL PARK EAST 10-1, Nakano 4-chom
 MA-L,6C2813,"nFore Technology Co., Ltd.","5F, No.31, Ln. 258, Ruiguang Rd., Neihu Dist.,  Taipei city  TW 114 "
 MA-L,08357D,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,C03A55,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,B88788,HP Inc.,10300 Energy Dr Spring TX US 77389 
+MA-L,A85F61,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,C4F445,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,5856AA,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,F8CB15,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,D4CE40,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,887015,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -38901,9 +38916,15 @@ MA-L,00E0AD,Brandywine Communications UK Ltd. ,"20a Westside Centre London Road,
 MA-L,588CCF,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,507164,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,001C44,Electro Voice Dynacord BV,Achtseweg Zuid 173 5651 GW Eindhoven Eindhoven NL 5651 
-MA-L,B03731,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
-MA-L,249900,FRITZ! Technology GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
-MA-L,6C4033,"Beijing Megwang Technology Co., Ltd.","Room 1316, 1st Floor, Building 12, Jianzhong Road, Xisanqi Building Materials City, Haidian District, Beijing, China Beijing  CN 100096 "
 MA-L,60A1FE,HPRO,8500 Balboa Blvd Northridge CA US 91329 
 MA-L,A41894,IQSIGHT B.V.,Achtseweg Zuid 173 Eindhoven  NL 5651 GW 
+MA-L,B03731,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
+MA-L,249900,FRITZ! Technology GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
+MA-L,18A084,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,582A93,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,64C905,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,E88F8E,Hoags Technologies India Private Limited,"M-138, 9TH A MAIN, JEEVAN BHEEMA NAGAR, Bangalore KA IN 560075 "
+MA-L,6C4033,"Beijing Megwang Technology Co., Ltd.","Room 1316, 1st Floor, Building 12, Jianzhong Road, Xisanqi Building Materials City, Haidian District, Beijing, China Beijing  CN 100096 "
+MA-L,3CBFD7,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,887E9B,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
+MA-L,542A43,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
