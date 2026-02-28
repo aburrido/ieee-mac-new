@@ -782,6 +782,12 @@ CA125C                        (base 16)                     Microsoft Corporatio
                                                             Redmond    98052-6399                        
                                                             US                                           
 
+FA-93-05                      (hex)                         Panasonic Automotive Systems Co., Ltd.       
+FA9305                        (base 16)                     Panasonic Automotive Systems Co., Ltd.       
+                                                            4261 Ikonobe-cho, Tsuzuki-ku                 
+                                                            Yokohama  Kanagawa  224-8520                 
+                                                            JP                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
