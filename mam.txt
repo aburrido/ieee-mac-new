@@ -37447,3 +37447,9 @@ C4-82-72   (hex)		Shanghai Smart Logic Technology Ltd.
 				Room 1010,No.2,Lane 288,Kangning Road,Jing'an IDistrict
 				shanghai  shanghai  200020
 				CN
+
+C4-82-72   (hex)		Melecs EWS GmbH
+400000-4FFFFF     (base 16)		Melecs EWS GmbH
+				GZO-Technologiestrasse 1
+				Siegendorf     7011
+				AT
