@@ -22457,15 +22457,6 @@ A00000-AFFFFF     (base 16)		Fime SAS
 				Pacé    35740
 				FR
 
-C4-82-72   (hex)		Tolt Technologies LLC
-A00000-AFFFFF     (base 16)		Tolt Technologies LLC
-				19520 Mountain View Road NE
-				Duvall  WA  98019-8822
-				US
-
-C4-82-72   (hex)		Private
-100000-1FFFFF     (base 16)		Private
-
 C4-82-72   (hex)		Schunk SE & Co. KG
 500000-5FFFFF     (base 16)		Schunk SE & Co. KG
 				Bahnhofstraße 106-134
@@ -22477,6 +22468,27 @@ C00000-CFFFFF     (base 16)		E2-CAD
 				13-17 Allée Rosa Luxemburg
 				Eragny sur oise    95610
 				FR
+
+C4-82-72   (hex)		Private
+100000-1FFFFF     (base 16)		Private
+
+C4-82-72   (hex)		Tolt Technologies LLC
+A00000-AFFFFF     (base 16)		Tolt Technologies LLC
+				19520 Mountain View Road NE
+				Duvall  WA  98019-8822
+				US
+
+C4-82-72   (hex)		Smart Radar System, Inc
+E00000-EFFFFF     (base 16)		Smart Radar System, Inc
+				7F, Innovalley A, 253 Pangyo-ro Bundang-gu
+				Seongnam-si   Gyeonggi-do Korea  13486
+				KR
+
+38-B1-4E   (hex)		NACE
+700000-7FFFFF     (base 16)		NACE
+				1085 Andrew dr
+				West Chester  PA  19380
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -29884,6 +29896,9 @@ D00000-DFFFFF     (base 16)		Posital B.V.
 				ECI 13
 				Roermond    6041MA
 				NL
+
+38-B1-4E   (hex)		Private
+D00000-DFFFFF     (base 16)		Private
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -37453,3 +37468,15 @@ C4-82-72   (hex)		Melecs EWS GmbH
 				GZO-Technologiestrasse 1
 				Siegendorf     7011
 				AT
+
+38-B1-4E   (hex)		QNION Co.,Ltd
+800000-8FFFFF     (base 16)		QNION Co.,Ltd
+				165, Jukdong-ro Yuseong-gu
+				Daejeon  Daejeon  34127
+				KR
+
+38-B1-4E   (hex)		Marssun
+200000-2FFFFF     (base 16)		Marssun
+				8 F., No. 13, Ln. 332, Sec. 2, Zhongshan Rd., Zhonghe Dist.
+				New Taipei    235
+				TW
