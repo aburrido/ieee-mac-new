@@ -7625,17 +7625,29 @@ C4-82-72   (hex)		Mantenimiento y paileria
 				Cuautitlán  Estado de México  54831
 				MX
 
+C4-82-72   (hex)		Digisine Energytech Co., Ltd.
+200000-2FFFFF     (base 16)		Digisine Energytech Co., Ltd.
+				2F, No. 196, Sec. 2, Zhongxing Rd., Xindian Dist.,
+				New Taipei City    231
+				TW
+
 C4-82-72   (hex)		Satways Ltd
 900000-9FFFFF     (base 16)		Satways Ltd
 				15 Megalou Konstantinou Street
 				Irakleio, Attica    14122
 				GR
 
-C4-82-72   (hex)		Digisine Energytech Co., Ltd.
-200000-2FFFFF     (base 16)		Digisine Energytech Co., Ltd.
-				2F, No. 196, Sec. 2, Zhongxing Rd., Xindian Dist.,
-				New Taipei City    231
-				TW
+38-B1-4E   (hex)		DCL COMMUNICATION PTE. LTD.
+900000-9FFFFF     (base 16)		DCL COMMUNICATION PTE. LTD.
+				10 Ubi Crescent #04-18
+				Singapore    408564
+				SG
+
+38-B1-4E   (hex)		Universal Robots A/S
+600000-6FFFFF     (base 16)		Universal Robots A/S
+				Energivej 51
+				Odense S  Odense  5260
+				DK
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
