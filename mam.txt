@@ -37492,3 +37492,9 @@ C4-82-72   (hex)		Melecs EWS GmbH
 				8 F., No. 13, Ln. 332, Sec. 2, Zhongshan Rd., Zhonghe Dist.
 				New Taipei    235
 				TW
+
+38-B1-4E   (hex)		Amissiontech Co., Ltd
+A00000-AFFFFF     (base 16)		Amissiontech Co., Ltd
+				No.8 Huafu Rd, Shangsha, Chang’an Town
+				Dongguan  Guangdong  523843
+				CN

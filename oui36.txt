@@ -8237,6 +8237,12 @@ DA0000-DA0FFF     (base 16)		Sensata Technologies Inc.
 				TAICHUNG    40841
 				TW
 
+8C-1F-64   (hex)		JES Electronic Systems Private Limited
+976000-976FFF     (base 16)		JES Electronic Systems Private Limited
+				9/52/5 Kirti Nagar, near  industrial area, New Delhi 110015
+				New Delhi    110015
+				IN
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
