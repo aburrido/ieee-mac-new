@@ -7643,6 +7643,12 @@ C4-82-72   (hex)		Satways Ltd
 				Singapore    408564
 				SG
 
+38-B1-4E   (hex)		Guangzhou Sunrise Technology Co., Ltd.
+C00000-CFFFFF     (base 16)		Guangzhou Sunrise Technology Co., Ltd.
+				503, C2,No.182 Science Avenue,Science City,High-Tech Industrial Development Zone Guangzhou, Guangdong , CN.
+				Guangzhou  Guangdong  510000
+				CN
+
 38-B1-4E   (hex)		Universal Robots A/S
 600000-6FFFFF     (base 16)		Universal Robots A/S
 				Energivej 51
@@ -14761,6 +14767,12 @@ E00000-EFFFFF     (base 16)		Alban Giacomo S.p.a.
 				1026# Songbai Road,
 				Shenzhen  Guangdong   51800
 				CN
+
+38-B1-4E   (hex)		QRONOZ CO., Ltd.
+300000-3FFFFF     (base 16)		QRONOZ CO., Ltd.
+				Rm. 2, 9 F., No. 6, Ln. 180, Sec. 6,Minquan E. Rd., Neihu Dist.,
+				Taipei City    114708
+				TW
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -29936,6 +29948,12 @@ D00000-DFFFFF     (base 16)		Posital B.V.
 38-B1-4E   (hex)		Private
 D00000-DFFFFF     (base 16)		Private
 
+38-B1-4E   (hex)		Knit Sound Company
+E00000-EFFFFF     (base 16)		Knit Sound Company
+				496 Ada Dr SE Ste 201
+				Ada  MI  49301
+				US
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -37522,3 +37540,9 @@ A00000-AFFFFF     (base 16)		Amissiontech Co., Ltd
 				No.8 Huafu Rd, Shangsha, Chang’an Town
 				Dongguan  Guangdong  523843
 				CN
+
+38-B1-4E   (hex)		Brookhaven National Laboratory
+500000-5FFFFF     (base 16)		Brookhaven National Laboratory
+				741 Brookhaven Ave
+				Upton  NY  11973
+				US
