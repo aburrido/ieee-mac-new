@@ -29960,6 +29960,12 @@ E00000-EFFFFF     (base 16)		Knit Sound Company
 				Ada  MI  49301
 				US
 
+20-B3-7F   (hex)		QT medical inc
+300000-3FFFFF     (base 16)		QT medical inc
+				1370 Valley Vista Dr Ste 266
+				Diamond Bar  CA  91765
+				US
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
