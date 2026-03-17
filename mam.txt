@@ -14786,6 +14786,18 @@ E00000-EFFFFF     (base 16)		Alban Giacomo S.p.a.
 				Irvine  CA  92614
 				US
 
+20-B3-7F   (hex)		OTP CO.,LTD.
+400000-4FFFFF     (base 16)		OTP CO.,LTD.
+				817 the SOHO, 2-7-4, AOMI, KOTO-KU,TOKYO JAPAN 
+				TOKYO   TOKYO   135-0064
+				JP
+
+20-B3-7F   (hex)		Shenzhen HantangFengyun Technology Co.,Ltd
+500000-5FFFFF     (base 16)		Shenzhen HantangFengyun Technology Co.,Ltd
+				741, HUAMEIJU Building 2.， 82 of Haiyu Community., Xin'an Street, Bao'an District, Shenzhen
+				Shenzhen    518000
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -22562,6 +22574,18 @@ B00000-BFFFFF     (base 16)		Huizhou GYXX Technology Co., Ltd
 				Louisville  TN  37777
 				US
 
+20-B3-7F   (hex)		Chelsio Communications Inc
+000000-0FFFFF     (base 16)		Chelsio Communications Inc
+				735, N Pastoria Av
+				SUNNYVALE  CA  94085
+				US
+
+20-B3-7F   (hex)		Xunmu Information Technology (Shanghai) Co., Ltd.
+D00000-DFFFFF     (base 16)		Xunmu Information Technology (Shanghai) Co., Ltd.
+				15F,New Bund Oriental Plaza 1,No.512,Haiyang West Road, Pudong New Area, Shanghai
+				Shanghai    200135
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -29978,17 +30002,17 @@ E00000-EFFFFF     (base 16)		Knit Sound Company
 				Diamond Bar  CA  91765
 				US
 
-20-B3-7F   (hex)		Xconnect LLP
-800000-8FFFFF     (base 16)		Xconnect LLP
-				Kurmangazy st 77
-				Almaty  Almaty  050022
-				KZ
-
 C4-FF-BC   (hex)		HyperNet CO., LTD
 400000-4FFFFF     (base 16)		HyperNet CO., LTD
 				5F., No.16, Lane 15, Sec. 6, Mincyuan E. Rd., Neihu District,
 				TAIPEI    114
 				TW
+
+20-B3-7F   (hex)		Xconnect LLP
+800000-8FFFFF     (base 16)		Xconnect LLP
+				Kurmangazy st 77
+				Almaty  Almaty  050022
+				KZ
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -37588,3 +37612,9 @@ F4-A4-54   (hex)		TRI WORKS
 				Kiyokawa place 3F 1-14-18 kiyokawa Chuo-ku
 				Fukuoka-shi  Fukuoka  810-0041
 				JP
+
+20-B3-7F   (hex)		TDK-Lambda UK
+100000-1FFFFF     (base 16)		TDK-Lambda UK
+				Kingsley Avenue
+				Ilfracombe  Devon  EX348ES
+				GB
