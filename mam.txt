@@ -22598,6 +22598,12 @@ D00000-DFFFFF     (base 16)		Xunmu Information Technology (Shanghai) Co., Ltd.
 				Shanghai    200135
 				CN
 
+20-B3-7F   (hex)		Kawasaki Thermal Engineering Co.,Ltd.
+E00000-EFFFFF     (base 16)		Kawasaki Thermal Engineering Co.,Ltd.
+				1000 Aoji-cho
+				Kusatsu-shi  Shiga  525-8558
+				JP
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
