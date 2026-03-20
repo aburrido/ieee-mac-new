@@ -8255,6 +8255,12 @@ D6F000-D6FFFF     (base 16)		ARKTRON ELECTRONICS
 				FARIDABAD  HARYANA  121004
 				IN
 
+8C-1F-64   (hex)		NEOX Networks 
+9A0000-9A0FFF     (base 16)		NEOX Networks 
+				Monzastraße 4
+				Langen  Hesse  63225 
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -16633,12 +16639,6 @@ FF2000-FF2FFF     (base 16)		MITSUBISHI ELECTRIC INDIA PVT. LTD.
 				1-6-1-B1 Awaza, Nishi-ku
 				Osaka City  Osaka Prefecture  550-0011
 				JP
-
-8C-1F-64   (hex)		Owl Home Inc.
-51E000-51EFFF     (base 16)		Owl Home Inc.
-				SE #82363, 1-1100 Courtneypark Dr E
-				Mississauga  Ontario  L5T1L7
-				CA
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -33293,6 +33293,12 @@ F16000-F16FFF     (base 16)		Schildknecht AG
 				Owensboro  KY  42303
 				US
 
+8C-1F-64   (hex)		Metaphase Technologies
+FC8000-FC8FFF     (base 16)		Metaphase Technologies
+				200 Rittenhouse Circle, West Unit 7
+				Bristol  PA  19007
+				US
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -41488,3 +41494,9 @@ ACF000-ACFFFF     (base 16)		PROVENRUN
 				77 avenue Niel
 				PARIS    75017
 				FR
+
+8C-1F-64   (hex)		Automata GmbH & Co. KG
+EFF000-EFFFFF     (base 16)		Automata GmbH & Co. KG
+				Gewerbering 5
+				Ried  Bavaria  86510
+				DE
