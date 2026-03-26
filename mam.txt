@@ -7661,6 +7661,12 @@ C00000-CFFFFF     (base 16)		EGSTON Power Electronics GmbH
 				Eggenburg    3730
 				AT
 
+80-1D-0D   (hex)		WARNER ELECTRONICS (I) PVT. LTD.
+900000-9FFFFF     (base 16)		WARNER ELECTRONICS (I) PVT. LTD.
+				Plot No. A114/6, Five Star Industrial Area, Mumbai – Nagpur Highway, Shendra
+				Aurangabad  maharastra   431007
+				IN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -22604,12 +22610,6 @@ B00000-BFFFFF     (base 16)		B810 SPA
 				Louisville  TN  37777
 				US
 
-20-B3-7F   (hex)		Chelsio Communications Inc
-000000-0FFFFF     (base 16)		Chelsio Communications Inc
-				735, N Pastoria Av
-				SUNNYVALE  CA  94085
-				US
-
 20-B3-7F   (hex)		Xunmu Information Technology (Shanghai) Co., Ltd.
 D00000-DFFFFF     (base 16)		Xunmu Information Technology (Shanghai) Co., Ltd.
 				15F,New Bund Oriental Plaza 1,No.512,Haiyang West Road, Pudong New Area, Shanghai
@@ -22627,6 +22627,12 @@ E00000-EFFFFF     (base 16)		Kawasaki Thermal Engineering Co.,Ltd.
 				1000 Aoji-cho
 				Kusatsu-shi  Shiga  525-8558
 				JP
+
+80-1D-0D   (hex)		LONGI METER CO.,LTD.
+500000-5FFFFF     (base 16)		LONGI METER CO.,LTD.
+				No. 25 Guangming Road, Yinchuan (National Level) Economic and Technological Development Zone
+				Yinchuan  Ningxia  750021
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -30061,6 +30067,18 @@ E00000-EFFFFF     (base 16)		Knit Sound Company
 				99#, 8th Kenhui Road, Xinjie street, Xiaoshan District, Hangzhou, Zhejiang CN 311232
 				HANGZHOU  ZHEJIANG  311232
 				CN
+
+80-1D-0D   (hex)		KbDevice,Inc.
+000000-0FFFFF     (base 16)		KbDevice,Inc.
+				22-2, Hontorocho, Shimogyo-ku, Kyoto-shi
+				Kyoto    600-8086
+				JP
+
+80-1D-0D   (hex)		CRESTCHIC (UK) LIMITED
+800000-8FFFFF     (base 16)		CRESTCHIC (UK) LIMITED
+				Second AvenueCentrum 100
+				Burton upon Trent    DE14 2WF
+				GB
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
