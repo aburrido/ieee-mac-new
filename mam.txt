@@ -7661,6 +7661,12 @@ C00000-CFFFFF     (base 16)		EGSTON Power Electronics GmbH
 				Eggenburg    3730
 				AT
 
+20-B3-7F   (hex)		Shenzhen Hengbang Xinchuang Technology Co.,Ltd
+B00000-BFFFFF     (base 16)		Shenzhen Hengbang Xinchuang Technology Co.,Ltd
+				2nd Floor East, Workshop 3A, No. 268 Baoshi East Road, Shiyan Sub-district, Bao'an District, Shenzhen
+				Shenzhen  Guangdong   518108
+				CN
+
 80-1D-0D   (hex)		WARNER ELECTRONICS (I) PVT. LTD.
 900000-9FFFFF     (base 16)		WARNER ELECTRONICS (I) PVT. LTD.
 				Plot No. A114/6, Five Star Industrial Area, Mumbai – Nagpur Highway, Shendra
@@ -14832,6 +14838,12 @@ A00000-AFFFFF     (base 16)		ShenZhen C&D Electronics CO.Ltd.
 200000-2FFFFF     (base 16)		SZ Spinning Power Top Boundary Technology Co.Ltd.
 				1261B Yingfeng Center, No.19 Haitian 2nd Road, Binhai Community, Yuehai Street, Nanshan District, Shenzhen
 				SHENZHEN  GUANGDONG  518100
+				CN
+
+CC-E7-DE   (hex)		Shenzhen Jooan Technology  Co., Ltd
+000000-0FFFFF     (base 16)		Shenzhen Jooan Technology  Co., Ltd
+				Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen. 
+				Shenzhen  Guangdong  518000
 				CN
 
 B8-4C-87   (hex)		Altronix , Corp
@@ -37685,10 +37697,10 @@ D00000-DFFFFF     (base 16)		802 Secure
 				Emeryville  CA  94608
 				US
 
-80-1D-0D   (hex)		Lecoo Technology Co.,Ltd.
-300000-3FFFFF     (base 16)		Lecoo Technology Co.,Ltd.
-				Room 103, No. 1, Second Avenue, Tianjin Airport International Logistics Park, Tianjin Pilot Free TradeZone
-				Tianjin  Tianjin  300000
+80-1D-0D   (hex)		Luxshare Electronic Technology (KunShan) Ltd
+A00000-AFFFFF     (base 16)		Luxshare Electronic Technology (KunShan) Ltd
+				No. 699 Jinshang Road, Jinxi Town, Kunshan City, Jiangsu Province
+				Kunshan   Jiangsu  215300
 				CN
 
 80-1D-0D   (hex)		Syrma SGS Technology 
@@ -37697,10 +37709,16 @@ B00000-BFFFFF     (base 16)		Syrma SGS Technology
 				Chennai  Tamil Nadu  600045
 				IN
 
-80-1D-0D   (hex)		Luxshare Electronic Technology (KunShan) Ltd
-A00000-AFFFFF     (base 16)		Luxshare Electronic Technology (KunShan) Ltd
-				No. 699 Jinshang Road, Jinxi Town, Kunshan City, Jiangsu Province
-				Kunshan   Jiangsu  215300
+80-1D-0D   (hex)		Lecoo Technology Co.,Ltd.
+300000-3FFFFF     (base 16)		Lecoo Technology Co.,Ltd.
+				Room 103, No. 1, Second Avenue, Tianjin Airport International Logistics Park, Tianjin Pilot Free TradeZone
+				Tianjin  Tianjin  300000
+				CN
+
+80-1D-0D   (hex)		Shanghai ReveISpark Technologies Co.,Ltd.
+E00000-EFFFFF     (base 16)		Shanghai ReveISpark Technologies Co.,Ltd.
+				2nd Floor,No.25-1 Hongcao Road,Xuhui District,Shanghai,China
+				Shanghai    200233
 				CN
 
 20-B3-7F   (hex)		B810 SPA
@@ -37708,3 +37726,9 @@ A00000-AFFFFF     (base 16)		Luxshare Electronic Technology (KunShan) Ltd
 				Via Enzo Lazzaretti, 2/1
 				REGGIO EMILIA  Reggio Emilia  42122
 				IT
+
+80-1D-0D   (hex)		Hörmann Warnsysteme GmbH
+100000-1FFFFF     (base 16)		Hörmann Warnsysteme GmbH
+				Hauptstr. 45-47
+				Kirchseeon  Bavaria  85614
+				DE
