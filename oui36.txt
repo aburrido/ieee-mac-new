@@ -8267,6 +8267,12 @@ A25000-A25FFF     (base 16)		Potter Electric Signal Company
 				Hazelwood  MO  63042
 				US
 
+8C-1F-64   (hex)		AT-Automation Technology GmbH
+2DA000-2DAFFF     (base 16)		AT-Automation Technology GmbH
+				Hermann-Boessow-Str. 6-8
+				Bad Oldesloe    D-23843
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -16663,6 +16669,12 @@ D82000-D82FFF     (base 16)		Shanghai Jarue Microsystem.CO.,Ltd.
 				16333 Raymer Street Suite B
 				Van Nuys  CA  91406
 				US
+
+8C-1F-64   (hex)		Cyberkar Systems inc.
+DF0000-DF0FFF     (base 16)		Cyberkar Systems inc.
+				3026 Anderson suit 202
+				Terrebonne  Quebec  J6Y1W1
+				CA
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech

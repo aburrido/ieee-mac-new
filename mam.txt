@@ -7661,17 +7661,17 @@ C00000-CFFFFF     (base 16)		EGSTON Power Electronics GmbH
 				Eggenburg    3730
 				AT
 
-80-1D-0D   (hex)		WARNER ELECTRONICS (I) PVT. LTD.
-900000-9FFFFF     (base 16)		WARNER ELECTRONICS (I) PVT. LTD.
-				Plot No. A114/6, Five Star Industrial Area, Mumbai – Nagpur Highway, Shendra
-				Aurangabad  maharastra   431007
-				IN
-
 20-B3-7F   (hex)		Shenzhen Hengbang Xinchuang Technology Co.,Ltd
 B00000-BFFFFF     (base 16)		Shenzhen Hengbang Xinchuang Technology Co.,Ltd
 				2nd Floor East, Workshop 3A, No. 268 Baoshi East Road, Shiyan Sub-district, Bao'an District, Shenzhen
 				Shenzhen  Guangdong   518108
 				CN
+
+80-1D-0D   (hex)		WARNER ELECTRONICS (I) PVT. LTD.
+900000-9FFFFF     (base 16)		WARNER ELECTRONICS (I) PVT. LTD.
+				Plot No. A114/6, Five Star Industrial Area, Mumbai – Nagpur Highway, Shendra
+				Aurangabad  maharastra   431007
+				IN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -14845,6 +14845,24 @@ CC-E7-DE   (hex)		Shenzhen Jooan Technology  Co., Ltd
 				Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen. 
 				Shenzhen  Guangdong  518000
 				CN
+
+CC-E7-DE   (hex)		Guangdong Sirivision Communication Technology Co.,LTD.
+C00000-CFFFFF     (base 16)		Guangdong Sirivision Communication Technology Co.,LTD.
+				Building 6, No. 16 Nanmian Road, Humen Town
+				Dongguan City  Guangdong Province  523899
+				CN
+
+CC-E7-DE   (hex)		Octopus Energy Ltd
+200000-2FFFFF     (base 16)		Octopus Energy Ltd
+				UK House, 5th Floor, United Kingdom House, 164-182 Oxford St
+				London    W1D 1NN
+				GB
+
+CC-E7-DE   (hex)		Juke Audio
+D00000-DFFFFF     (base 16)		Juke Audio
+				112 20th street
+				Manhattan Beach  CA  90266
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30086,6 +30104,12 @@ E00000-EFFFFF     (base 16)		Knit Sound Company
 				Burton upon Trent    DE14 2WF
 				GB
 
+C4-82-72   (hex)		NextSilicon
+300000-3FFFFF     (base 16)		NextSilicon
+				Derekh Begin 33
+				Gibatayim    5348303
+				IL
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -37732,3 +37756,9 @@ E00000-EFFFFF     (base 16)		Shanghai ReveISpark Technologies Co.,Ltd.
 				Hauptstr. 45-47
 				Kirchseeon  Bavaria  85614
 				DE
+
+CC-E7-DE   (hex)		3D Computing
+B00000-BFFFFF     (base 16)		3D Computing
+				D102, 2nd floor, street no 5, laxmi nagar, delhi 110092
+				Delhi  Delhi  110092
+				IN
