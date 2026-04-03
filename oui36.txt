@@ -8273,6 +8273,12 @@ A25000-A25FFF     (base 16)		Potter Electric Signal Company
 				Bad Oldesloe    D-23843
 				DE
 
+8C-1F-64   (hex)		Right Time Sports LLC
+6F0000-6F0FFF     (base 16)		Right Time Sports LLC
+				PO Box 684
+				Supply  NC  28462
+				US
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -25058,17 +25064,29 @@ D67000-D67FFF     (base 16)		Groundtruth Ltd
 				Saitama-shi  Saitama  330-0855
 				JP
 
+8C-1F-64   (hex)		SekureTrak Inc. dba TraknProtect
+C82000-C82FFF     (base 16)		SekureTrak Inc. dba TraknProtect
+				1240 N. Lake Shore DriveUnit 5B
+				Chicago  IL  60610
+				US
+
+8C-1F-64   (hex)		Wuxi Eutron Electronics Technology Co.,Ltd
+3F5000-3F5FFF     (base 16)		Wuxi Eutron Electronics Technology Co.,Ltd
+				1st floor , Building C , No. 40 Chunhui Middle Road, Xishan District, Wuxi City, Jiangsu
+				Wuxi    214000
+				CN
+
 8C-1F-64   (hex)		SiLC Technologies 
 BBB000-BBBFFF     (base 16)		SiLC Technologies 
 				181 W Huntington Dr. Ste 200
 				Monrovia  CA  91016
 				US
 
-8C-1F-64   (hex)		SekureTrak Inc. dba TraknProtect
-C82000-C82FFF     (base 16)		SekureTrak Inc. dba TraknProtect
-				1240 N. Lake Shore DriveUnit 5B
-				Chicago  IL  60610
-				US
+8C-1F-64   (hex)		Viettel High Tech
+D6D000-D6DFFF     (base 16)		Viettel High Tech
+				380 Lac Long Quan St, Tay Ho
+				Hanoi    100000
+				VN
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -33388,6 +33406,12 @@ F8E000-F8EFFF     (base 16)		Chengdu Aplux Inteligence Technology Ltd.
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
+
+8C-1F-64   (hex)		Zhejiang Tengen Electric Co.,Ltd.
+027000-027FFF     (base 16)		Zhejiang Tengen Electric Co.,Ltd.
+				Sulv Industrial Area,Liushi Town
+				Yueqing  Zhejiang  325604
+				CN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
