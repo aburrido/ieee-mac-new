@@ -7679,6 +7679,18 @@ CC-E7-DE   (hex)		Chengdu Vantron Technology Co., Ltd.
 				Chengdu  Sichuan  610045
 				CN
 
+CC-E7-DE   (hex)		Shenzhen Xingyi Intelligent Technology Co.,Ltd
+E00000-EFFFFF     (base 16)		Shenzhen Xingyi Intelligent Technology Co.,Ltd
+				905,Bldg 1,Xinyi Lingyu R&D Center No.30,Honglang Beier Rd,Zone 69,Xingdong Community,Xin'an Sub-district,Bao'an Dist,Shenzhen,Guangdong,China
+				Shenzhen    518000
+				CN
+
+CC-E7-DE   (hex)		Kaze.AI Technology Co.,Ltd.
+100000-1FFFFF     (base 16)		Kaze.AI Technology Co.,Ltd.
+				Romm 5D, 5th Floor, Block A, Central Avenue, Xixiang Subdistrict, Bao'an District, Shenzhen
+				Romm 5D, 5th Floor, Block A, Central Avenue, Xixiang Subdistrict, Bao'an District, Shenzhen    518100
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -30145,6 +30157,12 @@ C4-82-72   (hex)		NextSilicon
 				Derekh Begin 33
 				Gibatayim    5348303
 				IL
+
+4C-6E-44   (hex)		Panache DigiLife Limited
+600000-6FFFFF     (base 16)		Panache DigiLife Limited
+				B-507, Raheja Plaza Premises CSL, LBS Marg, Ghatkopar West , Maharashtra 400086
+				Mumbai  Maharashtra  400086
+				IN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
