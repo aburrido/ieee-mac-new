@@ -22676,8 +22676,11 @@ C00000-CFFFFF     (base 16)		LOGICOM SA
 				Yinchuan  Ningxia  750021
 				CN
 
-CC-E7-DE   (hex)		Private
-300000-3FFFFF     (base 16)		Private
+CC-E7-DE   (hex)		Opal Camera Inc.
+A00000-AFFFFF     (base 16)		Opal Camera Inc.
+				150 POST STREET, SUITE 700
+				SAN FRANCISCO  CA  94108
+				US
 
 CC-E7-DE   (hex)		Skylight
 600000-6FFFFF     (base 16)		Skylight
@@ -22685,11 +22688,8 @@ CC-E7-DE   (hex)		Skylight
 				San Francisco  CA  94111
 				US
 
-CC-E7-DE   (hex)		Opal Camera Inc.
-A00000-AFFFFF     (base 16)		Opal Camera Inc.
-				150 POST STREET, SUITE 700
-				SAN FRANCISCO  CA  94108
-				US
+CC-E7-DE   (hex)		Private
+300000-3FFFFF     (base 16)		Private
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
