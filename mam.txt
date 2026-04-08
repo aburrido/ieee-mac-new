@@ -10925,12 +10925,6 @@ D00000-DFFFFF     (base 16)		Amiosec Ltd
 				Tewkesbury  Gloucestershire  GL20 8DN
 				GB
 
-04-C3-E6   (hex)		Innovusion Inc.
-400000-4FFFFF     (base 16)		Innovusion Inc.
-				4920 El Camino Real
-				Los Altos  CA  94022
-				US
-
 04-C3-E6   (hex)		SLOC GmbH
 800000-8FFFFF     (base 16)		SLOC GmbH
 				Nikolaiplatz 4
@@ -14881,6 +14875,12 @@ C00000-CFFFFF     (base 16)		Guangdong Sirivision Communication Technology Co.,L
 				Building 6, No. 16 Nanmian Road, Humen Town
 				Dongguan City  Guangdong Province  523899
 				CN
+
+04-C3-E6   (hex)		Seyond 
+400000-4FFFFF     (base 16)		Seyond 
+				160 San Gabriel Dr
+				Sunnyvale  CA  94086
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -22690,6 +22690,18 @@ CC-E7-DE   (hex)		Skylight
 
 CC-E7-DE   (hex)		Private
 300000-3FFFFF     (base 16)		Private
+
+4C-6E-44   (hex)		Swistec GmbH
+A00000-AFFFFF     (base 16)		Swistec GmbH
+				Keldenicher Str. 18
+				Bornheim    53332
+				DE
+
+4C-6E-44   (hex)		Quasonix
+000000-0FFFFF     (base 16)		Quasonix
+				6025 Schumacher Park Drive
+				West Chester  OH  45069
+				US
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
