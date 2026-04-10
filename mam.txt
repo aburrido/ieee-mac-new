@@ -30176,6 +30176,12 @@ C4-82-72   (hex)		NextSilicon
 				Mumbai  Maharashtra  400086
 				IN
 
+4C-6E-44   (hex)		1Home Solutions GmbH
+D00000-DFFFFF     (base 16)		1Home Solutions GmbH
+				Friedrichstrasse 155
+				Berlin    10117
+				DE
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
