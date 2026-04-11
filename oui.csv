@@ -7897,11 +7897,17 @@ MA-L,4C548B,Cerebras System Inc.,1237 E Arques Ave Sunnyvale CA US 94085-4701
 MA-L,80A63C,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,A40F25,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,7831C4,Panascais ehf.,Suðurlandsbraut 4 Reykjavík  IS 108 
-MA-L,D0845D,"B&C Transit, Inc.",701 Seco Road Monroeville PA US 15146 
-MA-L,90848E,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
-MA-L,8C1801,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,4C6CA1,Chipsea Technologies (Shenzhen) Crop.,"Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen Shenzhen  CN 518000 "
 MA-L,80456B,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,90848E,"FUJIAN STAR-NET COMMUNICATION CO.,LTD","19-22# Building, Star-net Science Plaza, Juyuanzhou, FUZHOU FUJIAN CN 350002 "
+MA-L,8C1801,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,D0845D,"B&C Transit, Inc.",701 Seco Road Monroeville PA US 15146 
+MA-L,40ED7B,Zscaler,120 Holger Way San Jose CA US 95134 
+MA-L,B4DF09,FLUX::,8500 Balboa Boulevard Northridge CA US 91325 
+MA-L,F0B163,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,ACA899,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,384E56,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,B8DA5E,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15678,6 +15684,9 @@ MA-L,64D363,Seyond ,160 San Gabriel Dr Sunnyvale CA US 94086
 MA-L,90922C,"Changzhi City Zhouyi Hengtong Information Security Co.,Ltd.","No. 108, Haisen Street, High-tech Industrial Development Zone Changzhi Shanxi CN 046000 "
 MA-L,D49477,FONEX Data Systems Inc. ,5400 Saint-Francois Saint-Laurent QC CA H4S 1P6 
 MA-L,BCFABA,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,788AFB,"HANSHOW TECHNOLOGY CO.,LTD.","The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, Jiaxing Photovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District, Jiaxing City, Zhejiang Prov,P.R.China JIAXING  CN 314000 "
+MA-L,401277,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
+MA-L,DC1B48,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23470,6 +23479,8 @@ MA-L,0C025B,Microchip Technology Inc.,2355 W. Chandler Blvd. Chandler AZ US 8522
 MA-L,A8754E,"Nexlawn Intelligent Technology (Suzhou) Co., Ltd.","10/F, Building B, No. 7 Qian Zhu Road, Taihu Street, Suzhou Jiangsu Province CN 215100 "
 MA-L,589204,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,480951,"Guangzhou Trustmo Information System Co.,LTD","19th Floor, No.123 Tiyu West Road, Tianhe District, Guangzhou City,Guangdong P.R. China Guangzhou Guangdong CN 510000 "
+MA-L,74E665,Dynabook Technology (Hangzhou) Inc.,"2/F,Building2,NO.3,East Gate,Comprehensive bonded Zone,Qiantang District,Hangzhou,Zhejiang Hangzhou  CN 310018 "
+MA-L,A43CD4,JBL Professional,8500 Balboa Boulevard Northridge CA US 91325 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31379,13 +31390,16 @@ MA-L,EC715E,Freefly Systems Inc,"16650 Woodinville-Redmond RD NE, Bldg D Woodinv
 MA-L,447B45,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,90FC55,Hyve Solutions,44201 Nobel Dr Fremont CA US 94538 
 MA-L,CCE7DE,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
-MA-L,CCDD28,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
-MA-L,286926,"OPTOKON, a.s.",Červený Kříž 250 Jihlava  CZ 586 01 
 MA-L,48F925,Maestronic,#205-3689 1st Avenue East Vancouver  CA 88BC V5M 1C2 
 MA-L,4CA03D,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
-MA-L,38FF59,Dell Inc.,One Dell Way Round Rock  TX US 78682 
+MA-L,E4FADE,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,B87B4D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,D40592,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,CCDD28,ACCTON TECHNOLOGY CORPORATION,"No.1, Creation Road 3, Hsinchu Science Park, Hsinchu  TW 30077 "
+MA-L,8099CF,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,38FF59,Dell Inc.,One Dell Way Round Rock  TX US 78682 
+MA-L,286926,"OPTOKON, a.s.",Červený Kříž 250 Jihlava  CZ 586 01 
+MA-L,0CFEE5,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -39204,3 +39218,4 @@ MA-L,10F1C7,Tachyon Networks Inc,4783 W Stoney Brook Ln Highland UT US 84003
 MA-L,E4FF69,Holiday Robotics,"4F, 70, Nonhyeon-ro 85-gil, Gangnam-gu Seoul  KR 06234 "
 MA-L,4C6E44,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,481389,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,8498A7,Texas Instruments,12500 TI Blvd Dallas TX US 75243 

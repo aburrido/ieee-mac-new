@@ -7691,6 +7691,12 @@ CC-E7-DE   (hex)		Kaze.AI Technology Co.,Ltd.
 				Romm 5D, 5th Floor, Block A, Central Avenue, Xixiang Subdistrict, Bao'an District, Shenzhen    518100
 				CN
 
+4C-6E-44   (hex)		Shenzhen iTayga Technology Co.,Ltd
+800000-8FFFFF     (base 16)		Shenzhen iTayga Technology Co.,Ltd
+				Room 516, Building A, Huafeng Huayuan Technology Innovation Park, Xixiang Street, Bao'an District, Shenzhen
+				Shenzhen  粤  518100
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14881,6 +14887,15 @@ C00000-CFFFFF     (base 16)		Guangdong Sirivision Communication Technology Co.,L
 				160 San Gabriel Dr
 				Sunnyvale  CA  94086
 				US
+
+4C-6E-44   (hex)		Windar Photonics A/S
+C00000-CFFFFF     (base 16)		Windar Photonics A/S
+				Baldersbækvej 24 C, 2635 Ishøj
+				Ishøj  Capital Region of Denmark  2635
+				DK
+
+4C-6E-44   (hex)		Private
+400000-4FFFFF     (base 16)		Private
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30170,17 +30185,23 @@ C4-82-72   (hex)		NextSilicon
 				Gibatayim    5348303
 				IL
 
-4C-6E-44   (hex)		Panache DigiLife Limited
-600000-6FFFFF     (base 16)		Panache DigiLife Limited
-				B-507, Raheja Plaza Premises CSL, LBS Marg, Ghatkopar West , Maharashtra 400086
-				Mumbai  Maharashtra  400086
-				IN
-
 4C-6E-44   (hex)		1Home Solutions GmbH
 D00000-DFFFFF     (base 16)		1Home Solutions GmbH
 				Friedrichstrasse 155
 				Berlin    10117
 				DE
+
+4C-6E-44   (hex)		Qingting Intelligent Technology（Suzhou）Co.,Ltd.
+300000-3FFFFF     (base 16)		Qingting Intelligent Technology（Suzhou）Co.,Ltd.
+				Room 302, 3rd Floor, R&D Building 9, No. 9, 1999 Songjia Road, Guoxiang Street, Wuzhong Economic Development Zone
+				Suzhou  JiangSu  215000
+				CN
+
+4C-6E-44   (hex)		Panache DigiLife Limited
+600000-6FFFFF     (base 16)		Panache DigiLife Limited
+				B-507, Raheja Plaza Premises CSL, LBS Marg, Ghatkopar West , Maharashtra 400086
+				Mumbai  Maharashtra  400086
+				IN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
