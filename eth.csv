@@ -2274,6 +2274,10 @@ EtherType,7014,Olteco (Olevetti),   US  ,Protocol unavailable.
 EtherType,FC3D,IEEE 1914 Next Generation Fronthaul Interface  Working Group,445 Hoes Lane Piscataway NJ US 08854-4141 ,Radio over Ethernet (RoE) encapsulation per IEEE Std 1914.3.
 EtherType,B081,"Shenzhen Inovance Technology Co.,Ltd","Inovance Headquarters Tower, High-tech Industrial Park,Guanlan Street, Longhua New District, Shenzhen P.R.China Shenzhen Guangdong CN 518110 ","WiTSnet is a real-time Ethernet communication protocol with flexible networking, multiple reliability guarantees, low latency and high synchronisation accuracy, application layer compatibility and extensibility, and simple deployment and easy maintenance."
 EtherType,8915,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ",RoCE - RDMA over Converged Ethernet
+EtherType,CB4B,Diretta,4-29-8 Honjyo SumidaKu Tokyo  JP 1300004 ,"Sends raw audio stream data without using IP protocols
+Used for low-latency high-resolution audio
+
+https://www.diretta.link/DDS.txt"
 EtherType,0105,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,0134,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,013B,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983

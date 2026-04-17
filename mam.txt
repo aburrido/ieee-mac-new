@@ -2030,12 +2030,6 @@ C00000-CFFFFF     (base 16)		Anacove LLC
 				LA JOLLA  CA  92037
 				US
 
-30-49-50   (hex)		Ledworks SRL
-A00000-AFFFFF     (base 16)		Ledworks SRL
-				Via Tortona 37
-				Milano  Milano  20144
-				IT
-
 30-49-50   (hex)		ATLI WORLD LIMITED
 100000-1FFFFF     (base 16)		ATLI WORLD LIMITED
 				306 Beverley Commercial Center, 87-105 Chatham Road, TST,
@@ -7702,6 +7696,18 @@ CC-E7-DE   (hex)		Kaze.AI Technology Co.,Ltd.
 				Kurt-Schumacher-Str. 13
 				Germering    82110
 				DE
+
+4C-6E-44   (hex)		NovaFly LLC
+B00000-BFFFFF     (base 16)		NovaFly LLC
+				2108 N ST STE N, SACRAMENTO, CA 95816
+				SACRAMENTO  CA  95816
+				US
+
+30-49-50   (hex)		Illucere Srl
+A00000-AFFFFF     (base 16)		Illucere Srl
+				Via Tortona 37
+				Milano  Milano  20144
+				IT
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -30215,16 +30221,22 @@ D00000-DFFFFF     (base 16)		1Home Solutions GmbH
 				Mumbai  Maharashtra  400086
 				IN
 
-4C-6E-44   (hex)		Shenzhen Xmitech Electronic Co.,Ltd
-100000-1FFFFF     (base 16)		Shenzhen Xmitech Electronic Co.,Ltd
-				Room 8B1888, Block AB, New Energy Building, No.2239, Nanhai Avenue, Nanguang Community, Nanshan Street, Nanshan District, Shenzhen
-				Shenzhen    518054
+4C-6E-44   (hex)		Shenzhen Jooan Technology  Co., Ltd
+E00000-EFFFFF     (base 16)		Shenzhen Jooan Technology  Co., Ltd
+				Area B, Floor 101-2, Floor 3, Floor 5 and Floor 6 of area B, Building No. 8, Guixiang Community Plaza Road, Guanlan Street, Longhua District, Shenzhen. 
+				Shenzhen  Guangdong  518000
 				CN
 
 4C-6E-44   (hex)		Luxshare Electronic Technology (KunShan) Ltd
 700000-7FFFFF     (base 16)		Luxshare Electronic Technology (KunShan) Ltd
 				No. 699 Jinshang Road, Jinxi Town, Kunshan City, Jiangsu Province
 				Kunshan   Jiangsu  215300
+				CN
+
+4C-6E-44   (hex)		Shenzhen Xmitech Electronic Co.,Ltd
+100000-1FFFFF     (base 16)		Shenzhen Xmitech Electronic Co.,Ltd
+				Room 8B1888, Block AB, New Energy Building, No.2239, Nanhai Avenue, Nanguang Community, Nanshan Street, Nanshan District, Shenzhen
+				Shenzhen    518054
 				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
@@ -37891,3 +37903,9 @@ CC-E7-DE   (hex)		Fareco
 				Room 34, 7th Floor, Unit 2, Building 5, No. 68 Yangzi Mountain Road, Chenghua District
 				Chengdu  Sichuan  610000
 				CN
+
+A4-4F-3E   (hex)		LINK Group Inc.
+900000-9FFFFF     (base 16)		LINK Group Inc.
+				43855 Plymouth Oaks Blvd
+				Plymouth  MI  48170
+				US

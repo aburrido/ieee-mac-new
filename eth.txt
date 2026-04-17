@@ -11644,6 +11644,13 @@ B081                          Shenzhen Inovance Technology Co.,Ltd              
                               US                                                                                                       
 
 
+CB4B                          Diretta                                                                                                  Sends raw audio stream data without using IP protocols
+                              4-29-8 Honjyo SumidaKu                                                                                   Used for low-latency                                                       
+                              Tokyo    1300004                                                                                         high-resolution audio                                                      
+                              JP                                                                                                                                                                                  
+                                                                                                                                       https://www.diretta.link/DDS.txt                                           
+
+
 0105                          Xerox (Experimental)                                                                                     Invalid as an EtherType value since 1983
                                                                                                                                        
                               Webster  NY                                                                                              
