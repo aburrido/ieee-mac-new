@@ -63,7 +63,6 @@ MA-S,8C1F64803,MOSCA Elektronik und Antriebstechnik GmbH,Albert-Einstein-Straße
 MA-S,70B3D5A33,TIAMA,215 Chemin du Grand Revoyet Saint-Genis Laval Auvergne Rhone Alpes FR 69230 
 MA-S,70B3D5798,TIAMA,215 Chemin du Grand Revoyet Saint-Genis Laval Auvergne Rhone Alpes FR 69230 
 MA-S,8C1F64756,Star Systems International Limited,"Unit 7B,  8/F, Vanta Industrial Centre, 21-33 Tai Lin Pai Road, Kwai Chung New Territories  HK 852 "
-MA-S,8C1F6466D,VT100 SRL,Via A. Meucci 11 Caldiero ITALY IT 37042 
 MA-S,8C1F64154,Flextronics International Kft,38. Zrinyi Str. Zalaegerszeg Zala HU 8900 
 MA-S,8C1F640F4,AW-SOM Technologies LLC,1284 SOM Center Rd. -Suite 145 Mayfield Heights OH US 44124-2048 
 MA-S,8C1F64AFF,Qtechnology A/S,"Valby Langgade 142, 1. Valby DK DK 2500 "
@@ -1387,6 +1386,7 @@ MA-S,8C1F64FE6,"Cognicom, Inc.","5095 Murphy Canyon Rd, Ste 240 San Diego CA US 
 MA-S,8C1F641CC,TEX COMPUTER SRL ,Via O. Respighi 13 CATTOLICA  RIMINI  IT 47841 
 MA-S,8C1F64893,"Portrait Displays, Inc.","4637 Chabot Drive, Suite 115 Pleasanton CA US 94588 "
 MA-S,8C1F6451C,"JS Tech Co., Ltd.","Room 807, Building A, 190 Soha-ro Gwangmyeong-si Gyeonggi-do KR 14322 "
+MA-S,8C1F6466D,VT100 SRL,Viale Dell'Artigianato 4 Caldiero ITALY IT 37042 
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -3764,7 +3764,6 @@ MA-S,70B3D5C97,CSINFOTEL,"3F, daedeok-daero 566, Yuseong-gu, Daejeon Daejeon Rep
 MA-S,70B3D5208,DSP DESIGN LTD,TAPTON PARK INNOVATION CENTRE CHESTERFIELD DERBYSHIRE GB S41 0TZ 
 MA-S,70B3D5459,"Protium Technologies, Inc.",10 Bearfoot Rd. Northborough MA US 01532 
 MA-S,70B3D5C55,Intelligent Energy Ltd,Holywell Park Loughborough Leicestershire GB LE11 3GB 
-MA-S,70B3D591E,Creotech Instruments S.A.,ul. Gen. L. Okulickiego 7/9 Piaseczno Mazovia PL 05-500 
 MA-S,70B3D5A4B,McKay Brothers LLC,2355 Broadway Oakland CA US 94612 
 MA-S,70B3D573E,Trident RFID Pty Ltd,Unit 1/24 Redcliffe Gardens Drive Clontarf QLD AU 4019 
 MA-S,70B3D5078,OrbiWise SA,c/o Fongit Plan-les-Ouates Geneva CH 1228 
@@ -4203,6 +4202,7 @@ MA-S,8C1F64D6D,Viettel High Tech,"380 Lac Long Quan St, Tay Ho Hanoi  VN 100000 
 MA-S,8C1F64A9F,DADHWAL AI PRIVATE LIMITED,"F 74, INDUSTRIAL AREA PHASE 7 SAS NAGAR PUNJAB IN 160055 "
 MA-S,8C1F64A41,"Guan Show Technologe Co., Ltd.","No.127, Jianguo 1st Rd., Lingya Dist.  Kaohsiung City   TW 802 "
 MA-S,8C1F64ADA,Ability Intelligent Corp.,"No. 200, Sec.3, Zhonghuan Rd., Xinzhuang Dist., New Taipei City 242030, Taiwan (R.O.C.) New Taipei City  TW 242030 "
+MA-S,70B3D591E,Creotech Quantum SA,ul. Gen. L. Okulickiego 7/9 Piaseczno Mazovia PL 05-500 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
