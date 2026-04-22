@@ -14933,6 +14933,12 @@ A4-4F-3E   (hex)		United Automotive Electronic Systems Co.,Ltd
 				Shanghai    201206
 				CN
 
+A4-4F-3E   (hex)		NTT sonority, Inc.
+D00000-DFFFFF     (base 16)		NTT sonority, Inc.
+				3-20-2, Nishishinjuku
+				Shinjuku-ku  Tokyo  163-1432
+				JP
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -30268,6 +30274,12 @@ B00000-BFFFFF     (base 16)		Suzhou AIDomex Intelligent Technology Co., Ltd.
 				B422,18th.Zhanye RD. SIP. Suzhou China
 				Suzhou  Jiangsu  215122
 				CN
+
+A4-4F-3E   (hex)		Annapurna labs
+300000-3FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
