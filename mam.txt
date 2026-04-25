@@ -7721,6 +7721,12 @@ A00000-AFFFFF     (base 16)		Illucere Srl
 				Germering    82110
 				DE
 
+A4-4F-3E   (hex)		ShenZhen Chainway Information Technology Co., Ltd.
+E00000-EFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
+				 9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District
+				ShenZhen  GuangDong  518102
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -30281,14 +30287,26 @@ E00000-EFFFFF     (base 16)		Shenzhen Jooan Technology  Co., Ltd
 				Shenzhen    518054
 				CN
 
+A4-4F-3E   (hex)		Annapurna labs
+300000-3FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 A4-4F-3E   (hex)		Suzhou AIDomex Intelligent Technology Co., Ltd.
 B00000-BFFFFF     (base 16)		Suzhou AIDomex Intelligent Technology Co., Ltd.
 				B422,18th.Zhanye RD. SIP. Suzhou China
 				Suzhou  Jiangsu  215122
 				CN
 
-A4-4F-3E   (hex)		Annapurna labs
-300000-3FFFFF     (base 16)		Annapurna labs
+A4-4F-3E   (hex)		CMCNI Co., Ltd
+A00000-AFFFFF     (base 16)		CMCNI Co., Ltd
+				B-601  Hangang Xi TowerYangcheonro 401Gangseogu
+				Seoul    07528
+				KR
+
+F8-C9-D6   (hex)		Annapurna labs
+200000-2FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
