@@ -7727,6 +7727,12 @@ E00000-EFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
 				ShenZhen  GuangDong  518102
 				CN
 
+F8-C9-D6   (hex)		VT100 SRL
+B00000-BFFFFF     (base 16)		VT100 SRL
+				Viale Dell'Artigianato 4
+				Caldiero  ITALY  37042
+				IT
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -37999,3 +38005,9 @@ A4-4F-3E   (hex)		Mobilint
 				35, Seolleung-ro 93-gil
 				Seoul  Gangnam-gu  06151
 				KR
+
+F8-C9-D6   (hex)		Miri Technologies, Inc
+800000-8FFFFF     (base 16)		Miri Technologies, Inc
+				156 Madison Ave
+				Reading  PA  19605
+				US
