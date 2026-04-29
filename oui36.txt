@@ -16754,6 +16754,12 @@ C95000-C95FFF     (base 16)		LEMIER
 				Yancheng City  Jiangsu  224199
 				CN
 
+8C-1F-64   (hex)		ICS SOLUTIONS INC.
+C2E000-C2EFFF     (base 16)		ICS SOLUTIONS INC.
+				E-705,706, songdo-miraero, younsu-gu
+				incheon    21990
+				KR
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -25178,17 +25184,17 @@ A41000-A41FFF     (base 16)		Guan Show Technologe Co., Ltd.
 				 Kaohsiung City     802
 				TW
 
-8C-1F-64   (hex)		MYIR Electronics Limited
-8B4000-8B4FFF     (base 16)		MYIR Electronics Limited
-				Room 04, 6th Floor, Building No.2, Fada Road, Yunli Smart Park,Bantian, Longgang District, Shenzhen, Guangdong, China
-				Shenzhen  Guangdong  518129
-				CN
-
 70-B3-D5   (hex)		Creotech Quantum SA
 91E000-91EFFF     (base 16)		Creotech Quantum SA
 				Migdalowa 4
 				Warsaw  Mazovia  02-796
 				PL
+
+8C-1F-64   (hex)		MYIR Electronics Limited
+8B4000-8B4FFF     (base 16)		MYIR Electronics Limited
+				Room 04, 6th Floor, Building No.2, Fada Road, Yunli Smart Park,Bantian, Longgang District, Shenzhen, Guangdong, China
+				Shenzhen  Guangdong  518129
+				CN
 
 8C-1F-64   (hex)		TimeMachines Inc.
 381000-381FFF     (base 16)		TimeMachines Inc.
@@ -41806,3 +41812,9 @@ BD4000-BD4FFF     (base 16)		AVEA Group, Inc.
 				No.401 Intelliumcentum,21,Centum 6-ro,Haeundae-gu
 				Busan    48059
 				KR
+
+8C-1F-64   (hex)		Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
+EC5000-EC5FFF     (base 16)		Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
+				No.666 Huatong Road, High-tech Industrial Development Zone, Tongzhou District, Nantong City, Jiangsu Province, China
+				Nantong  Jiangsu  226315
+				CN

@@ -7721,17 +7721,17 @@ A00000-AFFFFF     (base 16)		Illucere Srl
 				Milano  Milano  20144
 				IT
 
-A4-4F-3E   (hex)		ShenZhen Chainway Information Technology Co., Ltd.
-E00000-EFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
-				 9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District
-				ShenZhen  GuangDong  518102
-				CN
-
 F8-C9-D6   (hex)		VT100 SRL
 B00000-BFFFFF     (base 16)		VT100 SRL
 				Viale Dell'Artigianato 4
 				Caldiero  ITALY  37042
 				IT
+
+A4-4F-3E   (hex)		ShenZhen Chainway Information Technology Co., Ltd.
+E00000-EFFFFF     (base 16)		ShenZhen Chainway Information Technology Co., Ltd.
+				 9F Building2, Phase2, Gaoxinqi Industrial Park ,  Bao'an District
+				ShenZhen  GuangDong  518102
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -14956,6 +14956,12 @@ A4-4F-3E   (hex)		Maven Pet Inc
 				800 N King Street Suite 304 2873 Wilmington
 				Wilmington  DE  19801
 				US
+
+F8-C9-D6   (hex)		DIAS Infrared GmbH
+A00000-AFFFFF     (base 16)		DIAS Infrared GmbH
+				Pforzheimer Str. 21
+				Dresden  Saxony  01189
+				DE
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
