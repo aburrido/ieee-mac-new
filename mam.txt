@@ -14957,6 +14957,12 @@ A4-4F-3E   (hex)		Maven Pet Inc
 				Wilmington  DE  19801
 				US
 
+F8-C9-D6   (hex)		Annapurna labs
+500000-5FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
+
 F8-C9-D6   (hex)		DIAS Infrared GmbH
 A00000-AFFFFF     (base 16)		DIAS Infrared GmbH
 				Pforzheimer Str. 21
@@ -30311,17 +30317,17 @@ B00000-BFFFFF     (base 16)		Suzhou AIDomex Intelligent Technology Co., Ltd.
 				Suzhou  Jiangsu  215122
 				CN
 
-A4-4F-3E   (hex)		CMCNI Co., Ltd
-A00000-AFFFFF     (base 16)		CMCNI Co., Ltd
-				B-601  Hangang Xi TowerYangcheonro 401Gangseogu
-				Seoul    07528
-				KR
-
 F8-C9-D6   (hex)		Annapurna labs
 200000-2FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+A4-4F-3E   (hex)		CMCNI Co., Ltd
+A00000-AFFFFF     (base 16)		CMCNI Co., Ltd
+				B-601  Hangang Xi TowerYangcheonro 401Gangseogu
+				Seoul    07528
+				KR
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -38017,3 +38023,9 @@ F8-C9-D6   (hex)		Miri Technologies, Inc
 				156 Madison Ave
 				Reading  PA  19605
 				US
+
+F8-C9-D6   (hex)		Fortis Medical Devices LTD
+D00000-DFFFFF     (base 16)		Fortis Medical Devices LTD
+				Barna Road
+				Galway  Galway  H91 HP83
+				IE
