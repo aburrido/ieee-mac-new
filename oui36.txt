@@ -16766,6 +16766,12 @@ C2E000-C2EFFF     (base 16)		ICS SOLUTIONS INC.
 				Uppsala    75319
 				SE
 
+8C-1F-64   (hex)		Lumiplan Duhamel
+823000-823FFF     (base 16)		Lumiplan Duhamel
+				2 rue de l'industrie
+				Domène  Isère  38420
+				FR
+
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -25220,6 +25226,18 @@ A41000-A41FFF     (base 16)		Guan Show Technologe Co., Ltd.
 				Osceola   MO  64776
 				US
 
+8C-1F-64   (hex)		xTools Inc.
+9AA000-9AAFFF     (base 16)		xTools Inc.
+				651 North Broad Street, 201
+				Middletown  DE  19709
+				US
+
+8C-1F-64   (hex)		Arctic Instruments Oy
+A6C000-A6CFFF     (base 16)		Arctic Instruments Oy
+				Tekniikantie 14
+				Espoo    02150
+				FI
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -33580,6 +33598,12 @@ F8E000-F8EFFF     (base 16)		Chengdu Aplux Inteligence Technology Ltd.
 				Spectrum Point,279 Farnborough Road, 
 				Farnborough  Hampshire  GU14 7LS
 				GB
+
+8C-1F-64   (hex)		Unlimited Bandwidth LLC
+84B000-84BFFF     (base 16)		Unlimited Bandwidth LLC
+				1320 W. Northwest Highway
+				Palatine    60067
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye

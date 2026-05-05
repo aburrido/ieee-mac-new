@@ -30359,6 +30359,12 @@ F8-C9-D6   (hex)		Dimetix AG
 				Herisau    9100
 				CH
 
+F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
+100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
+				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
+				Beijing    100080
+				CN
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18

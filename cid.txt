@@ -788,6 +788,12 @@ FA9305                        (base 16)                     Panasonic Automotive
                                                             Yokohama  Kanagawa  224-8520                 
                                                             JP                                           
 
+AA-42-5A                      (hex)                         Globus Medical                               
+AA425A                        (base 16)                     Globus Medical                               
+                                                            2560 General Armistead Avenue                
+                                                            Audobon  PA  19403                           
+                                                            US                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
