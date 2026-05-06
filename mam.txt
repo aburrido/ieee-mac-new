@@ -8741,12 +8741,6 @@ B00000-BFFFFF     (base 16)		F-Plus Mobile LLC
 				shenzhen  guangdong  518057
 				CN
 
-DC-36-43   (hex)		Shenzhen smart-core technology co.,ltd.
-600000-6FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
-
 DC-36-43   (hex)		Wuhan Linptech Co. ,Ltd.
 200000-2FFFFF     (base 16)		Wuhan Linptech Co. ,Ltd.
 				3F,Bldg 1A,Lianxiang Enterprise Center
@@ -13946,12 +13940,6 @@ E00000-EFFFFF     (base 16)		JP Morgan Chase Bank, N.A.
 				boston    02210
 				US
 
-74-25-84   (hex)		Shenzhen smart-core technology co.,ltd.
-D00000-DFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
-
 74-25-84   (hex)		EZECONET
 600000-6FFFFF     (base 16)		EZECONET
 				268-26. Jidong-gil, Apo-eup
@@ -14987,6 +14975,18 @@ F8-C9-D6   (hex)		Ningbo Ming Sing Optical R&D Co.,Ltd
 				Ningbo  Zhejiang Province  315100
 				CN
 
+74-25-84   (hex)		Shenzhen smart-core technology co.,ltd.
+D00000-DFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+DC-36-43   (hex)		Shenzhen smart-core technology co.,ltd.
+600000-6FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -15142,12 +15142,6 @@ E00000-EFFFFF     (base 16)		Waterkotte GmbH
 				Gewerkenstr. 15
 				Herne    44628
 				DE
-
-C8-6B-BC   (hex)		Shenzhen smart-core technology co.,ltd.
-700000-7FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
 
 C8-6B-BC   (hex)		ZEUS
 C00000-CFFFFF     (base 16)		ZEUS
@@ -21014,12 +21008,6 @@ C00000-CFFFFF     (base 16)		Sichuan Zhongguang Lightning Protection Technologie
 				REGULY    05-816
 				PL
 
-10-06-48   (hex)		Shenzhen smart-core technology co.,ltd.
-B00000-BFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
-
 10-06-48   (hex)		Hong Kong BOZZ Co., Limited.
 600000-6FFFFF     (base 16)		Hong Kong BOZZ Co., Limited.
 				NO. 33 MONG KOK ROAD, KOWLOON
@@ -22820,6 +22808,18 @@ A4-4F-3E   (hex)		ShenZhen hionetech Co,.ltd
 				LonghuaDistrictShenzhen  guangdong  518110
 				CN
 
+10-06-48   (hex)		Shenzhen smart-core technology co.,ltd.
+B00000-BFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+C8-6B-BC   (hex)		Shenzhen smart-core technology co.,ltd.
+700000-7FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -23416,12 +23416,6 @@ E00000-EFFFFF     (base 16)		UAB Brolis sensor technology
 				Moletu pl. 73
 				Vilnius    14259
 				LT
-
-D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
-100000-1FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
-				19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China
-				Shenzhen  Guangdong  518057
-				CN
 
 D4-61-37   (hex)		Robert Bosch Elektronikai Kft.
 200000-2FFFFF     (base 16)		Robert Bosch Elektronikai Kft.
@@ -30347,6 +30341,24 @@ A00000-AFFFFF     (base 16)		CMCNI Co., Ltd
 				Seoul    07528
 				KR
 
+D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
+100000-1FFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+F8-C9-D6   (hex)		Lecip Arcontia AB
+700000-7FFFFF     (base 16)		Lecip Arcontia AB
+				Mässans Gata 10
+				Gothenburg    40224
+				SE
+
+F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
+100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
+				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
+				Beijing    100080
+				CN
+
 F8-C9-D6   (hex)		CPflight_srl
 300000-3FFFFF     (base 16)		CPflight_srl
 				Via_Antica_Regina_24
@@ -30358,12 +30370,6 @@ F8-C9-D6   (hex)		Dimetix AG
 				Degersheimerstrasse 14
 				Herisau    9100
 				CH
-
-F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
-100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
-				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
-				Beijing    100080
-				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -38065,3 +38071,9 @@ F8-C9-D6   (hex)		Miri Technologies, Inc
 				156 Madison Ave
 				Reading  PA  19605
 				US
+
+F8-C9-D6   (hex)		Active Research Limited
+400000-4FFFFF     (base 16)		Active Research Limited
+				21 Harwell Road
+				Poole  Dorset  BH17 0GE
+				GB
