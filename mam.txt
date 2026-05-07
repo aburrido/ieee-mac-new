@@ -95,12 +95,6 @@ C00000-CFFFFF     (base 16)		DanuTech Europe Kft
 				Meguro-ku  Tokyo-to  152-0035
 				JP
 
-D0-15-BB   (hex)		Bluewaves Mobility Innovation Inc
-D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
-				Unit 402-105 Gordon Baker Rd
-				Toronto   Ontario  M2H3P8
-				CA
-
 88-A6-EF   (hex)		ShenZhen KZIot Technology LLC.
 600000-6FFFFF     (base 16)		ShenZhen KZIot Technology LLC.
 				12th Floor, Block A, Kelu Building, Baoshen Road, Songpingshan Community, Xili Street, Nanshan District,
@@ -7739,6 +7733,12 @@ F8-C9-D6   (hex)		Shanghai Innovatech Information Technology Co., Ltd.
 				Shanghai  Shanghai  201199
 				CN
 
+D0-15-BB   (hex)		Bluewaves Mobility Innovation Inc
+D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
+				Suite 702, 2450 Victoria Park Ave
+				North York  Ontario  M2J4A2
+				CA
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -14986,6 +14986,12 @@ DC-36-43   (hex)		Shenzhen smart-core technology co.,ltd.
 				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
 				Shenzhen  Guangdong  518057
 				CN
+
+F8-75-28   (hex)		RLS d.o.o.
+900000-9FFFFF     (base 16)		RLS d.o.o.
+				Pod vrbami 2
+				Komenda    1218
+				SI
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -22820,6 +22826,18 @@ C8-6B-BC   (hex)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
+F8-75-28   (hex)		Myers Emergency Power Systems
+800000-8FFFFF     (base 16)		Myers Emergency Power Systems
+				44 S Commerce Way
+				Bethlehem  PA  18017
+				US
+
+F8-75-28   (hex)		After Technologies
+D00000-DFFFFF     (base 16)		After Technologies
+				Gaustadalleen 21
+				Oslo    0349
+				NO
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -30347,12 +30365,6 @@ D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
-F8-C9-D6   (hex)		Lecip Arcontia AB
-700000-7FFFFF     (base 16)		Lecip Arcontia AB
-				Mässans Gata 10
-				Gothenburg    40224
-				SE
-
 F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
 100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
 				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
@@ -30370,6 +30382,24 @@ F8-C9-D6   (hex)		Dimetix AG
 				Degersheimerstrasse 14
 				Herisau    9100
 				CH
+
+F8-C9-D6   (hex)		Lecip Arcontia AB
+700000-7FFFFF     (base 16)		Lecip Arcontia AB
+				Mässans Gata 10
+				Gothenburg    40224
+				SE
+
+F8-75-28   (hex)		Qube Cinema Technologies Pvt Ltd
+000000-0FFFFF     (base 16)		Qube Cinema Technologies Pvt Ltd
+				42 Dr Ranga Road
+				Chennai  Tamil Nadu  600004
+				IN
+
+F8-C9-D6   (hex)		Shenzhen smart-core technology co.,ltd.
+E00000-EFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
+				10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
