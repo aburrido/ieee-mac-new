@@ -7733,6 +7733,12 @@ F8-C9-D6   (hex)		Shanghai Innovatech Information Technology Co., Ltd.
 				Shanghai  Shanghai  201199
 				CN
 
+F8-75-28   (hex)		SHENZHEN WISEWING INTERNET TECHNOLOGY CO.,LTD
+B00000-BFFFFF     (base 16)		SHENZHEN WISEWING INTERNET TECHNOLOGY CO.,LTD
+				No.826,Zone 1,Block B,Famous industrial product display purchasing center,Baoyuan Road,Xixiang,Bao'an Dis., Shenzhen,P.R.China
+				shenzhen  China  518102
+				CN
+
 D0-15-BB   (hex)		Bluewaves Mobility Innovation Inc
 D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
 				Suite 702, 2450 Victoria Park Ave
@@ -30365,6 +30371,12 @@ D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
+F8-C9-D6   (hex)		Lecip Arcontia AB
+700000-7FFFFF     (base 16)		Lecip Arcontia AB
+				Mässans Gata 10
+				Gothenburg    40224
+				SE
+
 F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
 100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
 				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
@@ -30382,12 +30394,6 @@ F8-C9-D6   (hex)		Dimetix AG
 				Degersheimerstrasse 14
 				Herisau    9100
 				CH
-
-F8-C9-D6   (hex)		Lecip Arcontia AB
-700000-7FFFFF     (base 16)		Lecip Arcontia AB
-				Mässans Gata 10
-				Gothenburg    40224
-				SE
 
 F8-75-28   (hex)		Qube Cinema Technologies Pvt Ltd
 000000-0FFFFF     (base 16)		Qube Cinema Technologies Pvt Ltd
