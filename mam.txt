@@ -1244,12 +1244,6 @@ E00000-EFFFFF     (base 16)		OUTFORM
 				Miami  FL  33137
 				US
 
-28-36-13   (hex)		shenzhen technology limited
-700000-7FFFFF     (base 16)		shenzhen technology limited
-				903,No. 1 Shifeng Building, Xinzhuang Community Villa Road, Matian Street, Guangming District, Shenzhen City
-				Shenzhen  Guangdong  518000
-				CN
-
 78-5E-E8   (hex)		Guangdong COROS Sports Technology Co., Ltd
 600000-6FFFFF     (base 16)		Guangdong COROS Sports Technology Co., Ltd
 				ROOM 601 ROOM 701,BLD.2,NO.2,SCIENCE AND TECHNOLOGY 9 RD,SONGSHAN LAKE HI-TECH ZONE
@@ -7744,6 +7738,12 @@ D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
 				Suite 702, 2450 Victoria Park Ave
 				North York  Ontario  M2J4A2
 				CA
+
+28-36-13   (hex)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
+700000-7FFFFF     (base 16)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
+				903,No. 1 Shifeng Building, Xinzhuang Community Villa Road, Matian Street, Guangming District, Shenzhen City
+				Shenzhen  Guangdong  518000
+				CN
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -14998,6 +14998,12 @@ F8-75-28   (hex)		RLS d.o.o.
 				Pod vrbami 2
 				Komenda    1218
 				SI
+
+F8-75-28   (hex)		KUNSHAN WONDERTEK TECHNOLOGY CO.,LTD.
+600000-6FFFFF     (base 16)		KUNSHAN WONDERTEK TECHNOLOGY CO.,LTD.
+				No.369 Kangzhuang Road Zhoushi Town Kunshan City Jiangsu Province China 215300
+				KUNSHAN  Jiangsu  215300
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30407,6 +30413,12 @@ E00000-EFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
+F8-75-28   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+700000-7FFFFF     (base 16)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+				PLOT 10, PHASE 4PRAI INDUSTRAIL ESTATE
+				PRAI  PENANG  13600
+				MY
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -38113,3 +38125,15 @@ F8-C9-D6   (hex)		Active Research Limited
 				21 Harwell Road
 				Poole  Dorset  BH17 0GE
 				GB
+
+F8-75-28   (hex)		NORBIT ASA
+500000-5FFFFF     (base 16)		NORBIT ASA
+				Stiklestadveien 1
+				Trondheim    7041
+				NO
+
+F8-75-28   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL
