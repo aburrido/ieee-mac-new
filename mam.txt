@@ -30377,12 +30377,6 @@ D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
-F8-C9-D6   (hex)		Lecip Arcontia AB
-700000-7FFFFF     (base 16)		Lecip Arcontia AB
-				Mässans Gata 10
-				Gothenburg    40224
-				SE
-
 F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
 100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
 				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
@@ -30400,6 +30394,12 @@ F8-C9-D6   (hex)		Dimetix AG
 				Degersheimerstrasse 14
 				Herisau    9100
 				CH
+
+F8-C9-D6   (hex)		Lecip Arcontia AB
+700000-7FFFFF     (base 16)		Lecip Arcontia AB
+				Mässans Gata 10
+				Gothenburg    40224
+				SE
 
 F8-75-28   (hex)		Qube Cinema Technologies Pvt Ltd
 000000-0FFFFF     (base 16)		Qube Cinema Technologies Pvt Ltd
