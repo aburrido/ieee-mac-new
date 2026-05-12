@@ -25256,6 +25256,12 @@ B33000-B33FFF     (base 16)		Skylark Lasers
 				Edinburgh    EH28 8PP
 				GB
 
+8C-1F-64   (hex)		Möbus Engineering GmbH
+9EE000-9EEFFF     (base 16)		Möbus Engineering GmbH
+				Adam-Opel-Straße 3
+				Trebur  Hessen  65468
+				DE
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -33622,6 +33628,12 @@ F8E000-F8EFFF     (base 16)		Chengdu Aplux Inteligence Technology Ltd.
 				1320 W. Northwest Highway
 				Palatine    60067
 				US
+
+8C-1F-64   (hex)		Wuhan HYAIEV Technology Co., Ltd.
+930000-930FFF     (base 16)		Wuhan HYAIEV Technology Co., Ltd.
+				Room 102, R&D Unit 1, Floors 1-2, Unit 2, Building C8, Rongke Zhigu Industrial Project(Phase  Ⅲ), Liqiao Village, Hongshan District, Wuhan City
+				Wuhan    430000
+				CN
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye

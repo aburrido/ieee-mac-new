@@ -7745,6 +7745,12 @@ D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
 				Shenzhen  Guangdong  518000
 				CN
 
+F8-75-28   (hex)		SGSG Science&Technology Co., Ltd. Zhuhai
+300000-3FFFFF     (base 16)		SGSG Science&Technology Co., Ltd. Zhuhai
+				Floor 9-15, Building 1, 199 Dingxing Road, High-tech Zone, Zhuhai City
+				Zhuhai  Guangdong  519000
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -15004,6 +15010,12 @@ F8-75-28   (hex)		KUNSHAN WONDERTEK TECHNOLOGY CO.,LTD.
 				No.369 Kangzhuang Road Zhoushi Town Kunshan City Jiangsu Province China 215300
 				KUNSHAN  Jiangsu  215300
 				CN
+
+F8-75-28   (hex)		Origin Acoustics, LLC
+C00000-CFFFFF     (base 16)		Origin Acoustics, LLC
+				6975 South Decatur Blvd, Suite 140
+				Las Vegas  NV  89118
+				US
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -22849,6 +22861,12 @@ D00000-DFFFFF     (base 16)		After Technologies
 				Gaustadalleen 21
 				Oslo    0349
 				NO
+
+F8-75-28   (hex)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+100000-1FFFFF     (base 16)		Wuhan Xingtuxinke ELectronic Co.,Ltd
+				NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China
+				Wuhan  Hubei  430074
+				CN
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
