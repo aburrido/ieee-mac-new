@@ -8327,6 +8327,18 @@ E0D000-E0DFFF     (base 16)		MyDefence A/S
 				Norresundby  NJ  9400
 				DK
 
+8C-1F-64   (hex)		Osec
+8EF000-8EFFFF     (base 16)		Osec
+				netwerk 120
+				Purmerend    1446XA
+				NL
+
+8C-1F-64   (hex)		FLUGCOM GmbH
+ABA000-ABAFFF     (base 16)		FLUGCOM GmbH
+				Lyoner str. 15
+				Frankfurt am Main  Hessen  60528
+				DE
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -33629,8 +33641,8 @@ F8E000-F8EFFF     (base 16)		Chengdu Aplux Inteligence Technology Ltd.
 				Palatine    60067
 				US
 
-8C-1F-64   (hex)		Wuhan HYAIEV Technology Co., Ltd.
-930000-930FFF     (base 16)		Wuhan HYAIEV Technology Co., Ltd.
+8C-1F-64   (hex)		Wuhan HYAIEV (华异) Technology Co., Ltd
+930000-930FFF     (base 16)		Wuhan HYAIEV (华异) Technology Co., Ltd
 				Room 102, R&D Unit 1, Floors 1-2, Unit 2, Building C8, Rongke Zhigu Industrial Project(Phase  Ⅲ), Liqiao Village, Hongshan District, Wuhan City
 				Wuhan    430000
 				CN
@@ -41915,17 +41927,17 @@ EC5000-EC5FFF     (base 16)		Stanley Black & Decker Engineered Fastening (Nanton
 				Sacramento    95811
 				US
 
-8C-1F-64   (hex)		Scenario Automation
-EC3000-EC3FFF     (base 16)		Scenario Automation
-				Rua Paulo Elias, 216
-				São Carlos  São Paulo  13564400
-				BR
-
 8C-1F-64   (hex)		VNET Corp.
 C77000-C77FFF     (base 16)		VNET Corp.
 				B-1202, 128, Beobwon-ro, Songpa-gu
 				Seoul    05854
 				KR
+
+8C-1F-64   (hex)		Scenario Automation
+EC3000-EC3FFF     (base 16)		Scenario Automation
+				Rua Paulo Elias, 216
+				São Carlos  São Paulo  13564400
+				BR
 
 8C-1F-64   (hex)		Private
 182000-182FFF     (base 16)		Private
