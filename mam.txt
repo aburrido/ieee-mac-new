@@ -30443,6 +30443,12 @@ F8-75-28   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
 				PRAI  PENANG  13600
 				MY
 
+0C-0E-C1   (hex)		tecget GmbH
+B00000-BFFFFF     (base 16)		tecget GmbH
+				Schafjueckenweg 1
+				Rastede    26180
+				DE
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -38156,12 +38162,6 @@ F8-75-28   (hex)		NORBIT ASA
 				Trondheim    7041
 				NO
 
-F8-75-28   (hex)		Annapurna labs
-400000-4FFFFF     (base 16)		Annapurna labs
-				Matam Scientific Industries Center,   Building 8.2
-				Mail box 15123  Haifa  3508409
-				IL
-
 F8-75-28   (hex)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
 A00000-AFFFFF     (base 16)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
 				6th Floor, Building 6, Courtyard 5, West Laiguangying Road, Chaoyang District, Beijing 
@@ -38173,3 +38173,9 @@ F8-75-28   (hex)		Lyte AI
 				185 N Wolfe Rd.
 				Sunnyvale  CA  94583
 				US
+
+F8-75-28   (hex)		Annapurna labs
+400000-4FFFFF     (base 16)		Annapurna labs
+				Matam Scientific Industries Center,   Building 8.2
+				Mail box 15123  Haifa  3508409
+				IL

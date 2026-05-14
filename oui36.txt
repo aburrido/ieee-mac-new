@@ -25262,17 +25262,17 @@ A6C000-A6CFFF     (base 16)		Arctic Instruments Oy
 				Opfikon    8152
 				CH
 
-8C-1F-64   (hex)		Skylark Lasers
-B33000-B33FFF     (base 16)		Skylark Lasers
-				Phase One, Ratho park, 88 Glasgow Rd, Ratho Station, Newbridge
-				Edinburgh    EH28 8PP
-				GB
-
 8C-1F-64   (hex)		Möbus Engineering GmbH
 9EE000-9EEFFF     (base 16)		Möbus Engineering GmbH
 				Adam-Opel-Straße 3
 				Trebur  Hessen  65468
 				DE
+
+8C-1F-64   (hex)		Skylark Lasers
+B33000-B33FFF     (base 16)		Skylark Lasers
+				Phase One, Ratho park, 88 Glasgow Rd, Ratho Station, Newbridge
+				Edinburgh    EH28 8PP
+				GB
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -31076,12 +31076,6 @@ BAD000-BADFFF     (base 16)		Technik & Design GmbH
 				Berlin  Berlin  12681
 				DE
 
-70-B3-D5   (hex)		PolyTech A/S
-F4C000-F4CFFF     (base 16)		PolyTech A/S
-				HI Park 445
-				Herning  Herning  7400
-				DK
-
 70-B3-D5   (hex)		Birdland Audio
 AD5000-AD5FFF     (base 16)		Birdland Audio
 				484 Washington St. Ste.B-450
@@ -33646,6 +33640,12 @@ F8E000-F8EFFF     (base 16)		Chengdu Aplux Inteligence Technology Ltd.
 				Room 102, R&D Unit 1, Floors 1-2, Unit 2, Building C8, Rongke Zhigu Industrial Project(Phase  Ⅲ), Liqiao Village, Hongshan District, Wuhan City
 				Wuhan    430000
 				CN
+
+70-B3-D5   (hex)		Polytech A/S
+F4C000-F4CFFF     (base 16)		Polytech A/S
+				HI Park 445
+				Herning  Herning  7400
+				DK
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
