@@ -170,12 +170,6 @@ AD8000-AD8FFF     (base 16)		Novanta IMS
 				Marlborough   CT  06447
 				US
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-362000-362FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		Mecos AG
 48F000-48FFFF     (base 16)		Mecos AG
 				Hardstrasse 319
@@ -473,12 +467,6 @@ BF1000-BF1FFF     (base 16)		Soha Jin
 				Chandler    85286
 				US
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-DA6000-DA6FFF     (base 16)		Power Electronics Espana, S.L.
-				Pol Industrial Carrases Ronda del Camp d’Aviació,4
-				Lliria  Valencia  46160
-				ES
-
 8C-1F-64   (hex)		Scarlet Tech Co., Ltd.
 37F000-37FFFF     (base 16)		Scarlet Tech Co., Ltd.
 				4F-3, 347 HePing E Rd 2nd Sec, Daan Dist 
@@ -637,12 +625,6 @@ B08000-B08FFF     (base 16)		Cronus Electronics
 				Kaethe Paulus Strasse 6
 				Koesching    85092
 				DE
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-B9E000-B9EFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		GVA Lighting, Inc.
 44E000-44EFFF     (base 16)		GVA Lighting, Inc.
@@ -1141,12 +1123,6 @@ EB2000-EB2FFF     (base 16)		Aqua Broadcast Ltd
 				92 N Main St, Building 18, Unit A, 
 				Windsor  NJ  07762
 				US
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-FE3000-FE3FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		Aspen Spectra Sdn Bhd
 41D000-41DFFF     (base 16)		Aspen Spectra Sdn Bhd
@@ -2276,12 +2252,6 @@ E46000-E46FFF     (base 16)		7thSense Design Limited
 				HONFLEUR    14600
 				FR
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-632000-632FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		Hermann Sewerin GmbH
 484000-484FFF     (base 16)		Hermann Sewerin GmbH
 				Robert-Bosch-Str. 3
@@ -2611,12 +2581,6 @@ B95000-B95FFF     (base 16)		EPIImaging
 				414 Paco Drive
 				Los Altos  CA  94024
 				US
-
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-56E000-56EFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 70-B3-D5   (hex)		Clecell
 565000-565FFF     (base 16)		Clecell
@@ -4411,12 +4375,6 @@ A73000-A73FFF     (base 16)		MobiPromo
 				7, rue Roland Martin
 				Champigny sur Marne  France  94500
 				FR
-
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-B56000-B56FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 70-B3-D5   (hex)		Seraphim Optronics Ltd
 ADF000-ADFFFF     (base 16)		Seraphim Optronics Ltd
@@ -7457,12 +7415,6 @@ B17000-B17FFF     (base 16)		DAT Informatics Pvt Ltd
 				NOF HAGLIL    1789062
 				IL
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-82C000-82CFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		Canfield Scientific Inc
 470000-470FFF     (base 16)		Canfield Scientific Inc
 				4 Wood Hollow Road
@@ -8345,6 +8297,54 @@ ABA000-ABAFFF     (base 16)		FLUGCOM GmbH
 				Frankfurt am Main  Hessen  60528
 				DE
 
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+82C000-82CFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+362000-362FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+DA6000-DA6FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+B9E000-B9EFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+FE3000-FE3FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+632000-632FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+56E000-56EFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+B56000-B56FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -8368,12 +8368,6 @@ B5A000-B5AFFF     (base 16)		YUYAMA MFG Co.,Ltd
 				1-4-30
 				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
 				JP
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-E80000-E80FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 70-B3-D5   (hex)		RCH SPA
 DA9000-DA9FFF     (base 16)		RCH SPA
@@ -8704,12 +8698,6 @@ DD4000-DD4FFF     (base 16)		Midlands Technical Co., Ltd.
 				1-29-4 5F Takadanobaba
 				shinjyuku-ku  Tokyo  169-0075
 				JP
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		3D perception AS
 A81000-A81FFF     (base 16)		3D perception AS
@@ -11477,12 +11465,6 @@ EA1000-EA1FFF     (base 16)		Qntra Technology
 				Shenzhen  Guangdong  518102
 				CN
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-AB2000-AB2FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		BIGHOUSE.,INC.
 B80000-B80FFF     (base 16)		BIGHOUSE.,INC.
 				72-11, Pyeongchangmunwha-ro
@@ -14123,12 +14105,6 @@ FE7000-FE7FFF     (base 16)		VEILUX INC.
 				Trigg  Western Australia  6029
 				AU
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-431000-431FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		JK DEVICE CORPORATION
 4DC000-4DCFFF     (base 16)		JK DEVICE CORPORATION
 				RYOGOKU 4-35-1-304
@@ -15139,12 +15115,6 @@ BB1000-BB1FFF     (base 16)		Transit Solutions, LLC.
 				501ho, citycenter, 1559, Yuseong-daero
 				Yuseong-gu  Daejeon  34044
 				KR
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-C83000-C83FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		Flextronics International Kft
 2DD000-2DDFFF     (base 16)		Flextronics International Kft
@@ -16433,12 +16403,6 @@ A28000-A28FFF     (base 16)		Monnit Corporation
 				Warriewood  NSW  2102
 				AU
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-EB8000-EB8FFF     (base 16)		Power Electronics Espana, S.L.
-				Ctra. CV-35, Salida 30 Parcela M-13. Pla de Carrases B
-				LIRIA, Valencia  Valencia  46160
-				ES
-
 70-B3-D5   (hex)		BAE Systems
 1D7000-1D7FFF     (base 16)		BAE Systems
 				Waterside House, 170 Priestley Road, Surrey Research Park
@@ -16801,6 +16765,42 @@ F7B000-F7BFFF     (base 16)		XPS ELETRONICA LTDA
 				AVENIDA JAÇANÃ, 470/474 - VILA NELSON
 				SÃO PAULO  SÃO PAULO  02273-001
 				BR
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+C83000-C83FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+E80000-E80FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+AB2000-AB2FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+431000-431FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+EB8000-EB8FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -22139,12 +22139,6 @@ A2E000-A2EFFF     (base 16)		Kokam Co., Ltd
 				Suwon-si  Gyeonggi-do  16203
 				KR
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-148000-148FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		A.F.MENSAH, INC
 F5B000-F5BFFF     (base 16)		A.F.MENSAH, INC
 				252 NASSAU ST, 2ND FLOOR
@@ -23345,12 +23339,6 @@ FB9000-FB9FFF     (base 16)		IWS Global Pty Ltd
 				Perth  Western Australia  6090
 				AU
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-1DE000-1DEFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		Infosoft Digital Design and Services P L
 C9A000-C9AFFF     (base 16)		Infosoft Digital Design and Services P L
 				484, SECTOR-8 ,IMT MANESER,GURGAONMANESER
@@ -24386,12 +24374,6 @@ EBE000-EBEFFF     (base 16)		Trafag Italia S.r.l.
 				Legnano  Milano  20025
 				IT
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-28B000-28BFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26 
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		GigaIO Networks, Inc.
 4AA000-4AAFFF     (base 16)		GigaIO Networks, Inc.
 				5924 Balfour Ct., Suite 101
@@ -25070,12 +25052,6 @@ C84000-C84FFF     (base 16)		Luceor
 				Ithaca  NY  14850
 				US
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-773000-773FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26 
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		Vision Systems Safety Tech
 AD9000-AD9FFF     (base 16)		Vision Systems Safety Tech
 				5 Chemin de Chiradie
@@ -25286,11 +25262,35 @@ B33000-B33FFF     (base 16)		Skylark Lasers
 				Trebur  Hessen  65468
 				DE
 
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+148000-148FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+773000-773FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
 8C-1F-64   (hex)		Lotec Teknoloji Limited Sirketi
 33F000-33FFFF     (base 16)		Lotec Teknoloji Limited Sirketi
 				Universiteler Mh. 1596 Cd. Hacettepe Teknokent 6. Ar-Ge C Blok No: 6C Ofis: 28
 				Cankaya  Ankara  06800
 				TR
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+28B000-28BFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+1DE000-1DEFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -26825,12 +26825,6 @@ A57000-A57FFF     (base 16)		EkspertStroyProekt
 				Moscow    129344
 				RU
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-4CD000-4CDFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		Research Laboratory of Design Automation, Ltd.
 223000-223FFF     (base 16)		Research Laboratory of Design Automation, Ltd.
 				8 Birzhevoy Spusk
@@ -27094,12 +27088,6 @@ ED9000-ED9FFF     (base 16)		AADONA Communication Pvt Ltd
 				Urbanizacao do correlo 4,14
 				Gandra  Paredes  4585-362
 				PT
-
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-BDB000-BDBFFF     (base 16)		Power Electronics Espana, S.L.
-				PI Pla de Carrases, CV-35 Salida 30Salida 30-
-				lliria  Valencia  46160
-				ES
 
 70-B3-D5   (hex)		Velvac Incorporated
 4DD000-4DDFFF     (base 16)		Velvac Incorporated
@@ -29099,12 +29087,6 @@ D72000-D72FFF     (base 16)		OnYield Inc Ltd
 				Praha 6    16000
 				CZ
 
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-2A9000-2A9FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 70-B3-D5   (hex)		Suprock Technologies
 613000-613FFF     (base 16)		Suprock Technologies
 				45 Scott Hill Rd
@@ -30472,12 +30454,6 @@ CCC000-CCCFFF     (base 16)		AEC s.r.l.
 				8 rue de l'Angoumois
 				ARGENTEUIL    95100
 				FR
-
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-F4F000-F4FFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 70-B3-D5   (hex)		NextEV Co., Ltd.
 200000-200FFF     (base 16)		NextEV Co., Ltd.
@@ -33278,12 +33254,6 @@ BF7000-BF7FFF     (base 16)		Intellicon Private Limited
 				Gandhinagar  Gujarat  382028
 				IN
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-29A000-29AFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26 
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		Nihon Bouhan Camera Inc
 9A7000-9A7FFF     (base 16)		Nihon Bouhan Camera Inc
 				7F Daiichikosan Bldg ,3-14-10,Ginza
@@ -33664,6 +33634,36 @@ F4C000-F4CFFF     (base 16)		Polytech A/S
 				HI Park 445
 				Herning  Herning  7400
 				DK
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+4CD000-4CDFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+BDB000-BDBFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+2A9000-2A9FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+F4F000-F4FFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+29A000-29AFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -34556,12 +34556,6 @@ E0E000-E0EFFF     (base 16)		Nokeval Oy
 				Pune  Maharashtra  411051
 				IN
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-D08000-D08FFF     (base 16)		Power Electronics Espana, S.L.
-				Poligono Industrial Carrases. Ronda del camp d Aviacio 4
-				Lliria  Valencia  46160
-				ES
-
 8C-1F-64   (hex)		VECOS Europe B.V.
 C80000-C80FFF     (base 16)		VECOS Europe B.V.
 				ESP 237
@@ -35131,12 +35125,6 @@ EAC000-EACFFF     (base 16)		Miracle Healthcare, Inc.
 				IT Mirea Tower #2003-1, 33, Digital-ro 9-gil
 				Geumcheon-gu  Seoul, Republic of Korea  08511
 				KR
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-C2F000-C2FFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		Edgeware AB
 FD1000-FD1FFF     (base 16)		Edgeware AB
@@ -40553,12 +40541,6 @@ D9D000-D9DFFF     (base 16)		MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.
 				Kiyosu  Aichi  452-8561
 				JP
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-1CA000-1CAFFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		SHANGHAI ANGWEI INFORMATION TECHNOLOGY CO.,LTD.
 457000-457FFF     (base 16)		SHANGHAI ANGWEI INFORMATION TECHNOLOGY CO.,LTD.
 				ROOM 607,BUILDING 2, No.2555 XIUPU ROAD,PUDONG NEW AREA, SHANGHAI
@@ -41038,12 +41020,6 @@ D0C000-D0CFFF     (base 16)		KS Beschallungstechnik GmbH
 				Westendstr.1
 				Hettenleidelheim  Rhineland-Palatinate  67310
 				DE
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-5E1000-5E1FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26
-				Paterna  Valencia  46980
-				ES
 
 8C-1F-64   (hex)		Natron Energy
 DEA000-DEAFFF     (base 16)		Natron Energy
@@ -41915,12 +41891,6 @@ BD4000-BD4FFF     (base 16)		AVEA Group, Inc.
 				Chicago  IL  60603
 				US
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-602000-602FFF     (base 16)		Power Electronics Espana, S.L.
-				C/ Leonardo Da Vinci, 24-26 
-				Paterna  Valencia  46980
-				ES
-
 8C-1F-64   (hex)		CrossBar, Inc.
 310000-310FFF     (base 16)		CrossBar, Inc.
 				2055 Laurelwood Rd. Suite 230
@@ -41965,3 +41935,33 @@ C77000-C77FFF     (base 16)		VNET Corp.
 				Allmendstrasse 29
 				Fehraltorf    8320
 				CH
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+5E1000-5E1FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+1CA000-1CAFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+D08000-D08FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+C2F000-C2FFFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+602000-602FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES

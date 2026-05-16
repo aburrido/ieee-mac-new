@@ -38197,3 +38197,9 @@ F8-75-28   (hex)		Annapurna labs
 				21/F TAI YAU BLDG 181 JOHNSON RD WANCHAI HONG KONG
 				HONG KONG    999077
 				CN
+
+0C-0E-C1   (hex)		Lupa Tecnologia e Sistemas Ltda
+300000-3FFFFF     (base 16)		Lupa Tecnologia e Sistemas Ltda
+				Rua Viscondessa de Cavalcanti, 50 - Poço Rico
+				Juiz de Fora  Minas Gerais  36020-070
+				BR
