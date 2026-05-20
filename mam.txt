@@ -7739,6 +7739,12 @@ D00000-DFFFFF     (base 16)		Bluewaves Mobility Innovation Inc
 				North York  Ontario  M2J4A2
 				CA
 
+28-36-13   (hex)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
+700000-7FFFFF     (base 16)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
+				902, Building 4, Guangming Fenghuang  Plaza, Dongkeng Community, Fenghuang Street, Guangming District
+				Shenzhen    518000
+				CN
+
 F8-75-28   (hex)		SGSG Science&Technology Co., Ltd. Zhuhai
 300000-3FFFFF     (base 16)		SGSG Science&Technology Co., Ltd. Zhuhai
 				Floor 9-15, Building 1, 199 Dingxing Road, High-tech Zone, Zhuhai City
@@ -7751,23 +7757,17 @@ E00000-EFFFFF     (base 16)		Ingersoll-Rand
 				Hampton  NJ  08827
 				US
 
-28-36-13   (hex)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
-700000-7FFFFF     (base 16)		SHENZHEN OFEIXIN TECHNOLOGY LIMITED
-				902, Building 4, Guangming Fenghuang  Plaza, Dongkeng Community, Fenghuang Street, Guangming District
-				Shenzhen    518000
-				CN
+0C-0E-C1   (hex)		Sonoro Audio GmbH
+A00000-AFFFFF     (base 16)		Sonoro Audio GmbH
+				Hammer Landstraße 45
+				Neuss    41460
+				DE
 
 0C-0E-C1   (hex)		Spintronica LLC
 000000-0FFFFF     (base 16)		Spintronica LLC
 				Lubyanka M. Street
 				Moscow    101000
 				RU
-
-0C-0E-C1   (hex)		Sonoro Audio GmbH
-A00000-AFFFFF     (base 16)		Sonoro Audio GmbH
-				Hammer Landstraße 45
-				Neuss    41460
-				DE
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -30419,12 +30419,6 @@ D4-61-37   (hex)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
-F8-C9-D6   (hex)		Lecip Arcontia AB
-700000-7FFFFF     (base 16)		Lecip Arcontia AB
-				Mässans Gata 10
-				Gothenburg    40224
-				SE
-
 F8-C9-D6   (hex)		Beijing Mlink Technology Inc.
 100000-1FFFFF     (base 16)		Beijing Mlink Technology Inc.
 				5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing
@@ -30443,6 +30437,12 @@ F8-C9-D6   (hex)		Dimetix AG
 				Herisau    9100
 				CH
 
+F8-C9-D6   (hex)		Lecip Arcontia AB
+700000-7FFFFF     (base 16)		Lecip Arcontia AB
+				Mässans Gata 10
+				Gothenburg    40224
+				SE
+
 F8-75-28   (hex)		Qube Cinema Technologies Pvt Ltd
 000000-0FFFFF     (base 16)		Qube Cinema Technologies Pvt Ltd
 				42 Dr Ranga Road
@@ -30455,23 +30455,29 @@ E00000-EFFFFF     (base 16)		Shenzhen smart-core technology co.,ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
-F8-75-28   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
-700000-7FFFFF     (base 16)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
-				PLOT 10, PHASE 4PRAI INDUSTRAIL ESTATE
-				PRAI  PENANG  13600
-				MY
-
 0C-0E-C1   (hex)		tecget GmbH
 B00000-BFFFFF     (base 16)		tecget GmbH
 				Schafjueckenweg 1
 				Rastede    26180
 				DE
 
+F8-75-28   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+700000-7FFFFF     (base 16)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+				PLOT 10, PHASE 4PRAI INDUSTRAIL ESTATE
+				PRAI  PENANG  13600
+				MY
+
 0C-0E-C1   (hex)		DELTACAST.TV
 100000-1FFFFF     (base 16)		DELTACAST.TV
 				Rue Gilles Magnee 92/6
 				ANS    4430
 				BE
+
+0C-0E-C1   (hex)		Insky Communications Private Limited
+C00000-CFFFFF     (base 16)		Insky Communications Private Limited
+				Block-D/102, Paras Maitri,Anant Nagar Phase 1
+				Bengaluru  Karnataka  560100
+				IN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -38186,23 +38192,17 @@ F8-75-28   (hex)		NORBIT ASA
 				Trondheim    7041
 				NO
 
-F8-75-28   (hex)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
-A00000-AFFFFF     (base 16)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
-				6th Floor, Building 6, Courtyard 5, West Laiguangying Road, Chaoyang District, Beijing 
-				Beijing  Beijing  100024
-				CN
-
-F8-75-28   (hex)		Lyte AI
-200000-2FFFFF     (base 16)		Lyte AI
-				185 N Wolfe Rd.
-				Sunnyvale  CA  94583
-				US
-
 F8-75-28   (hex)		Annapurna labs
 400000-4FFFFF     (base 16)		Annapurna labs
 				Matam Scientific Industries Center,   Building 8.2
 				Mail box 15123  Haifa  3508409
 				IL
+
+F8-75-28   (hex)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
+A00000-AFFFFF     (base 16)		Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd. 
+				6th Floor, Building 6, Courtyard 5, West Laiguangying Road, Chaoyang District, Beijing 
+				Beijing  Beijing  100024
+				CN
 
 0C-0E-C1   (hex)		COGITO TECH COMPANY LIMITED
 600000-6FFFFF     (base 16)		COGITO TECH COMPANY LIMITED
@@ -38215,6 +38215,12 @@ F8-75-28   (hex)		Annapurna labs
 				Rua Viscondessa de Cavalcanti, 50 - Poço Rico
 				Juiz de Fora  Minas Gerais  36020-070
 				BR
+
+F8-75-28   (hex)		Lyte AI
+200000-2FFFFF     (base 16)		Lyte AI
+				185 N Wolfe Rd.
+				Sunnyvale  CA  94583
+				US
 
 0C-0E-C1   (hex)		GO.N.GO Ltd
 900000-9FFFFF     (base 16)		GO.N.GO Ltd

@@ -8279,6 +8279,12 @@ E0D000-E0DFFF     (base 16)		MyDefence A/S
 				Norresundby  NJ  9400
 				DK
 
+8C-1F-64   (hex)		Talleres de Escoriaza SAU
+955000-955FFF     (base 16)		Talleres de Escoriaza SAU
+				Barrio Ventas 35, Irun
+				Irun  Gipuzkoa  20305
+				ES
+
 8C-1F-64   (hex)		Osec
 8EF000-8EFFFF     (base 16)		Osec
 				netwerk 120
@@ -8290,18 +8296,6 @@ ABA000-ABAFFF     (base 16)		FLUGCOM GmbH
 				Lyoner str. 15
 				Frankfurt am Main  Hessen  60528
 				DE
-
-8C-1F-64   (hex)		Talleres de Escoriaza SAU
-955000-955FFF     (base 16)		Talleres de Escoriaza SAU
-				Barrio Ventas 35, Irun
-				Irun  Gipuzkoa  20305
-				ES
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-82C000-82CFFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
 
 8C-1F-64   (hex)		Power Electronics Espana, S.L.
 362000-362FFF     (base 16)		Power Electronics Espana, S.L.
@@ -8333,6 +8327,18 @@ FE3000-FE3FFF     (base 16)		Power Electronics Espana, S.L.
 				LLÍRIA   Valencia  46160 
 				ES
 
+8C-1F-64   (hex)		WAVEBAND TECHNOLOGIES PVT LIMITED
+36D000-36DFFF     (base 16)		WAVEBAND TECHNOLOGIES PVT LIMITED
+				103, VISHAL TOWER, JANAKPURI DISTRICT CENTRE, 
+				NEW DELHI  DELHI  110058
+				IN
+
+8C-1F-64   (hex)		Vitaltrace PTY LTD
+5CA000-5CAFFF     (base 16)		Vitaltrace PTY LTD
+				43 Action Road
+				Malaga  WA  6090
+				AU
+
 70-B3-D5   (hex)		Power Electronics Espana, S.L.
 56E000-56EFFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
@@ -8341,6 +8347,12 @@ FE3000-FE3FFF     (base 16)		Power Electronics Espana, S.L.
 
 70-B3-D5   (hex)		Power Electronics Espana, S.L.
 B56000-B56FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+82C000-82CFFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
 				LLÍRIA   Valencia  46160 
 				ES
@@ -16760,30 +16772,6 @@ C2E000-C2EFFF     (base 16)		ICS SOLUTIONS INC.
 				Domène  Isère  38420
 				FR
 
-8C-1F-64   (hex)		XPS ELETRONICA LTDA
-F7B000-F7BFFF     (base 16)		XPS ELETRONICA LTDA
-				AVENIDA JAÇANÃ, 470/474 - VILA NELSON
-				SÃO PAULO  SÃO PAULO  02273-001
-				BR
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-C83000-C83FFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-E80000-E80FFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
 70-B3-D5   (hex)		Power Electronics Espana, S.L.
 AB2000-AB2FFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
@@ -16801,6 +16789,36 @@ EB8000-EB8FFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
 				LLÍRIA   Valencia  46160 
 				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+E80000-E80FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+0D8000-0D8FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+C83000-C83FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		XPS ELETRONICA LTDA
+F7B000-F7BFFF     (base 16)		XPS ELETRONICA LTDA
+				AVENIDA JAÇANÃ, 470/474 - VILA NELSON
+				SÃO PAULO  SÃO PAULO  02273-001
+				BR
+
+8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
+906000-906FFF     (base 16)		YUYAMA MFG Co.,Ltd
+				1-4-30
+				MEISHINGUCHI,TOYONAKA  OSAKA  561-0841
+				JP
 
 8C-1F-64   (hex)		Real Random
 4B1000-4B1FFF     (base 16)		Real Random
@@ -25256,17 +25274,29 @@ A6C000-A6CFFF     (base 16)		Arctic Instruments Oy
 				Opfikon    8152
 				CH
 
+8C-1F-64   (hex)		Skylark Lasers
+B33000-B33FFF     (base 16)		Skylark Lasers
+				Phase One, Ratho park, 88 Glasgow Rd, Ratho Station, Newbridge
+				Edinburgh    EH28 8PP
+				GB
+
 8C-1F-64   (hex)		Möbus Engineering GmbH
 9EE000-9EEFFF     (base 16)		Möbus Engineering GmbH
 				Adam-Opel-Straße 3
 				Trebur  Hessen  65468
 				DE
 
-8C-1F-64   (hex)		Skylark Lasers
-B33000-B33FFF     (base 16)		Skylark Lasers
-				Phase One, Ratho park, 88 Glasgow Rd, Ratho Station, Newbridge
-				Edinburgh    EH28 8PP
-				GB
+70-B3-D5   (hex)		Power Electronics Espana, S.L.
+148000-148FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+773000-773FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
 
 8C-1F-64   (hex)		Lotec Teknoloji Limited Sirketi
 33F000-33FFFF     (base 16)		Lotec Teknoloji Limited Sirketi
@@ -25282,18 +25312,6 @@ B33000-B33FFF     (base 16)		Skylark Lasers
 
 8C-1F-64   (hex)		Power Electronics Espana, S.L.
 1DE000-1DEFFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
-70-B3-D5   (hex)		Power Electronics Espana, S.L.
-148000-148FFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-773000-773FFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
 				LLÍRIA   Valencia  46160 
 				ES
@@ -41921,23 +41939,35 @@ EC5000-EC5FFF     (base 16)		Stanley Black & Decker Engineered Fastening (Nanton
 				Sacramento    95811
 				US
 
-8C-1F-64   (hex)		VNET Corp.
-C77000-C77FFF     (base 16)		VNET Corp.
-				B-1202, 128, Beobwon-ro, Songpa-gu
-				Seoul    05854
-				KR
-
 8C-1F-64   (hex)		Scenario Automation
 EC3000-EC3FFF     (base 16)		Scenario Automation
 				Rua Paulo Elias, 216
 				São Carlos  São Paulo  13564400
 				BR
 
+8C-1F-64   (hex)		VNET Corp.
+C77000-C77FFF     (base 16)		VNET Corp.
+				B-1202, 128, Beobwon-ro, Songpa-gu
+				Seoul    05854
+				KR
+
 8C-1F-64   (hex)		Private
 182000-182FFF     (base 16)		Private
 
+8C-1F-64   (hex)		swiss electronic creation GmbH
+8BB000-8BBFFF     (base 16)		swiss electronic creation GmbH
+				Allmendstrasse 29
+				Fehraltorf    8320
+				CH
+
 8C-1F-64   (hex)		Power Electronics Espana, S.L.
-602000-602FFF     (base 16)		Power Electronics Espana, S.L.
+5E1000-5E1FFF     (base 16)		Power Electronics Espana, S.L.
+				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+				LLÍRIA   Valencia  46160 
+				ES
+
+8C-1F-64   (hex)		Power Electronics Espana, S.L.
+1CA000-1CAFFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
 				LLÍRIA   Valencia  46160 
 				ES
@@ -41955,19 +41985,13 @@ C2F000-C2FFFF     (base 16)		Power Electronics Espana, S.L.
 				ES
 
 8C-1F-64   (hex)		Power Electronics Espana, S.L.
-5E1000-5E1FFF     (base 16)		Power Electronics Espana, S.L.
+602000-602FFF     (base 16)		Power Electronics Espana, S.L.
 				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
 				LLÍRIA   Valencia  46160 
 				ES
 
-8C-1F-64   (hex)		Power Electronics Espana, S.L.
-1CA000-1CAFFF     (base 16)		Power Electronics Espana, S.L.
-				RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
-				LLÍRIA   Valencia  46160 
-				ES
-
-8C-1F-64   (hex)		swiss electronic creation GmbH
-8BB000-8BBFFF     (base 16)		swiss electronic creation GmbH
-				Allmendstrasse 29
-				Fehraltorf    8320
-				CH
+8C-1F-64   (hex)		SEORIM TECHNOLOGY
+F82000-F82FFF     (base 16)		SEORIM TECHNOLOGY
+				145, Gasan digital 1-ro Acehighend 3rd #Room904
+				Geumcheon-gu  Seoul  08506
+				KR

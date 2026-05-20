@@ -7960,6 +7960,8 @@ MA-L,D013C1,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skywo
 MA-L,10B06E,Shenzhen Phaten Tech. LTD,"C-6 ideamonto industril 7002 Songbai Road Guangming District Shenzhen City Guangdong, China Shenzhen  CN 518108 "
 MA-L,209395,nVent,"1665 Utica Avenue, Suite 700 St. Louis Park MN US 55416 "
 MA-L,EC86C4,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,D05533,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054 
+MA-L,1CE587,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -21610,7 +21612,6 @@ MA-L,0003B4,Macrotek International Corp.,"2F, No. 28, Lane 46 Taipei Taipei TW T
 MA-L,0003A6,"Traxit Technology, Inc.","256 Great Road, Littleton MA US 01461 "
 MA-L,0003A4,Imation Corp.,1 Imation Place Oakdale MN US 55128-3414 
 MA-L,0003AB,Bridge Information Systems,717 Office Parkway St. Louis MO US 63141 
-MA-L,0003CA,MTS Systems Corp.,"3001 Sheldon Drive Cary, NC US 27513 "
 MA-L,0003CB,"SystemGear Co., Ltd.",1-9-14 Edobori Osaka Nishi-ku JP 550-0002 
 MA-L,00037C,Coax Media,1220 Oak Industrial Lane Cumming GA US 30041 
 MA-L,00037F,"Atheros Communications, Inc.",5480 Great America Parkway Santa Clara CA US 95054 
@@ -23624,6 +23625,8 @@ MA-L,441DE5,XCENA Inc.,"8F, 20, Pangyoyeok-ro 241 beon-gil, Bundang-gu Seongnam-
 MA-L,58F658,Edifier International,"Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway Hong Kong  CN 070 "
 MA-L,E0D239,"TECHNOLID, LLC","Nobelya, 7 Moscow  RU 121205 "
 MA-L,AC236E,Apismoon Electric Pte. Ltd.,"Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG SINGAPORE  SG 533757 "
+MA-L,FC1119,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,0003CA,"Temposonics, LLC","3001 Sheldon Drive Cary, NC US 27513 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31583,6 +31586,8 @@ MA-L,7062CB,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,087B0F,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,44B4A0,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,647D4D,Arcadyan Corporation,"No.8, Sec.2, Guangfu Rd. Hsinchu City Hsinchu TW 30071 "
+MA-L,54F283,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,A04E8D,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -37923,7 +37928,6 @@ MA-L,00C040,ECCI,15070-B AVENUE OF SCIENCE SAN DIEGO CA US 92128
 MA-L,00C0A4,UNIGRAF OY,RUUKINTIE 18   FI  
 MA-L,00C0FA,"CANARY COMMUNICATIONS, INC.",1851 ZANKER ROAD SAN JOSE CA US 95112-4213 
 MA-L,00C01C,INTERLINK COMMUNICATIONS LTD.,"BRUNEL ROAD,   GB ENGLAND "
-MA-L,00C096,TAMURA CORPORATION,COMMUNICATION SYSTEMS DIV.   JP  
 MA-L,00C04E,COMTROL CORPORATION,2675 PATTON ROAD ST. PAUL MN US 55113 
 MA-L,00C044,EMCOM CORPORATION,840 AVENUE PLANO TX US 75074 
 MA-L,00C0E6,Verilink Corporation,127 Jetplex Circle Madison AL US 35758 
@@ -39446,3 +39450,4 @@ MA-L,0C0EC1,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554
 MA-L,8C65EC,TUBITAK MAM,Gebze Yerleskesi Marmara Arastirma Merkezi  KOCAELI TR TR 41470 
 MA-L,101988,Mother Computer Inc.,"103 Pioneer Way, Ste B Mountain View CA US 94041 "
 MA-L,F8B22C,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
+MA-L,00C096,Tamu Radiance Corporation,"Ebisu, Shibuya-ku, Tokyo Tokyo  JP - "
