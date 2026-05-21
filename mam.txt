@@ -11681,12 +11681,6 @@ E00000-EFFFFF     (base 16)		Gimso Mobile Ltd
 				Nanjing  Jiangsu   210000
 				CN
 
-8C-14-7D   (hex)		Bluemega Document & Print Services
-A00000-AFFFFF     (base 16)		Bluemega Document & Print Services
-				1 Allée de Londres - Batiment Les Bénares
-				Villejust  Essonne  91140
-				FR
-
 50-FF-99   (hex)		IPC Global
 400000-4FFFFF     (base 16)		IPC Global
 				4 Wadhurst Drive
@@ -15034,6 +15028,24 @@ C00000-CFFFFF     (base 16)		Origin Acoustics, LLC
 				6975 South Decatur Blvd, Suite 140
 				Las Vegas  NV  89118
 				US
+
+0C-0E-C1   (hex)		Micron Systems
+500000-5FFFFF     (base 16)		Micron Systems
+				20020 State Road
+				Cerritos  CA  90703
+				US
+
+0C-0E-C1   (hex)		SWANN COMMUNICATIONS PTY LTD
+400000-4FFFFF     (base 16)		SWANN COMMUNICATIONS PTY LTD
+				Unit 5B 706 Lorimer Street
+				Port Melbourne  Victoria  3207
+				AU
+
+8C-14-7D   (hex)		KPAX
+A00000-AFFFFF     (base 16)		KPAX
+				1 Allée de Londres - Batiment Les Bénares
+				Villejust  Essonne  91140
+				FR
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -30477,6 +30489,12 @@ F8-75-28   (hex)		PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
 C00000-CFFFFF     (base 16)		Insky Communications Private Limited
 				Block-D/102, Paras Maitri,Anant Nagar Phase 1
 				Bengaluru  Karnataka  560100
+				IN
+
+0C-0E-C1   (hex)		BITS AND BYTE IT CONSULTING PVT LTD
+800000-8FFFFF     (base 16)		BITS AND BYTE IT CONSULTING PVT LTD
+				NO 52, 2ND FLOOR, VITTAL MALLYA ROAD
+				BANGALORE  KARNATAKA  560001
 				IN
 
 C8-5C-E2   (hex)		Fela Management AG 
