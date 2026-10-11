@@ -15533,6 +15533,12 @@ A00000-AFFFFF     (base 16)		Shenzhen Sinevolt Technology Co., Ltd
 				Beijing  Shilong Industrial Zone, Mentougou District  102300
 				CN
 
+CC-F7-22   (hex)		75F Engineering Services India Private Ltd
+800000-8FFFFF     (base 16)		75F Engineering Services India Private Ltd
+				No. 78/9,4th Floor, WeWork Vaishnavi Signature, Outer Ring Road, BellandurBengaluru 560103
+				Bengalore    560103
+				IN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
