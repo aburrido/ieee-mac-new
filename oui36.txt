@@ -8636,6 +8636,12 @@ B87000-B87FFF     (base 16)		ELBIT- ROKAR
 				jerusalem    45049
 				IL
 
+8C-1F-64   (hex)		SEONGWON ENG CO.,LTD
+532000-532FFF     (base 16)		SEONGWON ENG CO.,LTD
+				Room 601, Human Skyvally 33, 132 Beon-gil, Gwonseon-gu
+				SUWON-SI  Gyeonggi-do  16642
+				KR
+
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
 				7765 Old Telegraph Road
@@ -17365,6 +17371,12 @@ B0B000-B0BFFF     (base 16)		Zumbach Electronic AG
 				21 Woodlands Close,#09-30 Primz Bizhub
 				Singapore  NA  737854
 				SG
+
+8C-1F-64   (hex)		LOOKMAN DISTRIBUTION PVT.LTD
+FAD000-FADFFF     (base 16)		LOOKMAN DISTRIBUTION PVT.LTD
+				No.9, New No.15, 2nd Street Extn, 3rd Main Road,CIT Nagar,Nandanam, Chennai 600 035,Tamil Nadu, India.
+				CHENNAI   TAMILNADU  600035
+				IN
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -34732,6 +34744,18 @@ C4D000-C4DFFF     (base 16)		Alpes recherche et développement
 				PO Box 8350 Northbridge
 				Perth  Western Australia  6003
 				AU
+
+8C-1F-64   (hex)		Potter Electric Signal Company
+829000-829FFF     (base 16)		Potter Electric Signal Company
+				5757 Phantom Drive
+				Hazelwood  MO  63042
+				US
+
+8C-1F-64   (hex)		Karman
+9B0000-9B0FFF     (base 16)		Karman
+				2350 Green Rd. Suite 100C
+				Ann Arbor  MI  48105
+				US
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
