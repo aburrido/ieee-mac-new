@@ -43306,3 +43306,9 @@ B4D000-B4DFFF     (base 16)		OTODO
 				OTODO24 rue du Gouverneur General Eboue
 				Issy les Moulineaux  Ile de France  92130
 				FR
+
+8C-1F-64   (hex)		Supracontrol d.o.o.
+3F0000-3F0FFF     (base 16)		Supracontrol d.o.o.
+				Savica I. 123
+				Zagreb    10000
+				HR

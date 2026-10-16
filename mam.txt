@@ -8018,6 +8018,12 @@ CC-F7-22   (hex)		deutherm cooling GmbH
 				Neusäß    86356 
 				DE
 
+CC-F7-22   (hex)		Everfox Ltd
+200000-2FFFFF     (base 16)		Everfox Ltd
+				1 Nimrod House, Sandys Road
+				Malvern  Worcestershire  WR14 1JJ
+				GB
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -39586,3 +39592,9 @@ D00000-DFFFFF     (base 16)		Surpedia Technologies Co., Ltd.
 				5F-1, No.212, Sec 3, Datong Rd.
 				Xizhi Dist.  New Taipei City  22103
 				TW
+
+CC-F7-22   (hex)		RIVERSIDE SOLUTIONS PRIVATE LIMITED
+600000-6FFFFF     (base 16)		RIVERSIDE SOLUTIONS PRIVATE LIMITED
+				FLAT 510, KOSANAM ROY HEIGHTS, NRT TECH PARK, MANGALAGIRI, GUNTUR DISTRICT
+				Guntur  Andhra Pradesh  522503 
+				IN
