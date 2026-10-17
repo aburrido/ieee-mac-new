@@ -8012,17 +8012,17 @@ CC-F7-22   (hex)		Foritec GmbH
 				Hamburg    20537
 				DE
 
-CC-F7-22   (hex)		deutherm cooling GmbH
-900000-9FFFFF     (base 16)		deutherm cooling GmbH
-				Wankelstraße 5A
-				Neusäß    86356 
-				DE
-
 CC-F7-22   (hex)		Everfox Ltd
 200000-2FFFFF     (base 16)		Everfox Ltd
 				1 Nimrod House, Sandys Road
 				Malvern  Worcestershire  WR14 1JJ
 				GB
+
+CC-F7-22   (hex)		deutherm cooling GmbH
+900000-9FFFFF     (base 16)		deutherm cooling GmbH
+				Wankelstraße 5A
+				Neusäß    86356 
+				DE
 
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
@@ -15556,6 +15556,12 @@ A00000-AFFFFF     (base 16)		WIWORLD CO.,LTD
 				32-4 Techno 7-ro, Yuseong-gu
 				Daejeon    34029
 				KR
+
+5C-AB-22   (hex)		Xiamen Joint Tech. CO.,Ltd.
+300000-3FFFFF     (base 16)		Xiamen Joint Tech. CO.,Ltd.
+				Building #2, No. 9 Yangtai Road, Haicang Distric
+				Xiamen  Fujian  361000
+				CN
 
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
@@ -23678,6 +23684,18 @@ CC-F7-22   (hex)		InfiMaker(Shenzhen)Limited
 				Shenzhen    518055
 				CN
 
+CC-F7-22   (hex)		Electronic Security Wholesalers Pty Ltd
+700000-7FFFFF     (base 16)		Electronic Security Wholesalers Pty Ltd
+				134 / 45 Gilby Rd
+				Mount Waverley  Victoria  3149
+				AU
+
+CC-F7-22   (hex)		ASML US, LP
+E00000-EFFFFF     (base 16)		ASML US, LP
+				17082 Thornmint Ct
+				San Diego  CA  92127
+				US
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -31540,6 +31558,12 @@ CC-F7-22   (hex)		Menuit inc.
 				310, Eungyejungang-ro4th floor
 				Siheung-si  경기 — Gyeonggi-do  15120
 				KR
+
+5C-AB-22   (hex)		Shanghai Jiweijiu Intelligent Technology Co., Ltd.
+600000-6FFFFF     (base 16)		Shanghai Jiweijiu Intelligent Technology Co., Ltd.
+				Building 2, No. 181, Songyu Road, Tinglin Town, Jinshan District, Shanghai (Jinliang Economic Zone)
+				Shanghai    201504
+				CN
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
