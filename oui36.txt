@@ -43312,3 +43312,9 @@ B4D000-B4DFFF     (base 16)		OTODO
 				Savica I. 123
 				Zagreb    10000
 				HR
+
+8C-1F-64   (hex)		Gogo BA 
+860000-860FFF     (base 16)		Gogo BA 
+				105 Edgeview Drive
+				Broomfield  CO  80021
+				US
