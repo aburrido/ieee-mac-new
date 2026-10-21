@@ -31577,6 +31577,12 @@ CC-F7-22   (hex)		Menuit inc.
 				Siheung-si  경기 — Gyeonggi-do  15120
 				KR
 
+5C-AB-22   (hex)		Chubb France
+700000-7FFFFF     (base 16)		Chubb France
+				10 Avenue de l’Entreprise
+				Cergy    95800 
+				FR
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
