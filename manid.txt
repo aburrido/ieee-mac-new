@@ -105,6 +105,7 @@ MANUFACTURER ID               Organization
 7866                          THE 3RD INSTITUTE OF CETC
 1679                          Beckhoff Automation GmbH & Co. KG
 82                            Studio Technologies, Inc.
+4128                          RSTECH(BEIJING)Co.,Ltd.
 12377                         NETLINK ICT 
 5040                          G-SNS GmbH
 6644                          Siemens AG, MO MLT BG
