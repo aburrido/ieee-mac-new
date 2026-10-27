@@ -3845,20 +3845,14 @@ E790                          Ultra Ethernet Consortium                         
                               US                                                                                                       
 
 
-88CC                          IEEE 802.1 Working Group                                                                                 Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB 
-                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           
+8940                          IEEE 802.1 Working Group                                                                                 Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE
+                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           Std 802.1BR                                                                
                               Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
 
 
-8808                          IEEE 802.3 Working Group                                                                                 8808 MAC Control as defined in IEEE Std 802.3
-                              IEEE 802.3 Chair, c/o RAC Administrator, IEEE                                                            8809 Slow Protocols as                                                     
-                              Piscataway  NJ  08854                                                                                    defined in IEEE Std 802.3                                                  
-                              US                                                                                                       
-
-
-8940                          IEEE 802.1 Working Group                                                                                 Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE
-                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           Std 802.1BR                                                                
+88CC                          IEEE 802.1 Working Group                                                                                 Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB 
+                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           
                               Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
 
@@ -3878,6 +3872,12 @@ E790                          Ultra Ethernet Consortium                         
 88F5                          IEEE 802.1 Working Group                                                                                 Multiple VLAN Registration Protocol (MVRP) defined in IEEE Std 802.1Q 
                                IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           
                               Piscataway  NJ  08554                                                                                    
+                              US                                                                                                       
+
+
+8808                          IEEE 802.3 Working Group                                                                                 8808 MAC Control as defined in IEEE Std 802.3
+                              IEEE 802.3 Chair, c/o RAC Administrator, IEEE                                                            8809 Slow Protocols as                                                     
+                              Piscataway  NJ  08854                                                                                    defined in IEEE Std 802.3                                                  
                               US                                                                                                       
 
 
@@ -15711,15 +15711,15 @@ C021                          University of Berkeley                            
                               US                                                                                                       
 
 
-0842                          IEEE 802.1 Working Group                                                                                 Wake-on-LAN (WoL) as described in IEEE Std. 802
-                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           
-                              Piscataway  NJ  08554                                                                                    
-                              US                                                                                                       
-
-
 8917                          IEEE 802.21 Working Group                                                                                Media Independent Handover Protocol as defined in IEEE Std 802.21
                               IEEE 802.21 Chair, c/o RAC Administrator IEEE                                                            
                               Piscataway  NJ  08854                                                                                    
+                              US                                                                                                       
+
+
+0842                          IEEE 802.1 Working Group                                                                                 Wake-on-LAN (WoL) as described in IEEE Std. 802
+                               IEEE 802.1 Chair, c/o RAC Administrator, IEEE                                                           
+                              Piscataway  NJ  08554                                                                                    
                               US                                                                                                       
 
 

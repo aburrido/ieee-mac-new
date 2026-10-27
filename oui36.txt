@@ -34787,6 +34787,12 @@ C47000-C47FFF     (base 16)		Season Electronics Ltd
 				Havant  Hampshire  PO9 5TL
 				GB
 
+8C-1F-64   (hex)		Sotech Development Pvt. Ltd.
+9ED000-9EDFFF     (base 16)		Sotech Development Pvt. Ltd.
+				Ramky Selenium, Wing B, 3rd Floor, Plot No 31 & 32 Financial District, Nanakramguda Gachibowli
+				Hyderabad  Telangana  500032
+				IN
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -43372,3 +43378,15 @@ EA3000-EA3FFF     (base 16)		Newtouch Electronics (Shanghai) Co., LTD.
 				111 Gordon Baker Road, Suite #300
 				Toronto  Ontario  M2H 3R1
 				CA
+
+8C-1F-64   (hex)		Intermobility Co., Ltd.
+ADD000-ADDFFF     (base 16)		Intermobility Co., Ltd.
+				#711, Convention Center, 55, Hanyangdaehak-ro, Sangnok-gu
+				Ansan-si  Gyeonggi-do  15588
+				KR
+
+8C-1F-64   (hex)		Rouchon Industries Inc.
+84F000-84FFFF     (base 16)		Rouchon Industries Inc.
+				3407 E. La Palma Ave.
+				Anaheim  CA  92806
+				US
