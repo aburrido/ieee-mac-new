@@ -548,16 +548,22 @@ CAA527                        (base 16)                     Bobi
                                                             Bondy    93140                               
                                                             FR                                           
 
+FA-94-F1                      (hex)                         IEEE 802.1 Working Group                     
+FA94F1                        (base 16)                     IEEE 802.1 Working Group                     
+                                                             IEEE 802.1 Chair, c/o RAC Administrator, IEEE
+                                                            Piscataway  NJ  08554                        
+                                                            US                                           
+
 3A-A3-F8                      (hex)                         IEEE 802.1 Working Group                     
 3AA3F8                        (base 16)                     IEEE 802.1 Working Group                     
                                                              IEEE 802.1 Chair, c/o RAC Administrator, IEEE
                                                             Piscataway  NJ  08554                        
                                                             US                                           
 
-FA-94-F1                      (hex)                         IEEE 802.1 Working Group                     
-FA94F1                        (base 16)                     IEEE 802.1 Working Group                     
-                                                             IEEE 802.1 Chair, c/o RAC Administrator, IEEE
-                                                            Piscataway  NJ  08554                        
+8A-4C-F8                      (hex)                         Unseen Reality Inc.                          
+8A4CF8                        (base 16)                     Unseen Reality Inc.                          
+                                                            340 East Middlefield Road                    
+                                                            Mountain View  CA  94043                     
                                                             US                                           
 
 8A-85-2E                      (hex)                         Kampr Systems                                
@@ -1333,3 +1339,9 @@ BA592C                        (base 16)                     Guglielmo S.r.l.
                                                             Via Don Minzoni, 112                         
                                                             Taneto di Gattatico  RE  42043               
                                                             IT                                           
+
+9A-27-1B                      (hex)                         CelAudio (Beijing) Technology Inc            
+9A271B                        (base 16)                     CelAudio (Beijing) Technology Inc            
+                                                            B5-1201, Fulitaoyuan, Jiancaicheng east road,
+                                                            Beijing    100096                            
+                                                            CN                                           

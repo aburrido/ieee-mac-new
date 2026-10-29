@@ -6587,12 +6587,6 @@ F1D000-F1DFFF     (base 16)		MB connect line GmbH Fernwartungssysteme
 				ZALAEGERSZEG  ZALA  8900
 				HU
 
-8C-1F-64   (hex)		ViewSonic Corp
-81F000-81FFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
-
 8C-1F-64   (hex)		TECHKON GmbH
 487000-487FFF     (base 16)		TECHKON GmbH
 				Wiesbadener Str. 27
@@ -6838,12 +6832,6 @@ ED6000-ED6FFF     (base 16)		PowTechnology Limited
 				Unit 12, Ninian ParkNinian Way
 				Tamworth    B77 5ES
 				GB
-
-8C-1F-64   (hex)		ViewSonic Corp
-5B9000-5B9FFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
 
 8C-1F-64   (hex)		TILAK INTERNATIONAL
 364000-364FFF     (base 16)		TILAK INTERNATIONAL
@@ -8653,6 +8641,24 @@ C5F000-C5FFFF     (base 16)		Unitron Systems b.v.
 				SCHANSESTRAAT 7
 				IJzendijke    4515 RN
 				NL
+
+8C-1F-64   (hex)		Logital S.R.L.
+D2E000-D2EFFF     (base 16)		Logital S.R.L.
+				Via Palazzetti 5/F
+				San Lazzaro di Savena  Bologna  40068
+				IT
+
+8C-1F-64   (hex)		ViewSonic Corp
+5B9000-5B9FFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
+
+8C-1F-64   (hex)		ViewSonic Corp
+81F000-81FFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
 
 8C-1F-64   (hex)		Jacobs Technology, Inc.
 A98000-A98FFF     (base 16)		Jacobs Technology, Inc.
@@ -15455,12 +15461,6 @@ C45000-C45FFF     (base 16)		STIEBEL ELTRON GMBH & CO. KG
 				Yangju-si  Gyeonggi-do  11415
 				KR
 
-8C-1F-64   (hex)		ViewSonic Corp
-6DD000-6DDFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
-
 8C-1F-64   (hex)		YUYAMA MFG Co.,Ltd
 F68000-F68FFF     (base 16)		YUYAMA MFG Co.,Ltd
 				1-4-30
@@ -17395,6 +17395,12 @@ B11000-B11FFF     (base 16)		RFTEQ PTY LTD
 				Unit 2, 118A Hayward Avenue
 				Torrensville  SA  5031
 				AU
+
+8C-1F-64   (hex)		ViewSonic Corp
+6DD000-6DDFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -23972,12 +23978,6 @@ B9F000-B9FFFF     (base 16)		Lithion Battery Inc
 				Mountain View  CA  94043
 				US
 
-8C-1F-64   (hex)		ViewSonic Corp
-C1A000-C1AFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
-
 8C-1F-64   (hex)		NEXET LLC
 332000-332FFF     (base 16)		NEXET LLC
 				651 N Broad St, Suite 201Middletown
@@ -26122,6 +26122,12 @@ DA9000-DA9FFF     (base 16)		AllLinkX inc
 				1 Chemin des CHAUX
 				Saint-Etienne  Loire  42000
 				FR
+
+8C-1F-64   (hex)		ViewSonic Corp
+C1A000-C1AFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -32888,12 +32894,6 @@ C3F000-C3FFFF     (base 16)		SONIC CORPORATION
 				Thu Duc City  Ho Chi Minh City  700000
 				VN
 
-8C-1F-64   (hex)		ViewSonic Corp
-62E000-62EFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
-
 8C-1F-64   (hex)		Zadar Labs Inc
 060000-060FFF     (base 16)		Zadar Labs Inc
 				1650 Coleman Ave
@@ -34793,6 +34793,18 @@ C47000-C47FFF     (base 16)		Season Electronics Ltd
 				Hyderabad  Telangana  500032
 				IN
 
+8C-1F-64   (hex)		Fuse Energy
+E6C000-E6CFFF     (base 16)		Fuse Energy
+				One Bank Street
+				London    E14 4SG
+				GB
+
+8C-1F-64   (hex)		ViewSonic Corp
+62E000-62EFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -34954,12 +34966,6 @@ C0D000-C0DFFF     (base 16)		Abbott Diagnostics Technologies AS
 				P. O.  Box 6863 Rodeløkka
 				Oslo    0504
 				NO
-
-8C-1F-64   (hex)		ViewSonic Corp
-A3F000-A3FFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
 
 70-B3-D5   (hex)		RADA Electronics Industries Ltd.
 4DA000-4DAFFF     (base 16)		RADA Electronics Industries Ltd.
@@ -41528,12 +41534,6 @@ F49000-F49FFF     (base 16)		CenterClick LLC
 				New Taipei City    221011
 				TW
 
-8C-1F-64   (hex)		ViewSonic Corp
-36B000-36BFFF     (base 16)		ViewSonic Corp
-				10 Point Drive Brea, CA 92821 USA
-				LA  CA  92821
-				US
-
 8C-1F-64   (hex)		Wagner Group GmbH
 D9E000-D9EFFF     (base 16)		Wagner Group GmbH
 				Schleswigstrasse 1-5
@@ -43389,4 +43389,22 @@ ADD000-ADDFFF     (base 16)		Intermobility Co., Ltd.
 84F000-84FFFF     (base 16)		Rouchon Industries Inc.
 				3407 E. La Palma Ave.
 				Anaheim  CA  92806
+				US
+
+8C-1F-64   (hex)		inomatic GmbH
+46F000-46FFFF     (base 16)		inomatic GmbH
+				Karl-Braun-Straße 12-13
+				Nordhorn  Germany  48531
+				DE
+
+8C-1F-64   (hex)		ViewSonic Corp
+A3F000-A3FFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
+				US
+
+8C-1F-64   (hex)		ViewSonic Corp
+36B000-36BFFF     (base 16)		ViewSonic Corp
+				10 Point Drive Brea
+				LA  CA  92821
 				US
