@@ -34793,17 +34793,17 @@ C47000-C47FFF     (base 16)		Season Electronics Ltd
 				Hyderabad  Telangana  500032
 				IN
 
-8C-1F-64   (hex)		Fuse Energy
-E6C000-E6CFFF     (base 16)		Fuse Energy
-				One Bank Street
-				London    E14 4SG
-				GB
-
 8C-1F-64   (hex)		ViewSonic Corp
 62E000-62EFFF     (base 16)		ViewSonic Corp
 				10 Point Drive Brea
 				LA  CA  92821
 				US
+
+8C-1F-64   (hex)		Fuse Energy
+E6C000-E6CFFF     (base 16)		Fuse Energy
+				One Bank Street
+				London    E14 4SG
+				GB
 
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
@@ -43408,3 +43408,9 @@ A3F000-A3FFFF     (base 16)		ViewSonic Corp
 				10 Point Drive Brea
 				LA  CA  92821
 				US
+
+8C-1F-64   (hex)		WITCON Co., Ltd.
+11C000-11CFFF     (base 16)		WITCON Co., Ltd.
+				1516,D,60,Haan-ro
+				Gwangmyeong-si  Gyeonggi-do  14322
+				KR
