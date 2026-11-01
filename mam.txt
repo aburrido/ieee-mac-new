@@ -15644,6 +15644,12 @@ B8-F4-53   (hex)		ELS Instruments
 				Trieste    34144
 				IT
 
+B8-F4-53   (hex)		Valthor, s.r.o.
+700000-7FFFFF     (base 16)		Valthor, s.r.o.
+				Na Groši 1344/5a
+				Praha 10    102 00
+				CZ
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -31675,6 +31681,12 @@ A00000-AFFFFF     (base 16)		ViewSonic Corp
 				1st Floor, F-312, Sector-63
 				Noida  Uttar Pradesh  201301
 				IN
+
+B8-F4-53   (hex)		PA Technology Solutions Ltd
+900000-9FFFFF     (base 16)		PA Technology Solutions Ltd
+				Global Innovation And Technology CentreBack Lane
+				Melbourn  Hertfordshire  SG86DP
+				GB
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 

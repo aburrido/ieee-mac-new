@@ -26129,6 +26129,12 @@ C1A000-C1AFFF     (base 16)		ViewSonic Corp
 				LA  CA  92821
 				US
 
+8C-1F-64   (hex)		LIVTC Portugal, Lda
+282000-282FFF     (base 16)		LIVTC Portugal, Lda
+				Zona Industrial Vale da Venda, Lote 1, Armazém A-D
+				Faro  Vale da Venda  8005-412
+				PT
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -43414,3 +43420,9 @@ A3F000-A3FFFF     (base 16)		ViewSonic Corp
 				1516,D,60,Haan-ro
 				Gwangmyeong-si  Gyeonggi-do  14322
 				KR
+
+8C-1F-64   (hex)		IDNEO TECHNOLOGIES,S.A.U.
+C9C000-C9CFFF     (base 16)		IDNEO TECHNOLOGIES,S.A.U.
+				GRAN VÍA CARLOS III , 98 .PLANTA 5
+				Barcelona  Barcelona  08028
+				ES
