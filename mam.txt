@@ -31712,6 +31712,12 @@ B8-F4-53   (hex)		PA Technology Solutions Ltd
 				Melbourn  Hertfordshire  SG86DP
 				GB
 
+04-7B-43   (hex)		ACADEMY FOR FUTURE HEALTH LTD
+B00000-BFFFFF     (base 16)		ACADEMY FOR FUTURE HEALTH LTD
+				Eastcastle House, 27/28 Eastcastle Street
+				London    W1W 8DH
+				GB
+
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
 				Basadingerstrasse 18
@@ -39782,14 +39788,20 @@ A00000-AFFFFF     (base 16)		Wuxi Bravechip Technologies Co.,Ltd
 				Forest  VA  24551
 				US
 
-B8-F4-53   (hex)		Wavin T&I
-C00000-CFFFFF     (base 16)		Wavin T&I
-				Rollepaal 20
-				Dedemsvaart    7701BS
-				NL
-
 04-7B-43   (hex)		Shenzhen XJ-Micro Technology Co., Ltd.
 500000-5FFFFF     (base 16)		Shenzhen XJ-Micro Technology Co., Ltd.
 				Room 902,9th Floor, Tower A, Hongji Hanlin Building, Nanshan District, Shenzhen, Guangdong Province
 				Shenzhen  Guangdong  518055
 				CN
+
+04-7B-43   (hex)		RR Technologies GmbH
+C00000-CFFFFF     (base 16)		RR Technologies GmbH
+				Mühlenstraße 15
+				Berlin  Berlin  10243
+				DE
+
+B8-F4-53   (hex)		Wavin T&I
+C00000-CFFFFF     (base 16)		Wavin T&I
+				Rollepaal 20
+				Dedemsvaart    7701BS
+				NL
