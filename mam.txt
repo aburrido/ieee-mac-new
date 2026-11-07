@@ -15656,6 +15656,18 @@ B8-F4-53   (hex)		Valthor, s.r.o.
 				Praha 10    102 00
 				CZ
 
+04-7B-43   (hex)		ZEBO PTE LTD
+D00000-DFFFFF     (base 16)		ZEBO PTE LTD
+				60 PAYA LEBAR ROAD, #06-28, PAYA LEBAR SQUARE, SINGAPORE 409051
+				SINGAPORE    409051
+				SG
+
+04-7B-43   (hex)		RUBISEC CORPORATION 
+A00000-AFFFFF     (base 16)		RUBISEC CORPORATION 
+				Harju maakond,  Kesklinna linnaosa, Viru väljak 2, Tallinn, Estonia
+				Tallinn    10111
+				EE
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -21845,12 +21857,6 @@ D0-A0-11   (hex)		V-Count Teknoloji A.Ş.
 				SHEN ZHEN    518000
 				CN
 
-34-C8-D6   (hex)		PRIZMA GROUP DISTRIBUTION & CONSULTING D.O.O - RUBISEC
-500000-5FFFFF     (base 16)		PRIZMA GROUP DISTRIBUTION & CONSULTING D.O.O - RUBISEC
-				XVI LOKAL BR. 7 BUDVA
-				BUDVA    85310
-				ME
-
 40-F3-85   (hex)		Great Talent Technology Limited
 800000-8FFFFF     (base 16)		Great Talent Technology Limited
 				No.13 Langshan Rd,HiTech Park,Nanshan District
@@ -23818,6 +23824,12 @@ B8-F4-53   (hex)		EMPIRETECH HK LIMITED
 				ROOM B78，19/F YHC TOWER 1,SHEUNG YUET ROAD KOWLOON BAY
 				KOWLOON BAY    999077
 				HK
+
+34-C8-D6   (hex)		RUBISEC CORPORATION 
+500000-5FFFFF     (base 16)		RUBISEC CORPORATION 
+				XVI LOKAL BR. 7 BUDVA
+				BUDVA    85310
+				ME
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
