@@ -23831,6 +23831,12 @@ B8-F4-53   (hex)		Annapurna labs
 				BUDVA    85310
 				ME
 
+04-7B-43   (hex)		MERAK HVAC 
+800000-8FFFFF     (base 16)		MERAK HVAC 
+				Miguel Faraday 1
+				Getafe  Madrid  28906
+				ES
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
