@@ -26180,6 +26180,12 @@ C1A000-C1AFFF     (base 16)		ViewSonic Corp
 				Newbury  Berks  RG14 5SJ
 				GB
 
+8C-1F-64   (hex)		Shengli Technologies
+4C6000-4C6FFF     (base 16)		Shengli Technologies
+				3766 Nanhuan Road, Binjiang
+				Hangzhou    310051
+				CN
+
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
 				Suite 2, Level 3, 18 - 20 York St
@@ -34880,6 +34886,18 @@ EF6000-EF6FFF     (base 16)		UNCOMMON GROUP INC
 				Rockville  MD  20847
 				US
 
+8C-1F-64   (hex)		SCANMEG
+33E000-33EFFF     (base 16)		SCANMEG
+				3517 Boulevard de la Grande-Allee
+				Boisbriand  Quebec  J7H 1H5
+				CA
+
+8C-1F-64   (hex)		Gentec inc.
+874000-874FFF     (base 16)		Gentec inc.
+				2625 avenue Dalton
+				Quebec  QC  G1P 3S9
+				CA
+
 8C-1F-64   (hex)		Mobileye
 D63000-D63FFF     (base 16)		Mobileye
 				13 Hartom st.
@@ -43512,4 +43530,10 @@ C9C000-C9CFFF     (base 16)		IDNEO TECHNOLOGIES,S.A.U.
 CE2000-CE2FFF     (base 16)		Kova, Corp.
 				102 East Bay AvenueSuite J
 				Manahawkin  NJ  08050
+				US
+
+8C-1F-64   (hex)		KanexPro
+3BF000-3BFFFF     (base 16)		KanexPro
+				3753 Howard Hughes Pkwy, Ste 200-1083
+				Las Vegas  NV  89169
 				US

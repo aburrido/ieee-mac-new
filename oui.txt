@@ -48908,6 +48908,12 @@ D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				Beijing  Haidian District  100085
 				CN
 
+4C-A6-37   (hex)		Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
+4CA637     (base 16)		Hisense Home Appliances Group Co.,Ltd.Qingdao Branch
+				Hisense R&D center, #399 Songling Road, Qingdao, Shandong, 266000, China
+				Qingdao  Shandong  266000
+				CN
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96910,6 +96916,18 @@ A4053E     (base 16)		BSH Electrodomésticos España, S.A.
 				Ronda del Canal Imperial de Aragón, 18-20
 				Zaragoza  Zaragoza  50197
 				ES
+
+84-41-3C   (hex)		New H3C Technologies Co., Ltd
+84413C     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+84-6E-2F   (hex)		OHSUNG
+846E2F     (base 16)		OHSUNG
+				335-4,SANHODAERO,GUMI,GYEONG BUK,KOREA
+				GUMI  GYEONG BUK  730-030
+				KR
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145232,6 +145250,18 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Mountain View    94043
 				US
 
+28-1F-81   (hex)		SOXAI Inc.
+281F81     (base 16)		SOXAI Inc.
+				1102, Chuo Dai-6 Kannai Building1-2-1 Furocho, Naka-ku
+				Yokohama  Kanagawa  231-0032
+				JP
+
+B0-7E-F4   (hex)		Hangzhou HikAuto Technology Co., Ltd.
+B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
+				No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China
+				 Hangzhou  Zhejiang  310052
+				CN
+
 68-D7-70   (hex)		IoTronix Technologies Sdn. Bhd.
 68D770     (base 16)		IoTronix Technologies Sdn. Bhd.
 				No. 85A, Lintang Bayan Lepas 11, Bayan Lepas Industri Park, Phase IV.
@@ -145244,29 +145274,17 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Beijing  Haidian District  100085
 				CN
 
-88-B8-F7   (hex)		NVIDIA Corporation
-88B8F7     (base 16)		NVIDIA Corporation
-				2701 San Tomas Expressway
-				Santa Clara    95050
-				US
-
-B0-7E-F4   (hex)		Hangzhou HikAuto Technology Co., Ltd.
-B07EF4     (base 16)		Hangzhou HikAuto Technology Co., Ltd.
-				No. 399 Danfeng Road, Xixing Subdistrict, Binjiang District, Hangzhou, Zhejiang, China
-				 Hangzhou  Zhejiang  310052
-				CN
-
 20-99-EC   (hex)		1AN Inc.
 2099EC     (base 16)		1AN Inc.
 				405, Busan Knowledge Industry Center Uam, 2, Sinseon-ro, Nam-gu
 				Busan    48480
 				KR
 
-28-1F-81   (hex)		SOXAI Inc.
-281F81     (base 16)		SOXAI Inc.
-				1102, Chuo Dai-6 Kannai Building1-2-1 Furocho, Naka-ku
-				Yokohama  Kanagawa  231-0032
-				JP
+88-B8-F7   (hex)		NVIDIA Corporation
+88B8F7     (base 16)		NVIDIA Corporation
+				2701 San Tomas Expressway
+				Santa Clara    95050
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -194111,12 +194129,6 @@ B8F453     (base 16)		IEEE Registration Authority
 				Mountain View    94043
 				US
 
-34-1E-64   (hex)		Huawei Device Co., Ltd.
-341E64     (base 16)		Huawei Device Co., Ltd.
-				No.2 of Xincheng Road, Songshan Lake Zone
-				Dongguan  Guangdong  523808
-				CN
-
 2C-D7-FF   (hex)		Rohde & Schwarz Networks and Cybersecurity GmbH
 2CD7FF     (base 16)		Rohde & Schwarz Networks and Cybersecurity GmbH
 				Adenauer Straße 20 /B2
@@ -194129,11 +194141,35 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Almetyevsk  Respublika Tatarstan  423461
 				RU
 
+98-84-C1   (hex)		New H3C Technologies Co., Ltd
+9884C1     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+34-1E-64   (hex)		Huawei Device Co., Ltd.
+341E64     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 04-7B-43   (hex)		IEEE Registration Authority
 047B43     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+90-C0-46   (hex)		Hon Hai Precision Industry Co., Ltd.
+90C046     (base 16)		Hon Hai Precision Industry Co., Ltd.
+				No.2, 2nd donghuan Road, Longhua St., Longhua Dist.,
+				ShenZhen  GuangDong  518109
+				CN
+
+BC-47-D6   (hex)		Sagemcom Broadband SAS
+BC47D6     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -242449,3 +242485,27 @@ F0276E     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
 				Beijing  Beijing  100083
 				CN
+
+18-21-62   (hex)		New H3C Technologies Co., Ltd
+182162     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+4C-E2-0C   (hex)		New H3C Technologies Co., Ltd
+4CE20C     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+E4-20-0B   (hex)		Polystack Technologies Private Limited
+E4200B     (base 16)		Polystack Technologies Private Limited
+				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
+				Gurugram  HARYANA  122001
+				IN
+
+B0-0D-A8   (hex)		Sagemcom Broadband SAS
+B00DA8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR

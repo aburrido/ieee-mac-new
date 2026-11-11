@@ -15686,6 +15686,12 @@ A00000-AFFFFF     (base 16)		RUBISEC CORPORATION
 				Fremont  CA  94538
 				US
 
+04-7B-43   (hex)		CZUR TECH CO., LTD
+600000-6FFFFF     (base 16)		CZUR TECH CO., LTD
+				ROM722,Block B,Podium of Buiding NO. 12 shenzhen bay Eco-Technology Park 
+				shenzhen    518066
+				CN
+
 B8-4C-87   (hex)		Altronix , Corp
 A00000-AFFFFF     (base 16)		Altronix , Corp
 				140 58th St. Bldg A, Ste 2N
@@ -23843,17 +23849,35 @@ B8-F4-53   (hex)		EMPIRETECH HK LIMITED
 				KOWLOON BAY    999077
 				HK
 
-34-C8-D6   (hex)		RUBISEC CORPORATION 
-500000-5FFFFF     (base 16)		RUBISEC CORPORATION 
-				XVI LOKAL BR. 7 BUDVA
-				BUDVA    85310
-				ME
+04-7B-43   (hex)		EVERBLESSED TECHNOLOGY INC
+100000-1FFFFF     (base 16)		EVERBLESSED TECHNOLOGY INC
+				710 Lakeway Drive, Suite 200
+				Sunnyvale  CA  94085
+				US
+
+04-7B-43   (hex)		ShenZhen MINIOLT Technology Co., Ltd.
+300000-3FFFFF     (base 16)		ShenZhen MINIOLT Technology Co., Ltd.
+				Room 308,Building D, Zhantao Commercial Plaza, No. 376 Longhua Construction Road, Longping Community, Daliang Subdistrict, Longhua District
+				ShenZhen    518109
+				CN
 
 04-7B-43   (hex)		MERAK HVAC España S.A.U.
 800000-8FFFFF     (base 16)		MERAK HVAC España S.A.U.
 				Miguel Faraday 1
 				Getafe  Madrid  28906
 				ES
+
+34-C8-D6   (hex)		RUBISEC CORPORATION 
+500000-5FFFFF     (base 16)		RUBISEC CORPORATION 
+				XVI LOKAL BR. 7 BUDVA
+				BUDVA    85310
+				ME
+
+04-7B-43   (hex)		PEAK International
+200000-2FFFFF     (base 16)		PEAK International
+				11 Fountain Crescent
+				Glasgow    PA49RE
+				GB
 
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
@@ -39841,3 +39865,9 @@ C00000-CFFFFF     (base 16)		Wavin T&I
 				Rollepaal 20
 				Dedemsvaart    7701BS
 				NL
+
+04-7B-43   (hex)		ICsec S.A.
+700000-7FFFFF     (base 16)		ICsec S.A.
+				Wichrowa 1A
+				Poznan    60-446
+				PL
