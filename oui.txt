@@ -48896,6 +48896,24 @@ FCF684     (base 16)		MatX
 				Pyeongtaek-si  Gyeonggi-do  451-713
 				KR
 
+4C-48-D4   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+4C48D4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+80-25-D2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8025D2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+98-C0-63   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+98C063     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 D4-D9-6A   (hex)		Xiaomi Communications Co Ltd
 D4D96A     (base 16)		Xiaomi Communications Co Ltd
 				#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road
@@ -96941,6 +96959,30 @@ AC66B3     (base 16)		BUFFALO.INC
 				Nagoya  Aichi Pref.  460-8315
 				JP
 
+18-89-47   (hex)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+188947     (base 16)		HISENSE VISUAL TECHNOLOGY CO.,LTD
+				Qianwangang Road 218
+				Qingdao  Shandong  266510
+				CN
+
+78-9F-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+789F5B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D8-1E-A8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D81EA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B8-31-84   (hex)		Hewlett Packard Enterprise
+B83184     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -132938,12 +132980,6 @@ B4B5AF     (base 16)		Minsung Electronics
 				N DEVON EX38 7HP    
 				GB
 
-00-90-A5   (hex)		SPECTRA LOGIC
-0090A5     (base 16)		SPECTRA LOGIC
-				1700 N. 55TH STREET
-				BOULDER  CO  80301
-				US
-
 00-90-A3   (hex)		Corecess Inc.
 0090A3     (base 16)		Corecess Inc.
 				135-726, Keopyung B-Town 1F, 203, Nonhyu
@@ -145320,6 +145356,24 @@ B8CD2B     (base 16)		eero inc.
 5C6CBB     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-90-A5   (hex)		SPECTRA LOGIC
+0090A5     (base 16)		SPECTRA LOGIC
+				6285 Lookout RD 
+				Boulder  CO  80301
+				US
+
+74-8B-7F   (hex)		Skullcandy
+748B7F     (base 16)		Skullcandy
+				1441 Ute blvd.
+				Park City    84098
+				US
+
+58-9D-44   (hex)		Raycon
+589D44     (base 16)		Raycon
+				1115 Broadway, Suite 12
+				New York  NY  10010
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -194195,6 +194249,24 @@ C86594     (base 16)		IP Yusupov Nargiz Nakibovich
 				Piscataway  NJ  08554
 				US
 
+AC-64-60   (hex)		Nokia Solutions and Networks India Private Limited
+AC6460     (base 16)		Nokia Solutions and Networks India Private Limited
+				Plot 45, Fathima NagarNemilicherry,Chrompet
+				Chennai  Taminadu  600044
+				IN
+
+8C-05-4D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8C054D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+80-FF-60   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+80FF60     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 90-C0-46   (hex)		Hon Hai Precision Industry Co., Ltd.
 90C046     (base 16)		Hon Hai Precision Industry Co., Ltd.
 				No.2, 2nd donghuan Road, Longhua St., Longhua Dist.,
@@ -194206,12 +194278,6 @@ BC47D6     (base 16)		Sagemcom Broadband SAS
 				4 Allée des Messageries
 				Bois-Colombes  haut de seine  92270 
 				FR
-
-AC-64-60   (hex)		Nokia Solutions and Networks India Private Limited
-AC6460     (base 16)		Nokia Solutions and Networks India Private Limited
-				Plot 45, Fathima NagarNemilicherry,Chrompet
-				Chennai  Taminadu  600044
-				IN
 
 44-40-AB   (hex)		ASUSTek COMPUTER INC.
 4440AB     (base 16)		ASUSTek COMPUTER INC.
@@ -242534,11 +242600,35 @@ E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Tallapoosa  GA  30176
 				US
 
-F0-27-6E   (hex)		AltoBeam Inc.
-F0276E     (base 16)		AltoBeam Inc.
-				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
-				Beijing  Beijing  100083
+B0-0D-A8   (hex)		Sagemcom Broadband SAS
+B00DA8     (base 16)		Sagemcom Broadband SAS
+				4 Allée des Messageries
+				Bois-Colombes  haut de seine  92270 
+				FR
+
+E4-C1-D8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4C1D8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
+
+04-95-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+04958E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D4-3F-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D43F38     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+E4-20-0B   (hex)		Polystack Technologies Private Limited
+E4200B     (base 16)		Polystack Technologies Private Limited
+				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
+				Gurugram  HARYANA  122001
+				IN
 
 18-21-62   (hex)		New H3C Technologies Co., Ltd
 182162     (base 16)		New H3C Technologies Co., Ltd
@@ -242552,17 +242642,17 @@ F0276E     (base 16)		AltoBeam Inc.
 				Hangzhou  Zhejiang  310052
 				CN
 
-E4-20-0B   (hex)		Polystack Technologies Private Limited
-E4200B     (base 16)		Polystack Technologies Private Limited
-				HOUSE NO. 51 P, BASEMENT, RYANINTERNATIONAL SCHOOL, SECTOR 40,GURUGRAM, HARYANA- 122001
-				Gurugram  HARYANA  122001
+14-F4-74   (hex)		Network Orbiter Private Limited
+14F474     (base 16)		Network Orbiter Private Limited
+				C-79 4th Floor DDA Shed Okhla PH-1
+				New Delhi  Delhi  110020
 				IN
 
-B0-0D-A8   (hex)		Sagemcom Broadband SAS
-B00DA8     (base 16)		Sagemcom Broadband SAS
-				4 Allée des Messageries
-				Bois-Colombes  haut de seine  92270 
-				FR
+F0-27-6E   (hex)		AltoBeam Inc.
+F0276E     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
 
 2C-1D-BB   (hex)		Tuya Smart Inc.
 2C1DBB     (base 16)		Tuya Smart Inc.
