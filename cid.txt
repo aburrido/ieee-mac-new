@@ -266,6 +266,12 @@ CA30BF                        (base 16)                     IEEE 802.1 Working G
                                                             Piscataway  NJ  08554                        
                                                             US                                           
 
+3A-2F-B8                      (hex)                         Supracontrol d.o.o.                          
+3A2FB8                        (base 16)                     Supracontrol d.o.o.                          
+                                                            Savica I. 123                                
+                                                            Zagreb    10000                              
+                                                            HR                                           
+
 CA-C2-76                      (hex)                         Saab Seaeye Ltd                              
 CAC276                        (base 16)                     Saab Seaeye Ltd                              
                                                             20 Brunel Way                                
@@ -548,14 +554,14 @@ CAA527                        (base 16)                     Bobi
                                                             Bondy    93140                               
                                                             FR                                           
 
-FA-94-F1                      (hex)                         IEEE 802.1 Working Group                     
-FA94F1                        (base 16)                     IEEE 802.1 Working Group                     
+3A-A3-F8                      (hex)                         IEEE 802.1 Working Group                     
+3AA3F8                        (base 16)                     IEEE 802.1 Working Group                     
                                                              IEEE 802.1 Chair, c/o RAC Administrator, IEEE
                                                             Piscataway  NJ  08554                        
                                                             US                                           
 
-3A-A3-F8                      (hex)                         IEEE 802.1 Working Group                     
-3AA3F8                        (base 16)                     IEEE 802.1 Working Group                     
+FA-94-F1                      (hex)                         IEEE 802.1 Working Group                     
+FA94F1                        (base 16)                     IEEE 802.1 Working Group                     
                                                              IEEE 802.1 Chair, c/o RAC Administrator, IEEE
                                                             Piscataway  NJ  08554                        
                                                             US                                           
