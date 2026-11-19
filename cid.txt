@@ -836,6 +836,18 @@ FA8D93                        (base 16)                     Runione Tech Co., Lt
                                                             Nan Jing    211800                           
                                                             CN                                           
 
+7A-8F-27                      (hex)                         Mirai Speaker Inc.                           
+7A8F27                        (base 16)                     Mirai Speaker Inc.                           
+                                                            2-22-1, Higashi-nihonbashi                   
+                                                            Chuo-ku  Tokyo  103-0004                     
+                                                            JP                                           
+
+4A-52-66                      (hex)                         Last Lock Inc                                
+4A5266                        (base 16)                     Last Lock Inc                                
+                                                            25 West Main St STE 500                      
+                                                            Madison  WI  53703                           
+                                                            US                                           
+
 DA-C4-51                      (hex)                         Takaratomy                                   
 DAC451                        (base 16)                     Takaratomy                                   
                                                             7-9-10 Tateishi                              
