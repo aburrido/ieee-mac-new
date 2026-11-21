@@ -11183,12 +11183,6 @@ F80000-F80FFF     (base 16)		Guan Show Technologe Co., Ltd.
 				 Kaohsiung City     802
 				TW
 
-70-B3-D5   (hex)		Pneumax S.p.A.
-A60000-A60FFF     (base 16)		Pneumax S.p.A.
-				Via Cascina Barbellina 10
-				Lurano    24050
-				IT
-
 00-1B-C5   (hex)		2 FRANCE MARINE
 029000-029FFF     (base 16)		2 FRANCE MARINE
 				61, route de la Chapelle de Rousse
@@ -17494,6 +17488,12 @@ EC7000-EC7FFF     (base 16)		Linglume (Shanghai) Technology Co., Ltd
 				1st Floor, Building 2, No. 18 Fangsi Highway
 				Shanghai  Shanghai  201601
 				CN
+
+70-B3-D5   (hex)		Pneumax Spa
+A60000-A60FFF     (base 16)		Pneumax Spa
+				Via Cascina Barbellina 10
+				Lurano    24050
+				IT
 
 8C-1F-64   (hex)		Vision Systems Safety Tech
 E6F000-E6FFFF     (base 16)		Vision Systems Safety Tech
@@ -25706,12 +25706,6 @@ C84000-C84FFF     (base 16)		Luceor
 				Inage-ku Chiba  Chiba  2630002
 				JP
 
-8C-1F-64   (hex)		ChamSys 
-143000-143FFF     (base 16)		ChamSys 
-				Unit 5Adanac Park
-				southampton  Hampshire   SO16 0BT
-				GB
-
 8C-1F-64   (hex)		Currux Vision LLC
 66B000-66BFFF     (base 16)		Currux Vision LLC
 				520 Post Oak Boulevard, Suite 260
@@ -26275,6 +26269,12 @@ F00000-F00FFF     (base 16)		GVision Italia S.r.l.
 				Via Prealpi 13
 				Giussano  MB  20833
 				IT
+
+8C-1F-64   (hex)		Chamsys Ltd
+143000-143FFF     (base 16)		Chamsys Ltd
+				Unit 5Adanac Park
+				southampton  Hampshire   SO16 0BT
+				GB
 
 8C-1F-64   (hex)		Flow Power
 82B000-82BFFF     (base 16)		Flow Power
@@ -43669,3 +43669,15 @@ EDB000-EDBFFF     (base 16)		ADL Systems
 				3855 SW 153rd Drive
 				Beaverton  OR  97003
 				US
+
+8C-1F-64   (hex)		Rax-Tech International
+D4B000-D4BFFF     (base 16)		Rax-Tech International
+				5th floor, 5/391 Kaleeswari towerTambaram-Velachery Main road, Medavakkam
+				Chennai  Tamil Nadu  600100
+				IN
+
+8C-1F-64   (hex)		Shenzhen Yahboom Technology Co.,Ltd.
+484000-484FFF     (base 16)		Shenzhen Yahboom Technology Co.,Ltd.
+				Rooms 701 and 704, Building B, Block 7, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Community, Xili Subdistrict, Nanshan District
+				Shenzhen  Guangdong  518055
+				CN

@@ -1865,7 +1865,6 @@ MA-S,70B3D51BF,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhin
 MA-S,70B3D518F,Newtec A/S,Stærmosegårdsvej  18 Odense SV Region Syd DK 5230 
 MA-S,70B3D5A7F,AUDIO VISUAL DIGITAL SYSTEMS,"PLOT NO.180 PHASE V SECTOR56, HSIIDC I.E KUNDLI SONEPAT SONEPAT HARYANA IN 131028 "
 MA-S,70B3D5F80,"Guan Show Technologe Co., Ltd.","No.127, Jianguo 1st Rd., Lingya Dist.  Kaohsiung City   TW 802 "
-MA-S,70B3D5A60,Pneumax S.p.A.,Via Cascina Barbellina 10 Lurano  IT 24050 
 MA-S,001BC5029,2 FRANCE MARINE,"61, route de la Chapelle de Rousse GAN  FR 64290 "
 MA-S,70B3D54FD,ENLESS WIRELESS,45 TER AVENUE DE VERDUN BRUGES  FR 33520 
 MA-S,70B3D586A,Stealth Communications,"1 Penn Plaza, Suite 6308 New York NY US 10119 "
@@ -2919,6 +2918,7 @@ MA-S,8C1F64BE7,Nokia,600 March Road Kanata Ontario CA K2K 2E6
 MA-S,8C1F64667,FireHUD Inc. d.b.a SlateSafety,229 Peachtree St. NE STE 1970 Atlanta GA US 30303 
 MA-S,8C1F645AB,G.O. Engineering GmbH,Oberkirchweg 38 Bühl Baden-Württemberg DE 77815 
 MA-S,8C1F64EC7,"Linglume (Shanghai) Technology Co., Ltd","1st Floor, Building 2, No. 18 Fangsi Highway Shanghai Shanghai CN 201601 "
+MA-S,70B3D5A60,Pneumax Spa,Via Cascina Barbellina 10 Lurano  IT 24050 
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -4290,7 +4290,6 @@ MA-S,8C1F6449A,Sigmann Elektronik GmbH,Hauptstrasse 53 Hueffenhardt  DE 74928
 MA-S,8C1F64528,Luxshare Electronic Technology (KunShan) Ltd,"No. 699 Jinshang Road, Jinxi Town, Kunshan City, Jiangsu Province Kunshan  Jiangsu CN 215300 "
 MA-S,8C1F64C84,Luceor,3 Rue Michael Faraday Montigny-le-Bretonneux  FR 78180 
 MA-S,8C1F64259,"SHODEN Co., Ltd.","365, Sannocho Inage-ku Chiba Chiba JP 2630002 "
-MA-S,8C1F64143,ChamSys , Unit 5 Adanac Park southampton Hampshire  GB SO16 0BT 
 MA-S,8C1F6466B,Currux Vision LLC,"520 Post Oak Boulevard, Suite 260 Houston TX US 77027 "
 MA-S,8C1F64134,LyconSys GmbH & Co.KG,Hildegardstr. 12A Bad Nauheim  DE 61231 
 MA-S,8C1F64036,Photon Counting Systems LLC,950 Danby Road Ithaca NY US 14850 
@@ -4385,6 +4384,7 @@ MA-S,8C1F6493C,Konzept Informationssysteme GmbH,Am Weiher 13 Meersburg  DE 88709
 MA-S,8C1F64DBC,QHR Mothership LLC,1001 S Main St Kalispell  US 59901 
 MA-S,8C1F649F3,Vardaan Electronics Industries Pvt. Ltd.,"A-184, Sector-63, Noida, Uttar Pradesh - 201301 Noida Uttar Pradesh IN 201301 "
 MA-S,8C1F64F00,GVision Italia S.r.l.,Via Prealpi 13 Giussano MB IT 20833 
+MA-S,8C1F64143,Chamsys Ltd, Unit 5 Adanac Park southampton Hampshire  GB SO16 0BT 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -7293,3 +7293,5 @@ MA-S,8C1F64355,"FAH TECH CO.,LTD","338-15, UCHIWARIDENHAKAHIGASHI, KISOGAWA-MACH
 MA-S,8C1F64EDB,ADL Systems,Olgi Berggolts 35A Saint-Petersburg   RU 192148 
 MA-S,8C1F642E9,DataCatcher,"380 Hyoryeong-ro, Seocho-gu Seoul  KR 06727 "
 MA-S,8C1F64172,OPEN Alliance,3855 SW 153rd Drive Beaverton OR US 97003 
+MA-S,8C1F64D4B,Rax-Tech International,"5th floor, 5/391 Kaleeswari towerTambaram-Velachery Main road, Medavakkam Chennai Tamil Nadu IN 600100 "
+MA-S,8C1F64484,"Shenzhen Yahboom Technology Co.,Ltd.","Rooms 701 and 704, Building B, Block 7, Shenzhen International Innovation Valley, Dashi 1st Road, Xili Community, Xili Subdistrict, Nanshan District Shenzhen Guangdong CN 518055 "
