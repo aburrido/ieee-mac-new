@@ -750,14 +750,14 @@ EtherType,88EB,Hewlett Packard Enterprise,3333 Scott Blvd 6280 America Center Dr
 EtherType,8949,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 ",Mellanox Remote Mirror Encapsulation
 EtherType,E790,Ultra Ethernet Consortium,"The Linux Foundation Joint Development Foundation Attn: Ultra Ethernet Consortium Project 548 Market St, PMB 57274 San Francisco CA US 94104-5401 ","Ultra Ethernet Transport Protocol (UET)
 "
-EtherType,88CC,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB 
-EtherType,8808,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ","8808 MAC Control as defined in IEEE Std 802.3
-8809 Slow Protocols as defined in IEEE Std 802.3"
 EtherType,8940,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Edge Control Protocol (ECP) defined in IEEE Std 802.1Q for use with IEEE Std 802.1BR
+EtherType,88CC,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Link Layer Discovery Protocol (LLDP) defined in IEEE Std 802.1AB 
 EtherType,22EA,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Stream Reservation Protocol (SRP) defined in IEEE Std 802.1Q
 EtherType,88B6,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Local Experimental EtherType 2 as defined in IEEE Std 802.  This EtherType value is available for public use and for prototype and vendor-specific protocol development.
 EtherType,88F5,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ","Multiple VLAN Registration Protocol (MVRP) defined in IEEE Std 802.1Q 
 "
+EtherType,8808,IEEE 802.3 Working Group,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE  Piscataway NJ US 08854 ","8808 MAC Control as defined in IEEE Std 802.3
+8809 Slow Protocols as defined in IEEE Std 802.3"
 EtherType,8921,"Cisco Systems, Inc",3850 Zanker Rd. San Jose CA US 95134 ,Decline to disclose. Cisco Proprietary
 EtherType,0400,Private,,Invalid as an EtherType value since 1983
 EtherType,0103,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
@@ -3074,8 +3074,8 @@ EtherType,886A,"Electronic Theatre Controls, Inc.",3031 Pleasant View Rd Middlet
 EtherType,8934,Phoenix Contact GmbH & Co. KG,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 EtherType,8923,Phoenix Contact GmbH & Co. KG,Dringenauer Strasse 30 Bad Pyrmont Lower Saxony DE D-31812 ,Protocol unavailable
 EtherType,88B7,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",OUI Extended EtherType as defined in IEEE Std 802. This EtherType value is available for public use and for prototype and vendor-specific protocol development.
-EtherType,0842,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Wake-on-LAN (WoL) as described in IEEE Std. 802
 EtherType,8917,IEEE 802.21 Working Group,"IEEE 802.21 Chair, c/o RAC Administrator IEEE Piscataway NJ US 08854 ",Media Independent Handover Protocol as defined in IEEE Std 802.21
+EtherType,0842,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 ",Wake-on-LAN (WoL) as described in IEEE Std. 802
 EtherType,0101,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,0168,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
 EtherType,016D,Xerox (Experimental), Webster NY US  ,Invalid as an EtherType value since 1983
