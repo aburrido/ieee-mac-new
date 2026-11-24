@@ -70,6 +70,7 @@ MANUFACTURER ID               Organization
 2846                          ISOTELpower d.o.o.
 12403                         KEM Flow Measurement GmbH
 6154                          Transcell Technology Inc.
+6367                          iButtonLink, LLC
 6893                          Messotron GmbH & Co. KG
 11418                         Delta Solutions LLC
 11699                         Mantracourt Electronics Ltd

@@ -8111,6 +8111,12 @@ A00000-AFFFFF     (base 16)		Entrust Security UK Limited
 				Ontario  CA  91761
 				US
 
+0C-45-C6   (hex)		Hefei BOE Vision-electronic Technology Co.,Ltd.
+B00000-BFFFFF     (base 16)		Hefei BOE Vision-electronic Technology Co.,Ltd.
+				No.2177 Dongfang RD,Xinzhan General Pilot Zone,Hefei,Anhui,230012,P.R.China
+				Hefei  Anhui  230012
+				CN
+
 B8-4C-87   (hex)		Shenzhen Link-all Technology Co., Ltd
 300000-3FFFFF     (base 16)		Shenzhen Link-all Technology Co., Ltd
 				Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China 
@@ -15725,15 +15731,15 @@ A00000-AFFFFF     (base 16)		RUBISEC CORPORATION
 				NAVI MUMBAI  MAHARASHTRA  400709
 				IN
 
-5C-6C-BB   (hex)		Shenzhen Dangzhi Technology Co., Ltd.
-200000-2FFFFF     (base 16)		Shenzhen Dangzhi Technology Co., Ltd.
-				Room 1309, Building A7, Chuangzhi Cloud City, Xili Street, Nanshan District, Shenzhen, China
-				Shenzhen  Guangdong  518000
-				CN
-
 5C-6C-BB   (hex)		Shenzhen Xiangyou IoT Co.,Ltd.
 E00000-EFFFFF     (base 16)		Shenzhen Xiangyou IoT Co.,Ltd.
 				Room 603-1, Building A, No. 7, Dahuanggong Industrial Zone, No. 88 Zhugaotang Road, Pinghu Community, Pinghu Subdistrict, Longgang District
+				Shenzhen  Guangdong  518000
+				CN
+
+5C-6C-BB   (hex)		Shenzhen Dangzhi Technology Co., Ltd.
+200000-2FFFFF     (base 16)		Shenzhen Dangzhi Technology Co., Ltd.
+				Room 1309, Building A7, Chuangzhi Cloud City, Xili Street, Nanshan District, Shenzhen, China
 				Shenzhen  Guangdong  518000
 				CN
 
@@ -23942,6 +23948,12 @@ B8-F4-53   (hex)		EMPIRETECH HK LIMITED
 				New Taipei City    22145
 				TW
 
+0C-45-C6   (hex)		Shenzhen Jingheng Digital Technology Co., Ltd.
+D00000-DFFFFF     (base 16)		Shenzhen Jingheng Digital Technology Co., Ltd.
+				Room 201, Block B, Zhantao Commercial Plaza, Tenglong Rd, Longhua,Shenzhen
+				Shenzhen  GuangDong  518000
+				CN
+
 D0-14-11   (hex)		P.B. Elettronica srl
 100000-1FFFFF     (base 16)		P.B. Elettronica srl
 				Via Santorelli, 8
@@ -31858,6 +31870,12 @@ C00000-CFFFFF     (base 16)		Swegon ILTO Oy
 				802 E 1050 S Suite 300
 				American Fork  UT  84003
 				US
+
+0C-45-C6   (hex)		Nokia
+400000-4FFFFF     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 C8-5C-E2   (hex)		Fela Management AG 
 000000-0FFFFF     (base 16)		Fela Management AG 
@@ -39953,12 +39971,6 @@ C00000-CFFFFF     (base 16)		Wavin T&I
 				Poznan    60-446
 				PL
 
-5C-6C-BB   (hex)		BackburnerLabs
-B00000-BFFFFF     (base 16)		BackburnerLabs
-				2327 WYCLIFF ST, STE 330
-				SAINT PAUL  MN  55114
-				US
-
 5C-6C-BB   (hex)		Xieneix LLC
 400000-4FFFFF     (base 16)		Xieneix LLC
 				1810 N Glenville Dr. Suite 108
@@ -39970,3 +39982,9 @@ B00000-BFFFFF     (base 16)		BackburnerLabs
 				Building 2, Yingfeng Industrial Zone, Tantou Community, Songgang Street, Bao'an District
 				Shenzhen  Guangzhou  51800
 				CN
+
+5C-6C-BB   (hex)		BackburnerLabs
+B00000-BFFFFF     (base 16)		BackburnerLabs
+				2327 WYCLIFF ST, STE 330
+				SAINT PAUL  MN  55114
+				US
